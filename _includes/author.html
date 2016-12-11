@@ -1,0 +1,31 @@
+{% for a in site.authors %}
+  {% if a.username == page.author %}
+    {% assign author = a %}
+    {% break %}
+  {% endif %} 
+{% endfor %}
+
+<h4>Tentang Penulis</h4>
+<div class="media author-info">
+  <div class="media-left author-avatar">
+    {% if author.image %}
+      <img class="media-object" src="{{ author.image }}">
+    {% elsif author.github %}
+      <img class="media-object" src="https://github.com/{{ author.github }}.png?size=96">
+    {% else %}
+      <img class="media-object" src="{{ author.image }}">
+    {% endif %}
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading author-name">
+      {% if author.website %}
+        <a href="/author/{{ author.username }}">{{ author.fullname }}</a>
+      {% else %}
+        {{ author.name }}
+      {% endif %}
+    </h4> 
+    <div class="author-bio">  
+        {{ author.content | markdownify }}
+    </div> 
+  </div>
+</div>

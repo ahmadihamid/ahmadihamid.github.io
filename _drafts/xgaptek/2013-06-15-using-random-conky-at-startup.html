@@ -1,0 +1,12 @@
+---
+layout: post
+title: using random conky at startup
+date: '2013-06-15T20:36:00.001+07:00'
+author: xgaptek
+tags: 
+modified_time: '2013-06-15T20:36:26.936+07:00'
+blogger_id: tag:blogger.com,1999:blog-7768258105061442044.post-3114803200382111119
+blogger_orig_url: http://xgaptek.blogspot.com/2013/06/using-random-conky-at-startup.html
+---
+
+Assalamualaykum,<br /><br />a few days ago this thing came to my mind,<br />since I loves to download many conky config,<br />I have many of 'em in my home folder,<br />maybe so all of ya,<br /><img class="border" id="info-image" src="http://i.imgur.com/zkYG5.png" /><br />so why we don't use 'em all,<br />then we need some script to pick them (in this case randomly) at start up,<br />then fire up them,<br />so ya all can have differ conky-config every times computer booted-up,<br /><a name='more'></a><br /><img class="border" id="info-image" src="http://i.imgur.com/cRLSn.png" /><br />so this is my lil script,<br />here we need a file that contain path to all conky script let's call it "kumpul"<br /><br /><pre style="background-color: #eeeeee; border: 1px dashed #999999; color: black; font-family: Andale Mono, Lucida Console, Monaco, fixed, monospace; font-size: 12px; line-height: 14px; overflow: auto; padding: 5px; width: 100%;"><code style="color: black; word-wrap: normal;"><br /><br />#!/bin/bash <br />sleep 2<br />random="`cat /path/to/kumpul | sort --random-sort | head -n 1`"<br />/usr/bin/conky --config=$random<br />exit 0     </code><br /> </pre>i.e :<br /><br /><pre style="background-color: #eeeeee; border: 1px dashed #999999; color: black; font-family: Andale Mono, Lucida Console, Monaco, fixed, monospace; font-size: 12px; line-height: 14px; overflow: auto; padding: 5px; width: 100%;"><code style="color: black; word-wrap: normal;"><br /><br />#!/bin/bash <br />sleep 2<br />acak="`cat /home/xgaptek/.Conky/kumpul | sort --random-sort | head -n 1`"<br />/usr/bin/conky --config=$acak<br />exit 0     </code><br /> </pre>just save it as blabla.sh -- make executable -- and put on start up.<br /><br />simple huh?<br /><img class="border" id="info-image" src="http://i.imgur.com/hTDV8.png" /><br />have fun!!<br />jaaaaa ne.<br /><br />NB : have a question? put it down there...<br /><br />

