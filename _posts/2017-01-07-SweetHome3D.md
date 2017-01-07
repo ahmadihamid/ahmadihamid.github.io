@@ -6,7 +6,7 @@ comments: true
 author: ahmadi
 --- 
 
-Saya bukanlah ahli di bidang desain, beberapa orang diberi karunia jiwa seni, yang lainnya logika analitis, dan sayangnya saya **bukan** keduanya.
+Saya bukanlah ahli di bidang desain, beberapa orang diberi karunia `jiwa seni`, yang lainnya `logika analitis`, dan sayangnya saya **bukan** keduanya.
 
 Namun seringkali saya dihadapkan dengan persoalan yang seharusnya buat dua orang tadi. Semisal diminta membuat sebuah desain denah ruang di tempat kerja, sampai pengalaman ~~traumatis~~ diminta berpartisipasi lomba menyanyi sewaktu kecil.
 
