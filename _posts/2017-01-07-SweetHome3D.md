@@ -27,8 +27,8 @@ Buat sistem operasi ArchLinux :
 Buat sistem operasi lain silakan merujuk ke [tautan ini.](http://www.sweethome3d.com/userGuide.jsp#Installation)   
 
 Berikut adalah antar muka sweethome3d :
-<img border="0" src="/img/sh3d-antarmuka.png" style="float:left; margin-right:10px"/>
 
+<img border="0" src="/img/sh3d-antarmuka.png" style="float:left; margin:10px"/>
 
 - Panel 1 : daftar furnitur.
 - Panel 2 : di sini tempat kita menggambar desain/cetak biru dengan menambahkan furnitur dari panel 1, atau toolbar di atasnya.
