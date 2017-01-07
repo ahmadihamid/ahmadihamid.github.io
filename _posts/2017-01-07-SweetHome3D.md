@@ -42,8 +42,11 @@ Untuk menggambar dinding, gunakan tombol *Create walls*, kemudian tentukan titik
 Menambahkan pintu dan jendela dilakukan dengan memilihnya dari `Panel 1` kemudian menyeretnya ke dinding di `Panel 2`. Untuk furnitur kita dapat menempatkannya di posisi yang diinginkan. Kita mungkin perlu menyesuaikan ukuran dari 3 objek tersebut di `Panel 3` agar terlihat proporsoional.
 
 - Ekspor Gambar
+
 <img border="0" src="/img/sh3d-eksporgambar.png"/>
+
 SweetHome3D memiliki fitur untuk membuat gambar 3D atau video dari desain yang kita buat melalui menu 3D view - Create photo. Kita dapat melakukan bebrapa konfigurasi seperti : pencahayaan, jam diambil gambar (berpengaruh ke efek cahaya matahari), dan kualitas gambar. Proses *rendering* dapat memakan waktu yang cukup lama, perlu kesabaran apalagi jika gambar dibuat dengan kualitas tinggi.
+
 <img border="0" src="/img/sh3d-denah.bmp"/>
 
 Selamat ~~menyanyi~~ mencoba.
