@@ -29,10 +29,12 @@ Buat sistem operasi lain silakan merujuk ke [tautan ini.](http://www.sweethome3d
 Berikut adalah antar muka sweethome3d :
 <img border="0" src="/img/sh3d-antarmuka.png" style="float:left; margin-right:10px"/>
 
+
 - Panel 1 : daftar furnitur.
 - Panel 2 : di sini tempat kita menggambar desain/cetak biru dengan menambahkan furnitur dari panel 1, atau toolbar di atasnya.
 - Panel 3 : di sini kita mengatur ukuran dari furnitur yang ditambahkan.
 - Panel 4 : tampilan 3D dari desain yang telah dibuat.
+
 
 **Tutorial Singkat**
 
