@@ -19,9 +19,11 @@ Yang akan kita bahas sekarang bukan soal bagaimana menyanyi walau anda seorang `
 **Pemasangan Aplikasi**
 
 Buat sistem operasi ArchLinux :
+
 ```shell
 # pacman -S sweethome3d
 ```
+
 Buat sistem operasi lain silakan merujuk ke [tautan ini.](http://www.sweethome3d.com/userGuide.jsp#Installation)   
 
 Berikut adalah antar muka sweethome3d :
