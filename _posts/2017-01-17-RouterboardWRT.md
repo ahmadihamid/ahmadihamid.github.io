@@ -12,6 +12,7 @@ category: jaringan
 Menggganti sistem operasi bawaan Mikrotik (`RouterOS`) dengan `LEDE`/`OpenWRT` mungkin merupakan pilihan bagus buat kamu yang lebih suka buka-bukaan (baca : `OpenSource`) atau buat para *Power User* yang mau bangun sendiri paket perangkat lunak yang digunakan atau justru membangun sendiri sistem operasi, karena LEDE/OpenWRT lebih fleksibel dibanding RouterOS. Walau RouterOS versi 4 sudah mendukung fitur `MetaROUTER`. Metarouter merupakan fitur yang memungkinkan RouterOS untuk menjalankan OpenWRT secara virtual berdampingan dengan RouterOS.
 
 Saya sendiri punya alasan lain yaitu terlalu banyak fitur bawaan RouterOS yang tidak terpakai buat pengguna rumahan seperti saya, pun sebenarnya saya juga orang yang suka **buka-bukaan**. 
+
 :blush:
 
 
@@ -63,7 +64,7 @@ cd source
 make menuconfig #membuat file .config spesifik untuk router.
 ```
 
-<img border="0" src="/img/rbWRT-menuconfig.png" width=70% style="float:left; margin:10px"/>
+<img border="0" src="/img/rbWRT-menuconfig.png" width=70%; style="float:left; margin:10px"/>
 
 selesai membuat file .config sesuai kebutuhan router (perhatikan dokumentasi/ToH untuk hal ini), kita akan meng-compile dengan perintah :
 
@@ -218,7 +219,7 @@ Selesai.
 
  :sleepy:
  
- Selamat buka-bukaan.
+Selamat buka-bukaan.
  
   :grinning:
 
