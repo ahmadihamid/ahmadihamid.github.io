@@ -119,7 +119,7 @@ Sekian panjang kita bercerita tapi belum menjamah samasekali ke Perangkat Mikrot
 - System → Routerboard → Settings → Boot protocol: DHCP
 - System → Routerboard → Settings → Ceklis pilihan "Force Backup Booter" 
 
-Cabut power Mikrotik, hubungkan kabel lan ke port1 (`wan`/`internet`), dan hidupkan lagi RouterBoard, berikut adalah pesan yang keluar dari script tftp server yang kita jalankan :
+Cabut power Mikrotik, hubungkan kabel lan ke *port1* (`wan`/`internet`), dan hidupkan lagi RouterBoard, berikut adalah pesan yang keluar dari script tftp server yang kita jalankan :
 
 ```shell
 ~ ❯ sudo ./loader.sh                                                          ⏎
@@ -200,7 +200,7 @@ dnsmasq-dhcp: 1321268380 sent size:  4 option: 28 broadcast  192.168.1.255
 dnsmasq-dhcp: 1321268380 sent size:  4 option:  3 router  192.168.1.10
 ```
 
-dari output di atas kita bisa lihat RouterBoard mendapatkan ip 192.168.1.131 dan file ramdisk berhasil dikirimkan.
+dari output di atas kita bisa lihat RouterBoard mendapatkan IP 192.168.1.131 dan file ramdisk berhasil dikirimkan.
 
 ```shell
 ...
@@ -210,9 +210,9 @@ dnsmasq-tftp: sent /home/annajm/lede-ar71xx-mikrotik-vmlinux-initramfs.elf to 19
 ...
 ```
 
-Pada tahapan ini LEDE telah di-boot pada RAM RouterBoard. Kita bisa mengakses LEDE melalui LuCi atau ssh untuk melakukan flashing menggunakan file squashfs dan menanamkan firware secara permanen ke RouterBoard.
+Pada tahapan ini LEDE telah di-boot pada RAM RouterBoard. Kita bisa mengakses LEDE melalui LuCi atau ssh untuk melakukan *flashing* menggunakan file squashfs dan menanamkan firmware secara permanen ke RouterBoard.
 
-Cabut kabel lan dari port 1 dan hubungkan ke port lan 2/3/4/dst, karena administrasi router tidak dapat dilakukan melalui port `wan`.
+Cabut kabel lan dari *port1* dan hubungkan ke *port* `lan` 2/3/4/dst, karena administrasi router tidak dapat dilakukan melalui port `wan`.
 
 Akses LuCi melalui IP 192.168.1.1
 
