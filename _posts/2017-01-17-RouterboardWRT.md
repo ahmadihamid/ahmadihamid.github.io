@@ -9,7 +9,7 @@ category: jaringan
 
 <img border="0" src="/img/rbWRT.png" style="float:left; margin:10px"/>
 
-Menggganti sistem operasi bawaan Mikrotik (`RouterOS`) dengan `LEDE`/`OpenWRT` mungkin layak pilih buat kamu yang lebih suka buka-bukaan (baca : `OpenSource`) atau buat para *Power User* yang mau bangun sendiri paket perangkat lunak yang digunakan atau justru membangun sendiri sistem operasi, karena LEDE/OpenWRT lebih fleksibel dibanding RouterOS. Walau RouterOS versi 4 sudah mendukung fitur `MetaROUTER`. Metarouter merupakan fitur yang memungkinkan Mikrotik RouterBoard untuk menjalankan OpenWRT secara virtual berdampingan dengan RouterOS.
+Menggganti sistem operasi bawaan Mikrotik (`RouterOS`) dengan `LEDE`/`OpenWRT` mungkin layak pilih buat kamu yang lebih suka buka-bukaan (baca : `OpenSource`) atau buat para *Power User* yang mau bangun sendiri paket perangkat lunak yang digunakan atau justru membangun sendiri sistem operasinya, karena LEDE/OpenWRT lebih fleksibel dibanding RouterOS. Walau RouterOS versi 4 sudah mendukung fitur `MetaROUTER`. Metarouter merupakan fitur yang memungkinkan Mikrotik RouterBoard untuk menjalankan OpenWRT secara virtual berdampingan dengan RouterOS.
 
 Saya sendiri punya alasan lain yaitu terlalu banyak fitur bawaan RouterOS yang tidak terpakai buat pengguna rumahan seperti saya, pun sebenarnya saya juga orang yang suka **buka-bukaan**. 
 
