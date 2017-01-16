@@ -232,7 +232,7 @@ Selamat buka-bukaan.
 
 [https://lede-project.org/docs/guide-developer/the-source-code](https://lede-project.org/docs/guide-developer/the-source-code) 
 
-[https://wiki.openwrt.org/doc/howto/buildroot.exigence#Table](https://wiki.openwrt.org/doc/howto/buildroot.exigence#Table) 
+[https://wiki.openwrt.org/doc/howto/buildroot.exigence](https://wiki.openwrt.org/doc/howto/buildroot.exigence) 
 
 [https://wiki.openwrt.org/toh/mikrotik/common](https://wiki.openwrt.org/toh/mikrotik/common) 
 
