@@ -92,7 +92,7 @@ dnsmasq -i enp1s0 --dhcp-range=192.168.1.100,192.168.1.200 \
 
 Ubah variabel dns di file `/etc/NetworkManager/NetworkManager.conf` menjadi :
 
-```shel
+```shell
 dns=dnsmasq
 ```
 
