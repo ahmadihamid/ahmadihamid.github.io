@@ -64,9 +64,9 @@ cd source
 make menuconfig #membuat file .config spesifik untuk router.
 ```
 
-<img border="0" src="/img/rbWRT-menuconfig.png" width="70%" style="float:left; margin:10px"/>
+<img border="0" src="/img/rbWRT-menuconfig.png" width="65%" style="float:left; margin:7px"/>
 
-selesai membuat file .config sesuai kebutuhan router (perhatikan dokumentasi/ToH untuk hal ini), kita akan meng-compile dengan perintah :
+selesai membuat file `.config` sesuai kebutuhan router (perhatikan dokumentasi/ToH untuk hal ini), kita akan meng-compile dengan perintah :
 
 ```shell
 make -j1 V=s
