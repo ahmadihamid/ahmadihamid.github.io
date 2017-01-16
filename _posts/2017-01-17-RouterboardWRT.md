@@ -16,14 +16,17 @@ Saya sendiri punya alasan lain yaitu terlalu banyak fitur bawaan RouterOS yang t
 😊
 
 **Tahap 1 : Periksa Dukungan**
+
 Hal pertama yang kita lakukan yaitu memeriksa dukungan LEDE untuk perangkat di [ToH](https://wiki.openwrt.org/toh/start). Perangkat yang saya gunakan (rb941-2nd) ternyata belum memiliki dukungan dari LEDE. Untungnya berkah buka-bukaan ada yang membuat [patch](http://patchwork.ozlabs.org/patch/711136/raw/)  yang dapat saya gunakan untuk membangun LEDE untuk `rb941-2nd`.
 
 😌
 
 **Tahap 2 : Membangun Firmware**
+
 Jika ternyata perangkat kamu didukung oleh LEDE, kamu bisa langsung mengunduh firmware yg tersedia dan mengabaikan tahap ini. Di tahap ini saya ~~terpaksa~~ meng-compile sendiri firmware untuk mikrotik rb941-2nd. Jika kamu memiliki rb941-2nd yang sama dengan saya, kamu bisa unduh [di sini](https://github.com/ahmadihamid/rb941-2nd-LEDE/releases).
 
 **Memasang Dependensi**
+
 Pasang semua dependensi yang dibutuhkan untuk membangun firmware, kebutuhan depedensi dapat dilihat [di sini](https://wiki.openwrt.org/doc/howto/buildroot.exigence).
 
 **Mengunduh Kode Sumber**
@@ -33,6 +36,7 @@ git clone https://git.lede-project.org/source.git
 ````
 
 **Menerapkan patch**
+
 Konfigurasi quilt :
 
 ```shell
@@ -74,6 +78,7 @@ make -j1 V=s
 proses *compile* akan memakan waktu yang cukup lama bergantung dari spesifikasi komputer yang digunakan, dan membutuhkan koneksi internet untuk mengunduh beberapa kode sumber dari paket yang akan dipasang.
 
 **Tahap 3 : Ramdisk Boot**
+
 Kita enggak bisa langsung melakukan flashing firmware LEDE ke Mikrotik Routerboard melalui RouterOS, flashing akan dilakukan melalui LEDE yang diboot ke RAM melalui `DHCP/TFTP` server. Karena saya enggak punya DHCP/TFTP server maka saya menggunakan script berikut di laptop dengan OS `ArchLinux` :
 
 ```shell
