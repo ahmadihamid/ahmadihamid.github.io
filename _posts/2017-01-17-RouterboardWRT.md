@@ -13,13 +13,12 @@ Menggganti sistem operasi bawaan Mikrotik (`RouterOS`) dengan `LEDE`/`OpenWRT` m
 
 Saya sendiri punya alasan lain yaitu terlalu banyak fitur bawaan RouterOS yang tidak terpakai buat pengguna rumahan seperti saya, pun sebenarnya saya juga orang yang suka **buka-bukaan**. 
 
-:blush:
-
+😊
 
 **Tahap 1 : Periksa Dukungan**
 Hal pertama yang kita lakukan yaitu memeriksa dukungan LEDE untuk perangkat di [ToH](https://wiki.openwrt.org/toh/start). Perangkat yang saya gunakan (rb941-2nd) ternyata belum memiliki dukungan dari LEDE. Untungnya berkah buka-bukaan ada yang membuat [patch](http://patchwork.ozlabs.org/patch/711136/raw/)  yang dapat saya gunakan untuk membangun LEDE untuk `rb941-2nd`.
 
- :relieved:
+😌
 
 **Tahap 2 : Membangun Firmware**
 Jika ternyata perangkat kamu didukung oleh LEDE, kamu bisa langsung mengunduh firmware yg tersedia dan mengabaikan tahap ini. Di tahap ini saya ~~terpaksa~~ meng-compile sendiri firmware untuk mikrotik rb941-2nd. Jika kamu memiliki rb941-2nd yang sama dengan saya, kamu bisa unduh [di sini](https://github.com/ahmadihamid/rb941-2nd-LEDE/releases).
@@ -106,8 +105,9 @@ Restart NetworkManager
 ...
 
 Sekian panjang kita bercerita tapi belum menjamah samasekali ke Perangkat Mikrotik Routerboard. Yuk kita jamahi sekrang!
- :kissing_smiling_eyes:
- 
+
+😙
+
  Lakukan konfigurasi berikut pada RouterBoard agar RouterBoard Mikrotik mencoba melakukan booting dari DHCP/TFTP server saat pertama dihidupkan (hanya sekali),
  
 - System → Routerboard → Settings → Boot device: Try ethernet once then NAND
@@ -217,11 +217,11 @@ Flash Firmware.
 
 Selesai.
 
- :sleepy:
- 
+😪
+
 Selamat buka-bukaan.
  
-  :grinning:
+😀
 
 ***Referensi :***
 
