@@ -17,7 +17,7 @@ Saya sendiri punya alasan lain yaitu terlalu banyak fitur bawaan RouterOS yang t
 
 **Tahap 1 : Periksa Dukungan**
 
-Hal pertama yang kita lakukan yaitu memeriksa dukungan LEDE untuk perangkat di [ToH](https://wiki.openwrt.org/toh/start). Perangkat yang saya gunakan (`rb941-2nd`) ternyata belum memiliki dukungan dari LEDE. Untungnya berkah buka-bukaan ada yang membuat [patch](http://patchwork.ozlabs.org/patch/711136/raw/)  yang dapat saya gunakan untuk menambahkan dukungan buat perangkat rb941-2nd.
+Hal pertama yang kita lakukan yaitu memeriksa dukungan LEDE untuk perangkat di [ToH](https://lede-project.org/toh/start). Perangkat yang saya gunakan (`rb941-2nd`) ternyata belum memiliki dukungan dari LEDE. Untungnya berkah buka-bukaan ada yang membuat [patch](http://patchwork.ozlabs.org/patch/711136/raw/)  yang dapat saya gunakan untuk menambahkan dukungan buat perangkat rb941-2nd.
 
 😌
 
