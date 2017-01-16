@@ -9,7 +9,7 @@ category: jaringan
 
 <img border="0" src="/img/rbWRT-mikrotiklogo.png" style="float:left; margin:10px"/>
 
-Menggganti sistem operasi bawaan Mikrotik (`RouterOS`) dengan `LEDE`/`OpenWRT` mungkin merupakan pilihan bagus buat kamu yang lebih suka buka-bukaan (baca : `OpenSource`) atau buat para *Power User* yang mau bangun sendiri paket perangkat lunak yang digunakan atau justru membangun sendiri sistem operasi, karena LEDE/OpenWRT lebih fleksibel dibanding RouterOS. Walau RouterOS versi 4 sudah mendukung fitur `MetaROUTER`. Metarouter merupakan fitur yang memungkinkan RouterOS untuk menjalankan OpenWRT secara virtual berdampingan dengan RouterOS.
+Menggganti sistem operasi bawaan Mikrotik (`RouterOS`) dengan `LEDE`/`OpenWRT` mungkin layak pilih buat kamu yang lebih suka buka-bukaan (baca : `OpenSource`) atau buat para *Power User* yang mau bangun sendiri paket perangkat lunak yang digunakan atau justru membangun sendiri sistem operasi, karena LEDE/OpenWRT lebih fleksibel dibanding RouterOS. Walau RouterOS versi 4 sudah mendukung fitur `MetaROUTER`. Metarouter merupakan fitur yang memungkinkan Mikrotik RouterBoard untuk menjalankan OpenWRT secara virtual berdampingan dengan RouterOS.
 
 Saya sendiri punya alasan lain yaitu terlalu banyak fitur bawaan RouterOS yang tidak terpakai buat pengguna rumahan seperti saya, pun sebenarnya saya juga orang yang suka **buka-bukaan**. 
 
@@ -17,13 +17,13 @@ Saya sendiri punya alasan lain yaitu terlalu banyak fitur bawaan RouterOS yang t
 
 **Tahap 1 : Periksa Dukungan**
 
-Hal pertama yang kita lakukan yaitu memeriksa dukungan LEDE untuk perangkat di [ToH](https://wiki.openwrt.org/toh/start). Perangkat yang saya gunakan (rb941-2nd) ternyata belum memiliki dukungan dari LEDE. Untungnya berkah buka-bukaan ada yang membuat [patch](http://patchwork.ozlabs.org/patch/711136/raw/)  yang dapat saya gunakan untuk membangun LEDE untuk `rb941-2nd`.
+Hal pertama yang kita lakukan yaitu memeriksa dukungan LEDE untuk perangkat di [ToH](https://wiki.openwrt.org/toh/start). Perangkat yang saya gunakan (`rb941-2nd`) ternyata belum memiliki dukungan dari LEDE. Untungnya berkah buka-bukaan ada yang membuat [patch](http://patchwork.ozlabs.org/patch/711136/raw/)  yang dapat saya gunakan untuk menambahkan dukungan buat perangkat rb941-2nd.
 
 😌
 
 **Tahap 2 : Membangun Firmware**
 
-Jika ternyata perangkat kamu didukung oleh LEDE, kamu bisa langsung mengunduh firmware yg tersedia dan mengabaikan tahap ini. Di tahap ini saya ~~terpaksa~~ meng-compile sendiri firmware untuk mikrotik rb941-2nd. Jika kamu memiliki rb941-2nd yang sama dengan saya, kamu bisa unduh [di sini](https://github.com/ahmadihamid/rb941-2nd-LEDE/releases).
+Jika ternyata perangkat kamu didukung oleh LEDE, kamu bisa langsung mengunduh firmware yg tersedia dan mengabaikan tahap ini. Di tahap ini saya ~~terpaksa~~ meng-*compile* sendiri firmware untuk mikrotik rb941-2nd. Jika kamu memiliki rb941-2nd yang sama dengan saya, kamu bisa unduh [di sini](https://github.com/ahmadihamid/rb941-2nd-LEDE/releases).
 
 **Memasang Dependensi**
 
@@ -49,7 +49,7 @@ EDITOR="nano"
 EOF
 ```
 
-Terapkan patch
+Terapkan patch :
 
 ```shell
 cd source
@@ -69,13 +69,13 @@ make menuconfig #membuat file .config spesifik untuk router.
 
 <img border="0" src="/img/rbWRT-menuconfig.png" width="65%" style="float:left; margin:7px"/>
 
-selesai membuat file `.config` sesuai kebutuhan router (perhatikan dokumentasi/ToH untuk hal ini), kita akan meng-compile dengan perintah :
+selesai membuat file `.config` sesuai kebutuhan router (perhatikan dokumentasi/ToH untuk hal ini), kita akan melakukan *compile* dengan perintah :
 
 ```shell
 make -j1 V=s
 ```
 
-proses *compile* akan memakan waktu yang cukup lama bergantung dari spesifikasi komputer yang digunakan, dan membutuhkan koneksi internet untuk mengunduh beberapa kode sumber dari paket yang akan dipasang.
+proses *compile* untuk pertama kali akan memakan waktu yang cukup lama bergantung dari spesifikasi komputer yang digunakan, dan membutuhkan koneksi internet untuk mengunduh beberapa kode sumber dari paket yang akan dipasang.
 
 **Tahap 3 : Ramdisk Boot**
 
@@ -119,7 +119,7 @@ Sekian panjang kita bercerita tapi belum menjamah samasekali ke Perangkat Mikrot
 - System → Routerboard → Settings → Boot protocol: DHCP
 - System → Routerboard → Settings → Ceklis pilihan "Force Backup Booter" 
 
-Cabut power mikrotik, hubungkan kabel lan ke port 1 (wan/internet), dan hidupkan lagi RouterBoard, berikut adalah pesan yang keluar dari script tftp server yang kita jalankan :
+Cabut power Mikrotik, hubungkan kabel lan ke port1 (`wan`/`internet`), dan hidupkan lagi RouterBoard, berikut adalah pesan yang keluar dari script tftp server yang kita jalankan :
 
 ```shell
 ~ ❯ sudo ./loader.sh                                                          ⏎
@@ -212,15 +212,15 @@ dnsmasq-tftp: sent /home/annajm/lede-ar71xx-mikrotik-vmlinux-initramfs.elf to 19
 
 Pada tahapan ini LEDE telah di-boot pada RAM RouterBoard. Kita bisa mengakses LEDE melalui LuCi atau ssh untuk melakukan flashing menggunakan file squashfs dan menanamkan firware secara permanen ke RouterBoard.
 
-Cabut kabel lan dari port 1 dan hubungkan ke port lan 2/3/4/dst.
+Cabut kabel lan dari port 1 dan hubungkan ke port lan 2/3/4/dst, karena administrasi router tidak dapat dilakukan melalui port `wan`.
 
 Akses LuCi melalui IP 192.168.1.1
 
 <img border="0" src="/img/rbWRT-luci.png" style="float:left; margin:10px"/>
 
-Flash Firmware.
+**Flash Firmware.**
 
-Selesai.
+**Selesai.**
 
 😪
 
