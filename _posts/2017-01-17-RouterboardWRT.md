@@ -23,7 +23,7 @@ Hal pertama yang kita lakukan yaitu memeriksa dukungan LEDE untuk perangkat di [
 
 **Tahap 2 : Membangun Firmware**
 
-Jika ternyata perangkat kamu didukung oleh LEDE, kamu bisa langsung mengunduh firmware yg tersedia dan mengabaikan tahap ini. Di tahap ini saya ~~terpaksa~~ meng-*compile* sendiri firmware untuk mikrotik rb941-2nd. Jika kamu memiliki rb941-2nd yang sama dengan saya, kamu bisa unduh [di sini](https://github.com/ahmadihamid/rb941-2nd-LEDE/releases).
+Jika ternyata perangkat kamu didukung oleh LEDE, kamu bisa langsung mengunduh firmware yang tersedia dan mengabaikan tahap ini. Di tahap ini saya ~~terpaksa~~ meng-*compile* sendiri firmware untuk mikrotik rb941-2nd. Jika kamu memiliki rb941-2nd yang sama dengan saya, kamu bisa unduh [di sini](https://github.com/ahmadihamid/rb941-2nd-LEDE/releases).
 
 **Memasang Dependensi**
 
