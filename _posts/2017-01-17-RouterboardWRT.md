@@ -17,13 +17,13 @@ Saya sendiri punya alasan lain yaitu terlalu banyak fitur bawaan RouterOS yang t
 
 **Tahap 1 : Periksa Dukungan**
 
-Hal pertama yang kita lakukan yaitu memeriksa dukungan LEDE untuk perangkat di [ToH](https://lede-project.org/toh/start). Perangkat yang saya gunakan (`rb941-2nd`) ternyata belum memiliki dukungan dari LEDE. Untungnya berkah buka-bukaan ada yang membuat [patch](http://patchwork.ozlabs.org/patch/711136/raw/)  yang dapat saya gunakan untuk menambahkan dukungan buat perangkat rb941-2nd.
+Hal pertama yang kita lakukan yaitu memeriksa dukungan LEDE untuk perangkat di [ToH](https://lede-project.org/toh/start). Perangkat yang saya gunakan (`rb941-2nd`) ternyata belum memiliki dukungan dari LEDE. Untungnya berkah "buka-bukaan" ada yang membuat [patch](http://patchwork.ozlabs.org/patch/711136/raw/)  yang dapat saya gunakan untuk menambahkan dukungan buat perangkat rb941-2nd.
 
 😌
 
 **Tahap 2 : Membangun Firmware**
 
-Jika ternyata perangkat kamu didukung oleh LEDE, kamu bisa langsung mengunduh firmware yang tersedia dan mengabaikan tahap ini. Di tahap ini saya ~~terpaksa~~ meng-*compile* sendiri firmware untuk mikrotik rb941-2nd. Jika kamu memiliki rb941-2nd yang sama dengan saya, kamu bisa unduh [di sini](https://github.com/ahmadihamid/rb941-2nd-LEDE/releases).
+Jika ternyata perangkat kamu didukung oleh LEDE, kamu bisa langsung mengunduh firmware yang tersedia dan mengabaikan tahap ini. Di tahap ini saya ~~terpaksa~~ meng-*compile* sendiri firmware untuk mikrotik rb941-2nd. Jika kamu memiliki rb941-2nd yang sama dengan saya dan malas *compile* sendiri, kamu bisa unduh [di sini](https://github.com/ahmadihamid/rb941-2nd-LEDE/releases). Buat yang mau belajar *compile* silakan lanjut membaca.
 
 **Memasang Dependensi**
 
