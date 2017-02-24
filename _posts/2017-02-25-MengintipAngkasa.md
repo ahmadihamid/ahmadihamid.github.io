@@ -100,7 +100,7 @@ $ mono VirtualRadar.exe
 ```
 Sesuaikan alamat IP pada tools-options-reciever
 
-<img border="0" src="/img/sdr-ip.png" width="66%" style="float:left; margin-right:10px"/>
+<img border="0" src="/img/sdr-ip.png" style="float:left; margin-right:10px"/>
 
 Sampai di sini kita sudah bisa mengakses halaman web Virtual Radar Server di [http://127.0.0.1:8080/VirtualRadar/desktop.html](http://127.0.0.1:8080/VirtualRadar/desktop.html) 
 
