@@ -4,9 +4,7 @@ title: Mengintip Angkasa, Murah Meriah Melacak Pesawat
 tags: [SDR, ADS-B, LEDE]
 comments: true
 author: ahmadi
-summary: "Sebagai manusia normal hal ini terjadi pada saya. Terkadang obrolan di grup telegram saja mampu menjebol kantong yang sudah terlajur tipis ini. Seperti beberapa waktu lalu saat ada sentilan mengenai rtl-sdr di grup PegelWRT, sejurus kemudian barang dagangan lapak daring sudah masuk wishlist, Innalillah.
-
-Seperti tulisan yang sudah-sudah, saya bukan pakar di topik tulisan saya, ini adalah kisah pertualangan dengan si mungil rtl-sdr."
+summary: "Seperti tulisan yang sudah-sudah, saya bukan pakar di topik tulisan saya, ini adalah kisah pertualangan dengan si mungil rtl-sdr."
 --- 
 
 !!TULISAN INI DIBUAT DEMI KEPENTINGAN ILMU PENGETAHUAN SEMATA. SEGALA KERUSAKAN/PELANGGARAN TERKAIT TULISAN INI BUKAN TANGGUNGJAWAB PENULIS!!
@@ -106,7 +104,9 @@ Sesuaikan alamat IP pada tools-options-reciever
 
 Sampai di sini kita sudah bisa mengakses halaman web Virtual Radar Server di [http://127.0.0.1:8080/VirtualRadar/desktop.html](http://127.0.0.1:8080/VirtualRadar/desktop.html) 
 
+
 <img border="0" src="/img/sdr-web.png" style="float:left; margin-right:10px"/>
+
 
 Selamat mengintip.
 😅
