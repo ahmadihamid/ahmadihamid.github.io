@@ -4,6 +4,9 @@ title: Mengintip Angkasa, Murah Meriah Melacak Pesawat
 tags: [SDR, ADS-B, LEDE]
 comments: true
 author: ahmadi
+summary: "Sebagai manusia normal hal ini terjadi pada saya. Terkadang obrolan di grup telegram saja mampu menjebol kantong yang sudah terlajur tipis ini. Seperti beberapa waktu lalu saat ada sentilan mengenai rtl-sdr di grup PegelWRT, sejurus kemudian barang dagangan lapak daring sudah masuk wishlist, Innalillah.
+
+Seperti tulisan yang sudah-sudah, saya bukan pakar di topik tulisan saya, ini adalah kisah pertualangan dengan si mungil rtl-sdr."
 --- 
 
 !!TULISAN INI DIBUAT DEMI KEPENTINGAN ILMU PENGETAHUAN SEMATA. SEGALA KERUSAKAN/PELANGGARAN TERKAIT TULISAN INI BUKAN TANGGUNGJAWAB PENULIS!!
@@ -21,7 +24,7 @@ Seperti tulisan yang sudah-sudah, saya bukan pakar di topik tulisan saya, ini ad
 
 **Kawin dengan HameLede**
 
-<img border="0" src="/img/sdr-kawin.jpg" style="float:left; margin-right:10px"/>
+<img border="0" src="/img/sdr-kawin.jpg" width="50%" style="float:left; margin-right:10px"/>
 
 [Hame Mpr-A2](https://wiki.openwrt.org/toh/hame/mpr-a2) adalah pengisi kekosongan saya yang lain. Router portabel imut lengkap dengan baterai ini jadi pasangan `samara` dengan rtl-sdr. Dengan baterai *built-in* kita bebas menempatkannya di mana pun.
 
@@ -99,7 +102,7 @@ $ mono VirtualRadar.exe
 ```
 Sesuaikan alamat IP pada tools-options-reciever
 
-<img border="0" src="/img/sdr-ip.png" style="float:left; margin-right:10px"/>
+<img border="0" src="/img/sdr-ip.png" width="66%" style="float:left; margin-right:10px"/>
 
 Sampai di sini kita sudah bisa mengakses halaman web Virtual Radar Server di [http://127.0.0.1:8080/VirtualRadar/desktop.html](http://127.0.0.1:8080/VirtualRadar/desktop.html) 
 
