@@ -15,7 +15,7 @@ Kehilangan adalah peristiwa yang pasti dialami manusia, setiap saat, bahkan dala
 
 Sebagai manusia normal hal ini terjadi pada saya. Terkadang obrolan di grup telegram saja mampu menjebol kantong yang sudah terlajur tipis ini. Seperti beberapa waktu lalu saat ada sentilan mengenai [rtl-sdr](http://www.rtl-sdr.com/about-rtl-sdr/) di grup [PegelWRT](https://t.me/pegelwrt), sejurus kemudian barang dagangan lapak daring sudah masuk *wishlist*, `Innalillah`.
 
-Seperti tulisan yang sudah-sudah, saya bukan pakar di topik tulisan saya, ini adalah kisah pertualangan dengan si mungil `rtl-sdr`.
+Seperti tulisan yang sudah-sudah, saya bukan pakar di topik tulisan saya, ini hanyalah kisah pertualangan saya dengan si mungil `rtl-sdr`.
 
 
 `...`
@@ -28,7 +28,8 @@ Seperti tulisan yang sudah-sudah, saya bukan pakar di topik tulisan saya, ini ad
 
 **Kebutuhan Perangkat Lunak**
 
-Hame Mpr-A2 hanya memiliki 8MB rom sehingga di sini saya terpaksa mebuang LuCI. Beruntung paket `rtl-sdr` dan `dump1090` sebagai dekoder [ADS-B](https://en.wikipedia.org/wiki/Automatic_dependent_surveillance-broadcast) telah tersedia di repo dan dapat langsung dipasang menggunakan `opkg` tanpa perlu repot melakukan *compile*.
+Hame Mpr-A2 hanya memiliki 8MB rom sehingga di sini saya terpaksa mebuang LuCI demi ruang tambahan. 
+Beruntung paket `rtl-sdr` dan `dump1090` sebagai dekoder [ADS-B](https://en.wikipedia.org/wiki/Automatic_dependent_surveillance-broadcast) telah tersedia di repo dan dapat langsung dipasang menggunakan `opkg` tanpa perlu repot melakukan *compile*.
 
 ```shell
 # opkg install rtl-sdr dump1090
@@ -47,7 +48,6 @@ start() {
 stop() {
     screen -r dump1090 -X quit
 }
-
 ```
 Saya menyimpannya sebagai `dump1090daemon.sh` langsung di folder root. Sampai di sini kita boleh langsung menjalankan dump1090 dengan perintah :
 
@@ -55,7 +55,7 @@ Saya menyimpannya sebagai `dump1090daemon.sh` langsung di folder root. Sampai di
 ~# ./dump1090daemon.sh start
 ```
 
-Untuk membaca data yang berhasil diterima kita akan menggunakan [Virtual Radar Server](http://virtualradarserver.co.uk/Default.aspx). Sayangnya belum tersedia paket khusus sistem operasi `GNU/Linux`, kita terpaksa menjalakannya melalui `mono`. 
+Untuk membaca data yang berhasil diterima kita akan menggunakan [Virtual Radar Server](http://virtualradarserver.co.uk/Default.aspx). Sayangnya belum tersedia paket untuk sistem operasi `GNU/Linux`, kita terpaksa menjalakannya melalui `mono`. 
 
 **Pemasangan mono**
 
