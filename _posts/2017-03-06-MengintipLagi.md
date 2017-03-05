@@ -17,10 +17,8 @@ Saya teringat sebuah kata bijak :
 hmm.. terdengar tidak terlalu bijak. 
 
 Tapi sepertinya hal itulah yang paling banyak terjadi, sedikit sekali manusia yang sukses dengan cinta pertamanya, kebanyakan merupakan `cinta tak terungkapkan`, bahkan konon untuk yang mampu membawa belahan hatinya di SMA yang entah cinta ke-berapa, jumlahnya tak sampai `2%`. Ajaib. Bagaimana Tuhan tega mendidik makhluknya melalui derita cinta berkali-kali. Saya sendiri beruntung masuk ke `2%` tadi. Keberuntungan yang sepertinya layak dijadika topik di blog ini atau bahkan novel ringan.
-😉
 
 Kembali ke pasangan dari surga kita di bulan lalu tepat ketika kita telah berhasil [Mengintip Angkasa](https://ahmadihamid.com/MengintipAngkasa/) mengunakan sejoli `hame mpr-a2` dan `rtl-sdr` yang  ternyata bertemu cinta keduanya yaitu sebuah telepon seluler berbasis Android.
-😮
 
 Dari segi portabilitas ponsel Android jelas unggul dari jagoan pertama kita si portabel router. Dari sisi ketersedian perangkat lunak si Ponsel Android malah berhasil meng-KO `hame mpr-a2`. Jika sebelumnya kita butuh sebuah web server untuk membaca data dump dari `dump1090` sekarang semua sudah tersedia siap saji dalam genggaman.
 
