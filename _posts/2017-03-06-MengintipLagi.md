@@ -12,7 +12,7 @@ author: ahmadi
 
 Saya teringat sebuah kata bijak :
 
-> cinta pertama adalah sarana belajar untuk menghadapi cinta kedua
+cinta pertama adalah sarana belajar untuk menghadapi cinta kedua
 
 hmm.. terdengar tidak terlalu bijak. 
 
