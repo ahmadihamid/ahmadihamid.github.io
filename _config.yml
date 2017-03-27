@@ -95,10 +95,10 @@ url-pretty: "AhmadiHamid.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "bodojoko"
+disqus: "ahmadihamid-com"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-73780888-1"
+google_analytics: 
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
