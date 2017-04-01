@@ -4,9 +4,11 @@ title: Migrasi Windows ke SSD Baru
 tags: [Linux]
 comments: true
 author: ahmadi
+summary: "Di sini saya akan menggunakan wimlib, sebenarnya tersedia banyak pilihan perangkat lunak untuk membuat wim image namun karena saya telah ketergantungan dengan sistem operasi Linux - dan melupakan banyak hal mengenai administrasi di sistem operasi Windows - saya langsung mencari paket yang tersedia untuk ArchLinux."
 --- 
 
 Saya hampir mustahil dapat dikatakan makhluk kekinian. Jika kebanyakan manusia berusaha sekuat tenaga [demi mengikuti perkembangan zaman](http://www.independent.co.uk/life-style/gadgets-and-tech/news/iphone-6s-chinese-men-try-to-sell-kidney-to-buy-new-handset-10501755.html), dan sisanya yang sedikit menjadi luar biasa, kemudian melampaui zaman itu sendiri. Saya sebagai manusia biasa enggak mampu menjadi opsi kedua, pun enggak mau di opsi satu. Saya lebih memilih meninggalkan zaman ke belakang atau setidaknya diam di tempat, semisal saya bangga mampu bertahan menggunakan ponsel symbian sampai akhir 2015! 
+
 😎
 
 >"biar miskin asal sombong "
@@ -20,10 +22,13 @@ Hal ini terlihat dari beberapa waktu lalu saya `kelepasan` membeli SSD demi meni
 `...`
 
 Sampai di sini saya akhirnya intro bernuansa `"curcol"`
+
 😂
+
 Bahasan kita kali ini adalah "**kloning windows saat migrasi dari HDD ke SSD**"
 
 Di sini saya akan menggunakan [wimlib]( https://aur.archlinux.org/packages/wimlib/ ), sebenarnya tersedia banyak pilihan perangkat lunak untuk membuat [wim image](https://en.wikipedia.org/wiki/Windows_Imaging_Format)  namun karena saya telah ketergantungan dengan sistem operasi Linux - dan melupakan banyak hal mengenai administrasi di sistem operasi Windows - saya langsung mencari paket yang tersedia untuk `ArchLinux`.
+
 
 
 **wimcapture**
@@ -35,6 +40,7 @@ $ wimcapture /run/media/annajm/A47C19827C195102 bakaup.wim --boot --check
 ```
 
 setelah menunggu 2 jam, berkas terkompresi `bakaup.wim` dengan ukuran  sebesar 12GB pun siap!
+
 
 **wimapply**
 
@@ -58,6 +64,7 @@ Selesai `wimapply` melakukan tugasnya kita harus memperbaharui `grub.cfg`
 jreng jreng..
 kecewa sungguh kecewa..
 untuk ke-sekian kalinya patah hati saya dibuat `M$`
+
 😭
 
 "kamu berubah" [katanya](https://answers.microsoft.com/en-us/windows/forum/all/0xc000000e-boot-error/ef08ab00-e130-4301-bc80-79d5b414a81f).
@@ -73,12 +80,15 @@ Sekian tutorial kali ini, semoga bermanfaat.
 
 
 Bingung? Kali pertama melihat tutorial berisi kegagalan?
-Maaf deh kalo bikin kamu kecele.
+
+Maaf deh kalo bikin kamu `kecele`.
+
 😔
 
 Pun buat `M$`, maaf kalo saya pake kata kasar, mungkin kita enggak cocok karena kamu terlalu baik untuk diriku yang ketinggalan zaman ini!
 
 `Bersambung..`
+
 
 Referensi :
 
