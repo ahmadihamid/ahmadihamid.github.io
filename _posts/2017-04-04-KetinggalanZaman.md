@@ -27,9 +27,9 @@ Sampai di sini saya akhiri intro bernuansa `"curcol"`.
 
 Bahasan kita kali ini adalah "**kloning windows saat migrasi dari HDD ke SSD**"
 
-Di sini saya akan menggunakan [wimlib]( https://aur.archlinux.org/packages/wimlib/ ), sebenarnya tersedia banyak pilihan perangkat lunak untuk membuat [wim image](https://en.wikipedia.org/wiki/Windows_Imaging_Format)  namun karena saya telah ketergantungan dengan sistem operasi Linux - dan melupakan banyak hal mengenai administrasi di sistem operasi Windows - saya langsung mencari paket yang tersedia untuk `ArchLinux`.
+Di sini saya akan menggunakan [wimlib]( https://aur.archlinux.org/packages/wimlib/ ), sebenarnya tersedia banyak pilihan perangkat lunak untuk membuat [wim image](https://en.wikipedia.org/wiki/Windows_Imaging_Format)  namun karena saya telah ketergantungan dengan sistem operasi Linux - dan telah melupakan banyak hal mengenai administrasi di sistem operasi Windows - saya langsung mencari paket yang tersedia untuk `ArchLinux`.
 
-
+---
 
 **wimcapture**
 
@@ -41,6 +41,8 @@ $ wimcapture /run/media/annajm/A47C19827C195102 bakaup.wim --boot --check
 
 setelah menunggu 2 jam, berkas terkompresi `bakaup.wim` dengan ukuran  sebesar 12GB pun siap!
 
+
+---
 
 **wimapply**
 
@@ -57,6 +59,8 @@ Selesai `wimapply` melakukan tugasnya kita harus memperbaharui `grub.cfg`
 # grub-mkconfig -o /boot/grub/grub.cfg
 ```
 
+---
+
 **Mulai ulang sistem!**
 
 <img border="0" src="/img/ketinggal-berubah_resize.jpg" style="float:left; margin-right:10px"/>
@@ -71,7 +75,7 @@ untuk ke-sekian kalinya patah hati saya dibuat `M$`
 
 **ALASAN!**
 
-Aku gak berubah, dasar kamu binatang jalang, dari kumpulannya yang terbuang!
+Aku gak berubah, ~~dasar kamu binatang jalang, dari kumpulannya yang terbuang!~~
 
 `...`
 
@@ -79,6 +83,7 @@ Sekian tutorial kali ini, semoga bermanfaat.
 
 `...`
 
+---
 
 Bingung? Kali pertama melihat tutorial berisi kegagalan?
 
