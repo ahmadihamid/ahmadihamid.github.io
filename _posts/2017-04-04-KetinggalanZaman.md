@@ -21,7 +21,7 @@ Hal ini terlihat dari beberapa waktu lalu saya `kelepasan` membeli SSD demi meni
 
 `...`
 
-Sampai di sini saya akhirnya intro bernuansa `"curcol"`
+Sampai di sini saya akhiri intro bernuansa `"curcol"`.
 
 😂
 
@@ -73,6 +73,7 @@ untuk ke-sekian kalinya patah hati saya dibuat `M$`
 
 Aku gak berubah, dasar kamu binatang jalang, dari kumpulannya yang terbuang!
 
+`...`
 
 Sekian tutorial kali ini, semoga bermanfaat.
 
