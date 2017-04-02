@@ -25,7 +25,7 @@ Walau hanya pelengkap, membuat sambal enggak `se-remeh` kedengarannya, cara mema
 
 - Segala jenis cabai yang tersedia sesuai selera, kesukaan saya `cabai hitam`, `cabai burung`, dan `cabe merah Jawa`, untuk cabe merah saya lebih suka cabe merah Jawa ketimbang `cabai keriting`, karena harga dan rasanya lebih manis. Rasis!
 - Segala jenis bawang yg tersedia. Komposisi sesuai selera.
-- Segala jenis tomat! Kamu mungkin berpikiran kalau saya becanda. saya `100%` serius.
+- Segala jenis tomat! Kamu mungkin berpikiran kalau saya mulai becanda. saya `100%` serius. Masih..
 - Saus tiram
 - Garam
 - Ketumbar
