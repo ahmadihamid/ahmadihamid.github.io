@@ -5,7 +5,7 @@ subtitle: Blog Teman AhmadiHamid.com
 permalink: /blogroll
 ---
 
-<h2>Blog Menarik Milik Temen</h2>
+<h2>Blog Menarik Asuhan Teman AhmadiHamid.com</h2>
 <ul class="tag_box">
     <li> <a href="https://rizaumami.github.io"> Mimin </a> - Yang punya Pegelinux</li>
     <li> <a href="https://situsali.com"> Bang Ali </a> - Sales distro Arch</li>
