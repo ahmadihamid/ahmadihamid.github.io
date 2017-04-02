@@ -21,17 +21,23 @@ Walau hanya pelengkap, membuat sambal enggak `se-remeh` kedengarannya, cara mema
 `...`
 
 **Bahan**
-<img title="gelatin ikan" border="0" src="/img/gelatin-ikan.png" style="float:left; margin-right:20px"/> 
+<img title="gelatin ikan" border="0" src="/img/gelatin-ikan.png" style="float:left; margin-right:15px"/> 
 
 - Segala jenis cabai yang tersedia sesuai selera, kesukaan saya cabai hitam, cabai burung, dan cabe merah Jawa, untuk cabe merah saya lebih suka cabe merah Jawa ketimbang cabai keriting, karena harganya dan rasanya lebih manis!
 - Segala jenis bawang yg tersedia. Komposisi sesuai selera.
-- Segala jenis tomat! Kamu mungkin berpikiran kalau saya becanda. saya 100% serius.
+- Segala jenis tomat! Kamu mungkin berpikiran kalau saya becanda. saya `100%` serius.
 - Saus tiram
 - Garam
 - Ketumbar
 - Kadang saya menambahkan gelatin ikan kalau kebetulan ada ikan rebus yang masuk kulkas.
 
-![sayangnya cabe hitam di @halamanbelakang udah mati 😭](/img/cabe-hitam.jpg  "cabe hitam")
+![](/img/cabe-hitam.jpg  "cabe hitam")
+
+Sedihnya cabe hitam di [@halamanbelakang](https://t.me/halamanbelakang)  udah mati..
+
+😭
+
+---
 
 **Masak**
 
@@ -47,11 +53,13 @@ Usahakan memasukkan bahan yang mengandung kadar air lebih tinggi terlebih dahulu
 
 ![](/img/tumbuk.png "hajar bray") 
 
-Buat menambah rasa gurih dan lagi-lagi buat menyatukan rasa kita tambah minyak goreng, ambil saja minyak yang kita pakai buat menggoreng tadi, lebih baik lagi jika minyak masih panas, sehingga kita kembali menggoreng dengan sisa kalor yang ada dan menambah sensasi crispi.
+Buat menambah rasa gurih dan lagi-lagi buat menyatukan rasa kita tambah minyak goreng, ambil saja minyak yang kita pakai buat menggoreng tadi, lebih baik lagi jika minyak masih panas, sehingga kita kembali menggoreng dengan sisa kalor yang ada dan menambah sensasi `krispi`.
 
 😁
 
 ![](/img/tambah-minyak.png "goreng lagi") 
+
+---
 
 **Selesai**!
 
