@@ -11,9 +11,9 @@
   {% else %}
   <meta property="og:description" content="Catatan Seorang Tukang Kebun">
   {% endif %}
-  <meta property="og:url" content="https://ahmadihamid.com/">
-  <meta property="og:image" content="https://ahmadihamid.com/img/ava.jpe">
-  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{ page.url | prepend: site.baseurl }}">
+  <meta property="og:image" content="{{ page.url | prepend: site.baseurl }}img/ava.jpe">
+  <meta property="og:type" content="website">
   
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
