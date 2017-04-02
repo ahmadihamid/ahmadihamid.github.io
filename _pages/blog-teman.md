@@ -23,7 +23,7 @@ comments: true
     <li> <a href="https://www.afternewbie.com/"> After Newbie </a></li>
     <li> <a href="https://kabarlinux.web.id/"> Kabar Linux </a> - Portal Berita Linux</li>
     <li> <a href="https://se7entime.wordpress.com/"> Tujuh Waktu </a> - Se7entime</li>
-    <li> <a href="https://sinaudev.org/"> SinauDev </a> - Tempat belajar untuk semua kalangan</li>
+    <li> <a href="https://sinaudev.org/"> SinauDev </a> - Tempat Belajar Untuk Semua Kalangan</li>
     <li> <a href="https://ha.hn.web.id/"> Hahn Saja </a> - Catatan Kecil di Dunia Maya </li>
     <li> <a href="https://t.me/halamanbelakang"> Halaman Belakang </a> - Proyek Seorang Tukang Kebon </li>
 </ul>
