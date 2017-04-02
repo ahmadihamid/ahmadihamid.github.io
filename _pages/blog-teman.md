@@ -30,6 +30,6 @@ comments: true
 
 ---
 
-Yang merasa link di atas `kurang` atau bahkan `lebih` boleh komplen di bagian komen di bawah.
+Yang merasa tautan di atas `kurang` atau bahkan `lebih` boleh komplen di bagian komen di bawah.
 
 🙃
