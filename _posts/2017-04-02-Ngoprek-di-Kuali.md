@@ -6,7 +6,7 @@ comments: true
 author: ahmadi
 --- 
 
-Buat kalian yang nunggu sekuel dari [https://ahmadihamid.com/KetinggalanZaman](https://ahmadihamid.com/KetinggalanZaman/), sayang sekali karena kalian harus sabar menunggu karena kali ini saya ingin memasuki dimensi masak-memasak. Sudah lama saya pengen nulis soal masakan, tapi entah kenapa belum kesampaian juga. Yuk kita dimulai! Dari awal se-sederhana apa pun. 
+Buat kalian yang nunggu sekuel dari [https://ahmadihamid.com/KetinggalanZaman](https://ahmadihamid.com/KetinggalanZaman/), sayang sekali karena kalian harus sabar menunggu karena kali ini saya ingin memasuki dimensi masak-memasak. Sudah lama saya pengen nulis soal masakan, tapi entah kenapa belum kesampaian juga. Yuk kita mulai! Dari awal se-sederhana apa pun. 
 
 Memasak, kata yang sudah lama saya tinggal, terakhir kali mungkin pasca istri melahirkan anak pertama, gamang, penuh kekhawatiran, saya membuat masakan berbahan dasar ikan gabus yang konon bagus buat ibu yang melahirkan via caesar, `ter-enak` katanya, ah roman. 
 
