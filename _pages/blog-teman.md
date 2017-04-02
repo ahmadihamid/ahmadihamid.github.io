@@ -3,6 +3,7 @@ layout: page
 title: Blog Teman
 subtitle: Blog Menarik Asuhan Teman AhmadiHamid.com
 permalink: /blogroll
+comments: true
 ---
 
 <ul class="tag_box">
@@ -25,3 +26,7 @@ permalink: /blogroll
     <li> <a href="https://ha.hn.web.id/"> Hahn Saja </a> - Catatan Kecil di Dunia Maya </li>
     <li> <a href="https://andyzs.net"> Andy Zefry </a> - Catatan Stensil Pengalaman Hidup </li>
 </ul>
+
+yang merasa link di atas kurang atau bahkan lebih boleh komplen di bagian komen di bawah.
+
+🙃
