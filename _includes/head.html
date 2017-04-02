@@ -1,19 +1,19 @@
 <head>
   {% if page.title %}
-  <meta property="og:title" content="AhmadiHamid.com - {{ page.title }}">
+  <meta property="og:title" content="AhmadiHamid.com - {{ page.title }}" />
   {% else %}
-  <meta property="og:title" content="AhmadiHamid.com">
+  <meta property="og:title" content="AhmadiHamid.com" />
   {% endif %}
   {% if page.excerpt %}
-  <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}">
+  <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}" />
   {% elsif page.description %}
-  <meta property="og:description" content="{{ page.description }}">
+  <meta property="og:description" content="{{ page.description }}" />
   {% else %}
-  <meta property="og:description" content="Catatan Seorang Tukang Kebun">
+  <meta property="og:description" content="Catatan Seorang Tukang Kebun" />
   {% endif %}
-  <meta property="og:url" content="{{ page.url | prepend: site.baseurl }}">
-  <meta property="og:image" content="{{ page.url | prepend: site.baseurl }}/img/ava.jpe">
-  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | prepend: site.baseurl }}" />
+  <meta property="og:image" content="{{ page.url | prepend: site.baseurl }}/img/ava.jpe" />
+  <meta property="og:type" content="website" />
   
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
