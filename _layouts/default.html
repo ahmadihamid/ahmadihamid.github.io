@@ -1,24 +1,6 @@
 ---
 layout: base
 ---
-<head>
-{% if page.title %}
-    <meta property="og:title" content="ahmadihamid.com - {{ page.title }}">
-{% else %}
-    <meta property="og:title" content="ahmadihamid.com">
-{% endif %}
-{% if page.excerpt %}
-    <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}">
-{% elsif page.description %}
-    <meta property="og:description" content="{{ page.description }}">
-{% else %}
-    <meta property="og:description" content="Catatan Seorang Tukang Kebun">
-{% endif %}
-    <meta property="og:url" content="{{ page.url | prepend: site.baseurl }}">
-    <meta property="og:image" content="{{ site.baseurl }}/img/ava.jpe">
-    <meta property="og:type" content="website">
-</head>
-
 <div class="intro-header">
 </div>
 
