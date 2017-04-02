@@ -18,7 +18,7 @@ description: Catatan Kegiatan Manusia Rumahan, dari @halamanbelakang s/d @halama
 # --- Navigation bar options --- #
 # List of links in the navigation bar
 navbar-links:
-  Blogroll: "teman"
+  Blogroll: "blogroll"
   Kategori:
     - Arsip Seluruh Artikel: "arsip"
     - Halaman Belakang: "halamanbelakang"
