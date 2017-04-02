@@ -21,8 +21,7 @@ Walau hanya pelengkap, membuat sambal enggak `se-remeh` kedengarannya, cara mema
 `...`
 
 **Bahan**
-
-<img title="gelatin ikan" border="0" src="/img/gelatin-ikan.png" style="float:left; margin-right:10px"/> 
+<img title="gelatin ikan" border="0" src="/img/gelatin-ikan.png" style="float:left; margin-right:20px"/> 
 
 - Segala jenis cabai yang tersedia sesuai selera, kesukaan saya cabai hitam, cabai burung, dan cabe merah Jawa, untuk cabe merah saya lebih suka cabe merah Jawa ketimbang cabai keriting, karena harganya dan rasanya lebih manis!
 - Segala jenis bawang yg tersedia. Komposisi sesuai selera.
