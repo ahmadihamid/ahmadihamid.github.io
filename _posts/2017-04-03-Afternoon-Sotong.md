@@ -42,7 +42,7 @@ Kelebihan Sotong yaitu dengan rasa yang mirip dengan Cumi (pendapat pribadi saya
 3. Baluri sotong ke tepung.
 4. Goreng deh sampe warnanya kuning kemerahan seperti langit di sore hari.
 
-<img border="0" src="/img/afternoon-sotong.jpg" style="vertical-align:middle">
+<img border="0" src="/img/afternoon-sotong.jpg" style="display:block; margin:auto; max-width: 100%;">
 
 5. Mudah, Murah, Alhamdulillah..lunas hutang hari ini, besok lagi.
 
