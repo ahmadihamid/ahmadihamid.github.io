@@ -21,6 +21,7 @@ Egois! Walau ada sedikit anomali yang saya alami yaitu justru ELO (bukan resmi) 
 Tapi dari segi produktifitas masih jelas terlihat menurun. Saya mulai sulit menulis (saat membuat tulisan ini pun kakak merengek karena penasaran dengan laptop dan ayahnya) pun soal berkarya, satu yang disayangkan banyak orang kecuali saya yaitu batal mengikuti Olimpiade Nasional MIPA Perguruan Tinggi tingkat Nasional yang bertepatan dengan detik-detik kelahiran anak pertama.
 
 Malu rasanya pada diri sendiri yang dulu sombong bilang "**Bisa!**" saat muda. Menyoal kuliah, nikah, kerja, dan berkarya sekaligus, bersamaan. 
+
 `...`
 
 Melajut bahasan *cloning* Windows sebelumnya, setelah "berhasil gagal" menggunakan `wimlib` saya masih berkeras menggunakan Linux untuk memulihkan Sistem Windows. 
