@@ -35,8 +35,9 @@ Lebih mengerikannya lagi sering kali halaman web yang kita baca justru lebih ban
 
 Namun sepertinya pasang mulai berubah saat *static website generator* `menyerang` secara sporadis. Ada sekitar [400an generator website statis ](https://staticsitegenerators.net/) di luar sana yang berusaha menyerang kejayaan website dinamis.
 
-Saya pribadi sangat tertarik dengan halaman statis yang dibangun diatas generator ini. Magis! 
-[Blog Ini](https://ahmadihamid.com/Pertamax/), beberapa keisengan saya yang lain seperti halaman web penguji kepribadian[penguji kepribadian](https://ahmadihamid.com/Pertamax/) , web kalkulator buat membantu  [pekerjaan saya](https://ahmadihamid.com/lpp-calc/urea.html)  sehari hari, halaman web [materi dan presentasi](https://ahmadihamid.com/kubu/) , semua halaman statis. 
+Saya pribadi sangat tertarik dengan halaman statis yang dibangun diatas generator ini. Magis!
+
+[Blog Ini](https://ahmadihamid.com/Pertamax/), beberapa `keisengan` saya yang lain seperti halaman web [penguji kepribadian](https://ahmadihamid.com/Pertamax/) , web kalkulator buat membantu  [pekerjaan saya](https://ahmadihamid.com/lpp-calc/urea.html)  sehari hari, halaman web [materi dan presentasi](https://ahmadihamid.com/kubu/) , semua halaman statis. 
 
 *Ya I'm not a decent programmer tho..* Saya cuma [tukang kebun](https://t.me/halamanbelakang)
 
