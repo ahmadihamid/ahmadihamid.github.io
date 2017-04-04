@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Modul
+title: Modul Pak Guru
 comments: true
 ---
 
@@ -8,4 +8,4 @@ comments: true
   Modul yah bukan Modol. Ingat!
 </div>
 
-<iframe src = "/materi/ViewerJS/#../buku/manprosispa.odt" title="Manajemen Proyek Web Sistem Pakar MBTI" width='389' height='550'  allowfullscreen webkitallowfullscreen></iframe> 
+<iframe src = "/materi/ViewerJS/#../buku/3003.pdf" title="Manajemen Proyek Web Sistem Pakar MBTI" width='800' height='600'  allowfullscreen webkitallowfullscreen></iframe> 
