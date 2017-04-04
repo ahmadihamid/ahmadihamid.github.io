@@ -10,11 +10,11 @@ Tetiba teringat pepatah kurang bijak namun kaya akan kejujuran :
 
 > Pemain catur kehilangan 100 poin ELO setelah menikah.
 
-Terdengar sedikit egois namun ternyata banyak benarnya. Bahkan kita bisa menambah klausa pada kata bijak di atas menjadi :
+Terdengar sedikit **egois** namun ternyata banyak **logis** dan benarnya. Bahkan kita bisa menambah `klausa` pada kata bijak di atas menjadi :
 
 > ...berkurang 100 lagi saat kedatangan seorang anak.
 
-Egois! Walau ada sedikit anomali yang saya alami yaitu justru ELO (bukan resmi) **naik** saat anak pertama saya - yang ditunggu-tunggu selama 3 tahun - lahir, dan kemudian anomali yang sama terjadi **lagi** saat anak kedua - yang tak diduga-duga - diamanahkan pada saya dan istri. 
+Egois! Walau ada sedikit anomali yang saya alami yaitu justru ELO (bukan resmi) **naik** saat anak pertama saya - yang ditunggu-tunggu selama 3 tahun - lahir, dan kemudian anomali yang sama terjadi **lagi** saat anak kedua - yang tak diduga-duga - diamanahkan pada saya dan istri satu  setengah tahun kemudian. 
 
 > Marsyad dan Hilya. Tak dapat dipercepat apalagi ditunda.
 
