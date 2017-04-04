@@ -9,12 +9,9 @@ author: ahmadi
 ![](/img/ps-summer.jpg) 
 
 > Masa lalu, menyusup di selimut sunyi. 
-
 > Menyaru mimpi dan ilusi. 
-
 > Mengabur seindah apapun masa kini.
-
-> {{`sensor`}} 
+{{`sensor`}} 
 
 ... 
 
