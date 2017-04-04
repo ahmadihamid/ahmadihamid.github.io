@@ -14,11 +14,11 @@ Terdengar sedikit egois namun ternyata banyak benarnya. Bahkan kita bisa menamba
 
 > ...berkurang 100 lagi saat kedatangan seorang anak.
 
-Egois! Walau ada sedikit anomali yang saya alami yaitu justru ELO (bukan resmi) **naik** saat anak pertama saya - yang ditunggu-tunggu selama 3 tahun - lahir, dan kemudian anomali yang sama terjadi saat anak kedua - yang tak diduga-duga - diamanahkan pada saya dan istri. 
+Egois! Walau ada sedikit anomali yang saya alami yaitu justru ELO (bukan resmi) **naik** saat anak pertama saya - yang ditunggu-tunggu selama 3 tahun - lahir, dan kemudian anomali yang sama terjadi **lagi** saat anak kedua - yang tak diduga-duga - diamanahkan pada saya dan istri. 
 
 > Marsyad dan Hilya. Tak dapat dipercepat apalagi ditunda.
 
-Tapi dari segi produktifitas masih jelas terlihat menurun. Saya mulai sulit menulis (saat membuat tulisan ini pun kakak merengek karena penasaran dengan laptop dan ayahnya) dan berkarya, satu yang disayangkan banyak orang kecuali saya yaitu batal mengikuti Olimpiade Nasional MIPA Perguruan Tinggi tingkat Nasional yang bertepatan dengan detik-detik kelahiran anak pertama.
+Tapi dari segi produktifitas masih jelas terlihat menurun. Saya mulai sulit menulis (saat membuat tulisan ini pun kakak merengek karena penasaran dengan laptop dan ayahnya) pun soal berkarya, satu yang disayangkan banyak orang kecuali saya yaitu batal mengikuti Olimpiade Nasional MIPA Perguruan Tinggi tingkat Nasional yang bertepatan dengan detik-detik kelahiran anak pertama.
 
 Malu rasanya pada diri sendiri yang dulu sombong bilang "**Bisa!**" saat muda.
 
