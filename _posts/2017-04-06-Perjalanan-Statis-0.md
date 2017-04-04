@@ -37,7 +37,7 @@ Namun sepertinya pasang mulai berubah saat *static website generator* `menyerang
 Saya pribadi sangat tertarik dengan halaman statis yang dibangun diatas generator ini. Magis! 
 [Blog Ini](https://ahmadihamid.com/Pertamax/), beberapa keisengan saya yang lain seperti halaman web penguji kepribadian[penguji kepribadian](https://ahmadihamid.com/Pertamax/) , web kalkulator buat membantu  [pekerjaan saya](https://ahmadihamid.com/lpp-calc/urea.html)  sehari hari, halaman web [materi dan presentasi](https://ahmadihamid.com/kubu/) , semua halaman statis. 
 
-*Ya I'm not a decent programmer tho.. *Saya cuma [tukang kebun](https://t.me/halamanbelakang)
+*Ya I'm not a decent programmer tho..* Saya cuma [tukang kebun](https://t.me/halamanbelakang)
 
 🤥
 
