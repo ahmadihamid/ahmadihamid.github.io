@@ -17,7 +17,7 @@ author: ahmadi
 >
 > **(disensor)**
 
-... 
+`...` 
 
 Banyak Alasan saya mengubur susunan kata dituduh `puisi`, membakar tumpukan klausa dipanggil `filosofi`. 
 Karena seringkali kata dariku **menjijikkan**, logika nya **mengerikan**. 
