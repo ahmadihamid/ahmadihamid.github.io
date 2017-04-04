@@ -18,11 +18,14 @@ Egois! Walau ada sedikit anomali yang saya alami yaitu justru ELO (bukan resmi) 
 
 > Marsyad dan Hilya. Tak dapat dipercepat apalagi ditunda.
 
-Tapi dari segi produktifitas masih jelas terlihat menurun. Saya mulai sulit menulis - saat membuat tulisan ini pun kakak merengek karena penasaran dengan Laptop dan ayahnya- dan berkarya -satu yang disayangkan banyak orang kecuali saya yaitu Olimpiade Nasional MIPA Perguruan Tinggi tingkat Nasional yang bertepatan dengan detik-detik kelahiran anak pertama. Malu rasanya pada diri sendiri yang dulu sombong bilang "Bisa!" saat muda.
+Tapi dari segi produktifitas masih jelas terlihat menurun. Saya mulai sulit menulis (saat membuat tulisan ini pun kakak merengek karena penasaran dengan laptop dan ayahnya) dan berkarya, satu yang disayangkan banyak orang kecuali saya yaitu batal mengikuti Olimpiade Nasional MIPA Perguruan Tinggi tingkat Nasional yang bertepatan dengan detik-detik kelahiran anak pertama.
+
+Malu rasanya pada diri sendiri yang dulu sombong bilang "**Bisa!**" saat muda.
 
 `...`
 
-Melajut bahasan *cloning* Windows sebelumnya, setelah "berhasil gagal" menggunakan `wimlib` saya masih berkeras menggunakan Linux untuk memulihkan Sistem Windows. Kali ini saya menggunakan `DCFL (DoD Computer Forensics Lab) dd replacement with hashing`. Saya masih kurang menjelajahi paket bernama aneh ini, yang saya tau `dcfldd` = `dd` dengan informasi `byte` yang telah berhasil diperoses. 
+Melajut bahasan *cloning* Windows sebelumnya, setelah "berhasil gagal" menggunakan `wimlib` saya masih berkeras menggunakan Linux untuk memulihkan Sistem Windows. 
+Kali ini saya menggunakan `DCFL (DoD Computer Forensics Lab) dd replacement with hashing`. Saya masih kurang menjelajahi paket bernama aneh ini, yang saya tau `dcfldd` = `dd` dengan informasi `byte` yang telah berhasil diperoses. 
 
 ```shell
 # dcfldd if=/dev/sdc1 of=/dev/sda2 bs=64 conv=noerror,sync
@@ -37,18 +40,21 @@ Selesai `dcfldd` melakukan tugasnya, kemungkinan besar - karena ukuran partisi y
 ![](/img/kz2-gparted.jpg)
 
 Semua terlihat baik, yuk kita mulai ulang komputer dengan percaya diri!
-::kacanamata:
 
+😎
 
 ![](/img/kz2-bootgagal.jpg)
 
-Ternyata eh ternyata.. "aku tidak mampu mengerti disk kamu" kata bootloader Sa7an (bukan typo). 
-Sejujurnya saya juga enggak sanggup mengerti SSD bermerk nyamnyung ini. Saya enggak ngerti kenapa harganya mahal.
-:::nangiss.
-Sekilas menjelajah mesin pencari, konon ini akibat bootloader rusak dan seterusnya, saya juga sudah mencoba buat memulihkannya melalui *installer*, namun ternyata SSD tidak terdeteksi, butuh driver katanya. 
-OK saya berhenti sampai di sini. Menyerah, ganti SSD dengan HDD lama, dan kemudian mencoba recovery lewat sistem Windows saja. Nantikan kelanjutannya di bagian ketiga dari seri kita yang sangat menegangkan ini.
+Ternyata eh ternyata.. "**aku tidak mampu mengerti** disk **kamu**" kata *bootloader* Sa7an (bukan typo). 
+Sejujurnya saya juga enggak sanggup mengerti `SSD` bermerk nyamnyung ini. Saya enggak ngerti kenapa harganya mahal.
 
-Selamat ini adalah (kurang/lebih) "tutorial gagal" kedua yang kamu baca!
+😭
+
+Sekilas menjelajah mesin pencari, konon ini akibat bootloader rusak dan seterusnya, saya juga sudah mencoba buat memulihkannya melalui *installer*, namun ternyata `SS`D tidak terdeteksi, butuh driver katanya. 
+OK saya berhenti sampai di sini. Menyerah, ganti `SSD` dengan `HDD` lama, dan kemudian mencoba *recovery* lewat sistem Windows saja.
+Nantikan kelanjutannya di bagian ketiga dari seri kita yang sangat menegangkan ini.
+
+Selamat ini adalah (kurang/lebih) "**tutorial gagal**" kedua yang kamu baca!
 
 Referensi :
 
