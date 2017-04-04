@@ -11,7 +11,7 @@ author: ahmadi
 > Masa lalu, menyusup di selimut sunyi. 
 > Menyaru mimpi dan ilusi. 
 > Mengabur seindah apapun masa kini.
-{{`sensor`}} 
+{{sensor}} 
 
 ... 
 
