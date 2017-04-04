@@ -9,6 +9,6 @@ comments: true
   
 </div>
 
-
+---
 
 <iframe src = "/materi/ViewerJS/#../buku/Presentasi Transfer Knowledge.odp" title="Presentasi Transfer Knowledge" width='800' height='600'  allowfullscreen webkitallowfullscreen></iframe> 
