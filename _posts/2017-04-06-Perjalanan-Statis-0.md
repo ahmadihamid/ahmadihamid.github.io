@@ -8,10 +8,10 @@ author: ahmadi
 
 ![](/img/ps-summer.jpg) 
 
->Masa lalu, menyusup di selimut sunyi. 
-Menyaru mimpi dan ilusi. 
-Mengabur seindah apapun masa kini.
-{{`sensor`}} 
+> Masa lalu, menyusup di selimut sunyi. 
+> Menyaru mimpi dan ilusi. 
+> Mengabur seindah apapun masa kini.
+> {{`sensor`}} 
 
 ... 
 
@@ -35,15 +35,18 @@ Saya pribadi sangat tertarik dengan halaman statis yang dibangun diatas generato
 [Blog Ini](https://ahmadihamid.com/Pertamax/), beberapa keisengan saya yang lain seperti halaman web penguji kepribadian[penguji kepribadian](https://ahmadihamid.com/Pertamax/) , web kalkulator buat membantu  [pekerjaan saya](https://ahmadihamid.com/lpp-calc/urea.html)  sehari hari, halaman web [materi dan presentasi](https://ahmadihamid.com/kubu/) , semua halaman statis. 
 
 *Ya I'm not a decent programmer tho.. *Saya cuma [tukang kebun](https://t.me/halamanbelakang)
+
 🤥
 
 Saya akan coba bahas satu persatu mengenai 4 hal di atas. 
 Hoo.. Aroma serialisasi kedua ini. 
+
 😎
 
 Ahh..sepertinya ada yang terlupakan.
 
 Sampai ketemu di masa depan bernama esok. `InshaAllah!` 
+
 😘
 
 **Referensi** :
