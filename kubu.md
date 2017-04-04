@@ -11,4 +11,4 @@ comments: true
 
 
 
-<iframe src = "/materi/ViewerJS/#../buku/3003.pdf" title="Manajemen Proyek Web Sistem Pakar MBTI" width='800' height='600'  allowfullscreen webkitallowfullscreen></iframe> 
+<iframe src = "/materi/ViewerJS/#../buku/Presentasi Transfer Knowledge.odp" title="Presentasi Transfer Knowledge" width='800' height='600'  allowfullscreen webkitallowfullscreen></iframe> 
