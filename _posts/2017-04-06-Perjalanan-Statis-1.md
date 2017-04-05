@@ -30,20 +30,20 @@ Banyak sekali [keistimewaan](https://davidwalsh.name/introduction-static-site-ge
 
 Dari empat poin di atas yang paling terasa adalah soal kecepatan, karena hanya berupa halaman web statis tanpa database dan sebagainya, halaman web kita menjadi ringan untuk dibuka oleh pembaca. Poin krusial.
 
-Udah panjang nih, sebenarnya saya masih mau banget cerita panjang lebar, tapi khawatir malah membosankan jadinya.
+Udah panjang nih intronya, sebenarnya saya masih mau banget cerita panjang lebar, tapi khawatir malah membosankan jadinya.
 
 Buat kamu yang belum punya Blog statis Yuk kita buat satu secara instan.
 
-Di sini kita akan melakukan *forking* repositori GitHub yang telah tersedia sehingga kita tidak perlu repot membangun dari NOL. 
+Di sini kita akan melakukan *forking* repositori GitHub yang telah tersedia sehingga kita tidak perlu repot membangun dari `NOL`. 
 
 **Fork Repository**
 
-Kita akan mem-fork repo [beautiful jekyll](https://github.com/daattali/beautiful-jekyll) yang merupakan *parent* dari tema yang saya gunakan. Atau jika kamu kurang suka kamu bisa pilih yang lain [di sini](https://github.com/jekyll/jekyll/wiki/Themes). Atau bahakan kamu bisa mem-fork repo ini apalagi kalau kamu memang akan membuat web berbahasa Indonesia. Bahasa tercinta kita!
+Kita akan mem-*fork* repo [beautiful jekyll](https://github.com/daattali/beautiful-jekyll) yang merupakan *parent* dari tema yang saya gunakan. Atau jika kamu kurang suka kamu bisa pilih yang lain [di sini](https://github.com/jekyll/jekyll/wiki/Themes). Atau bahakan kamu bisa mem-*fork* [repo saya](https://github.com/ahmadihamid/ahmadihamid.github.io) sekalian apalagi kalau kamu memang akan membuat web berbahasa Indonesia. Bahasa tercinta kita!
 Buka halaman repo yang ingin di-fork kemudian klik tombol fork di pojok kanan atas.
 
 **Ubah nama repo menjadi `<namakamu>.github.io`**
 
-Setelah forking selesai kamu telah memiliki sebuah halaman web persis dengan parent-nya. Ubah nama repo melalui Setting kemudian lakukan perubahan dari opsi **Rename**.
+Setelah *forking* selesai kamu telah memiliki sebuah repositori yang persis dengan *parent*-nya. Ubah nama repo melalui `Setting` kemudian lakukan perubahan dari opsi **Rename**.
 
 **Sesuaikan kustomisasi website**
 
@@ -51,7 +51,7 @@ Edit file `_config.yml` sesuai keterangan website kamu melaui icon pensil yang k
 
 **Menulis posting**
 
-Untuk posting artikel, kita lakukan dengan mebuat berkas `.md` di dalam direktori `_post`. Artikel ditulis menggunakan [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), jangan khawatir mengenai hali ini, karena `markdown` lebih mudah dipelajari dibandingkan html.
+Untuk posting artikel, kita lakukan dengan mebuat berkas `.md` di dalam direktori `_post`. Artikel ditulis menggunakan [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), jangan khawatir mengenai hali ini, karena `markdown` lebih mudah dipelajari dibandingkan `html`.
 
 **Editor**
 
@@ -61,7 +61,7 @@ Untuk posting artikel, kita lakukan dengan mebuat berkas `.md` di dalam direktor
 
 **Rangkuman**
 
-Jangan berfikir bahwa langkah di atas rumit dan sulit. Mudah kok, hanya saja sayangnya saya eng****gak berbakat jadi guru. Berikut adalah video rangkuman langkah-langkah kita, yang saya ambil dari repo [beautiful jekyll](https://github.com/daattali/beautiful-jekyll#readme)
+Jangan berpikir bahwa langkah di atas rumit dan sulit. Mudah kok, hanya saja sayangnya saya enggak berbakat jadi guru. Berikut adalah video rangkuman langkah-langkah kita, yang saya ambil dari repo [beautiful jekyll](https://github.com/daattali/beautiful-jekyll#readme)
 
 ![Installation steps](/img/install-steps.gif)
 
@@ -71,6 +71,7 @@ Selamat menulis!
 
 **Referensi** :
 
+<https://github.com/SinauDev/SinauDev.github.io>
 <https://github.com/daattali/beautiful-jekyll>
 <https://davidwalsh.name/introduction-static-site-generators>
 <https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/>
