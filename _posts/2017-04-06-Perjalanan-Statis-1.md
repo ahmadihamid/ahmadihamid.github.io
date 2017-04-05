@@ -8,6 +8,7 @@ author: ahmadi
 
 Beberapa waktu lalu istri membeli mainan edukasi (yang juga mengedukasi dompet 🙄) untuk anak. Mainan ini berupa boneka yang bisa berbicara. Serius berbicara! (`norak mode`) 
 Beberapa fitur justru malah membuat orang tuanya yang belajar. Seperti selalu. 
+
 Memang agak rancu rasanya saat membesarkan anak. Seringkali malah saya sendiri sebagai orang tua yang memperoleh pengajaran, bukan sebaliknya. Seperti seharusnya. 
 
 Fitur paling sederhana saja sudah memberikan saya banyak pelajaran, yaitu fitur dongeng. 
@@ -43,7 +44,7 @@ Buka halaman repo yang ingin di-fork kemudian klik tombol fork di pojok kanan at
 
 **Ubah nama repo menjadi `<namakamu>.github.io`**
 
-Setelah *forking* selesai kamu telah memiliki sebuah repositori yang persis dengan *parent*-nya. Ubah nama repo melalui `Setting` kemudian lakukan perubahan dari opsi **Rename**.
+Setelah *forking* selesai kamu telah memiliki sebuah repositori yang persis dengan *parent*-nya. Ubah nama repo melalui `Setting` kemudian lakukan perubahan dari opsi `Rename`.
 
 **Sesuaikan kustomisasi website**
 
@@ -61,7 +62,7 @@ Untuk posting artikel, kita lakukan dengan mebuat berkas `.md` di dalam direktor
 
 **Rangkuman**
 
-Jangan berpikir bahwa langkah di atas rumit dan sulit. Mudah kok, hanya saja sayangnya saya enggak berbakat jadi guru. Berikut adalah video rangkuman langkah-langkah kita, yang saya ambil dari repo [beautiful jekyll](https://github.com/daattali/beautiful-jekyll#readme)
+Jangan berpikir bahwa langkah di atas rumit dan sulit. Mudah kok, hanya saja sayangnya saya enggak berbakat jadi guru. Berikut adalah video rangkuman langkah-langkah kita, yang saya ambil dari repo [beautiful jekyll](https://github.com/daattali/beautiful-jekyll#readme).
 
 ![Installation steps](/img/install-steps.gif)
 
