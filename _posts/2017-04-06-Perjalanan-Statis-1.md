@@ -48,11 +48,11 @@ Setelah *forking* selesai kamu telah memiliki sebuah repositori yang persis deng
 
 **Sesuaikan kustomisasi website**
 
-Edit file `_config.yml` sesuai keterangan website kamu melaui icon pensil yang kan tampil ketika kamu membukafile tersebut. Pengembang [beautiful jekyll](https://github.com/daattali/beautiful-jekyll) menyertakan komentar dalam file `_config.yml` untuk membantu kita, baca dan ikuti secara perlahan. Sampai sini kamu sudah punya website statis sendiri yang dapat diakses dari alamat http://namakamu.github.io.
+Edit file `_config.yml` sesuai keterangan website kamu melaui icon pensil yang akan tampil ketika kamu membuka berkas tersebut. Pengembang [beautiful jekyll](https://github.com/daattali/beautiful-jekyll) menyertakan komentar dalam file `_config.yml` untuk membantu kita, baca dan ikuti secara perlahan. Sampai sini kamu sudah punya website statis sendiri yang dapat diakses dari alamat http://namakamu.github.io.
 
 **Menulis posting**
 
-Untuk posting artikel, kita lakukan dengan mebuat berkas `.md` di dalam direktori `_post`. Artikel ditulis menggunakan [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), jangan khawatir mengenai hali ini, karena `markdown` lebih mudah dipelajari dibandingkan `html`.
+Untuk posting artikel, kita lakukan dengan membuat berkas `.md` di dalam direktori `_post`. Artikel ditulis menggunakan [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), jangan khawatir mengenai hali ini, karena `markdown` lebih mudah dipelajari dibandingkan `html`.
 
 **Editor**
 
