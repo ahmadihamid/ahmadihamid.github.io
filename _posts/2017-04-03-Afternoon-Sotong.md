@@ -4,6 +4,7 @@ title: Afternoon Sotong, Karena Ada Kamu Saat Senja
 tags: [Masak]
 comments: true
 author: ahmadi
+summary: "Bahasan kita kali masih soal memasak. Menu hari ini adalah Afternoon Sotong. Nama yang agak bombastis padahal sederhana. Kelebihan Sotong yaitu"
 --- 
 
 Waktu. Tuhan saja bersumpah dengannya. 
