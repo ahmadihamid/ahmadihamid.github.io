@@ -89,7 +89,7 @@ Bukan skrip yang hebat. Cuma skrip dadakan. Kalau kamu jeli lagi belum ada `prom
 
 **Pengujian**
 
-Iseng kita bandingin performa halaman statis kita yuk!
+Iseng kita bandingin performa halaman statis kita yuk! Saya menggunakan <https://tools.pingdom.com> dan berikut adalah pengujian ala-ala nya :
 
 -  <https://www.scribd.com/document/344235167/Presentasi-Transfer-Knowledge>
 
