@@ -9,18 +9,22 @@ author: ahmadi
 Saya adalah guru yang buruk. Itu harga pas gak bisa ditawar lagi. Sewaktu kecil adik saya selalu menangis kalau diajari oleh kakaknya. Saat belajar bersama teman sebaya mereka pasti kecewa saat saya giliran menjelaskan suatu permasalahan. Algoritmanya enggak manusiawi. Analoginya bukan dari Bumi. Asing katanya. 
 
 Oleh karena itu saya sangat hormat dan sayang pada guru. Semisal pada guru agama saya yang manis atau guru analisa fisika non instrumen yang imut dulu semasa sekolah. `YKWIM`. 
+
 😋
 
 `...`
 
-Melanjutkan serial "Perjalanan Statis" kita, kali ini kita akan membuat halaman web statis yang dapat dimanfaatkan oleh seorang guru. Yaitu suatu halaman web statis yang memiliki layanan berbagai dokumen seperti slideshare
+Melanjutkan serial `"Perjalanan Statis"` kita, kali ini kita akan membuat halaman web statis yang dapat dimanfaatkan oleh seorang guru. Yaitu suatu halaman web statis yang memiliki layanan berbagai dokumen seperti academia atau scribd, sebenarnya saya mau membandingkan dengan slideshare namun sayangnya saya kesulitan mendaftar akun di sana tombol *social login* pun bermasalah.
 
-**Kenapa enggak pake yang sudah ada saja? **
+**Kenapa enggak pake yang sudah ada saja?**
 
 Pertama, sesuai manfaat yang sudah kita bahas di seri sebelumnya (link), di poin pertama soal kecepatan kita akan mencoba melakukan uji banding halaman Web yang kita buat dengan Web profesional di atas.
 Kedua, ya karena kita bisa. 
+
 😎
+
 Kalau ada yang gratis kenapa harus pakai yang "gratis". 
+
 😉
 
 **Buat repo Web Statis **
@@ -87,15 +91,15 @@ Bukan skrip yang hebat. Cuma skrip dadakan. Kalau kamu jeli lagi belum ada `prom
 
 Iseng kita bandingin performa halaman statis kita yuk!
 
--  https://www.scribd.com/document/344235167/Presentasi-Transfer-Knowledge
+-  <https://www.scribd.com/document/344235167/Presentasi-Transfer-Knowledge>
 
 ![](/img/ps-scribd.png) 
 
-- https://www.academia.edu/32291160/Presentasi_Transfer_Knowledge
+- <https://www.academia.edu/32291160/Presentasi_Transfer_Knowledge>
 
 ![](/img/ps-academia.png) 
 
-- https://ahmadihamid.com/kubu/
+- <https://ahmadihamid.com/kubu/>
 
 ![](/img/ps-modol.png) 
 
@@ -104,12 +108,15 @@ Walau ada yang aneh.. Yah kira-kira gitu lah. Web statis masih lebih gegas ketim
 Selamat mengajar!
 😘
 
+---
+
 > "bapakku"
 >
 > pak Ino guruku
 >
 > darahku dari tintamu 
 
+---
 
 **Referensi** :
 
