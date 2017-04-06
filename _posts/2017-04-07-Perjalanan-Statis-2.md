@@ -4,7 +4,7 @@ title: Web Statis Buat Guru Ngajar
 tags: [Web]
 comments: true
 author: ahmadi
-summary : "Melanjutkan serial `"Perjalanan Statis"` kita, kali ini kita akan membuat halaman web statis yang dapat dimanfaatkan oleh seorang guru. Yaitu suatu halaman web statis yang memiliki layanan berbagai dokumen seperti academia atau scribd, sebenarnya saya mau membandingkan dengan slideshare"
+summary: "Melanjutkan serial `"Perjalanan Statis"` kita, kali ini kita akan membuat halaman web statis yang dapat dimanfaatkan oleh seorang guru. Yaitu suatu halaman web statis yang memiliki layanan berbagai dokumen seperti academia atau scribd, sebenarnya saya mau membandingkan dengan slideshare"
 --- 
 
 Saya adalah guru yang buruk. Itu harga pas gak bisa ditawar lagi. Sewaktu kecil adik saya selalu menangis kalau diajari oleh kakaknya. Saat belajar bersama teman sebaya mereka pasti kecewa saat saya giliran menjelaskan suatu permasalahan. Algoritmanya enggak manusiawi. Analoginya bukan dari Bumi. Asing katanya. 
