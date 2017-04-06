@@ -4,6 +4,12 @@ title: Blog Statis Dalam GitHub
 tags: [Web]
 comments: true
 author: ahmadi
+summary: "Bahasan kita kali ini yaitu menulis atau bahasa okem nya nge-blog menggunakan static site generator. Sesuai tema serialisasi terbaru kita. Banyak sekali keistimewaan dari menulis blog berupa halaman web statis :
+
+    kecepatan
+    kontrol versi
+    keamanan
+    enggak repot kelola server"
 --- 
 
 Beberapa waktu lalu istri membeli mainan edukasi (yang juga mengedukasi dompet 🙄) untuk anak. Mainan ini berupa boneka yang bisa berbicara. Serius berbicara! (`norak mode`) 
