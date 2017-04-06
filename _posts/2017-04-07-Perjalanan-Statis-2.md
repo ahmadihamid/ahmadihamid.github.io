@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Web Dokumen Statis Buat Guru Mandiri
+title: Web Statis Buat Guru Ngajar
 tags: [Web]
 comments: true
 author: ahmadi
