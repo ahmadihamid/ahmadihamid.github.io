@@ -87,7 +87,7 @@ google_analytics:
 # Output options (more information on Jekyll's site)
 timezone: "Asia/Jakarta"
 future: true
-markdown: kramdown
+markdown: redcarpet
 highlighter: rouge
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
