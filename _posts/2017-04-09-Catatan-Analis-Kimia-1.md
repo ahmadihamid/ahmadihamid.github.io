@@ -1,22 +1,29 @@
 ---
 layout: post
-title: Bobot Terkecil dalam Menimbang (ada html nya)
+title: Bobot Terkecil dalam Menimbang
 tags: [Kimia Analisis]
 comments: true
 author: ahmadi
-summary: "Menimbang merupakan keahlian yang pertama diajarkan pada para calon analis kimia. Petualangan menegangkan yang saya bayangkan saat membaca buku profil SMAKBO dengan kosa katanya yang super asing, Gravimetri katanya, Volumetri katanya, Proksimat, Spektrofotometri, Chromatografi, asing, asing, benar-benar asing dan terdengar luar biasa, saya merasa seperti Bilbo Baggins yang selalu hidup tentram di guanya dan kemudian datang para Kurcaci bercerita petualangan-petualangan hebat mereka satu-satu, tapi itu belum semua, yang terasing saya simpan di akhir buat bikin kamu kaget, yaitu “meniup kaca”. Ya petualangan yang tedengar hebat (dan memang hebat) itu ternyata dimulai dari menimbang menggunakan neraca analitik mekanik nan antik dengan jarum bergoyangnya yang dapat menggoyang takdir para analis muda!"
+summary: "Menimbang merupakan keahlian yang pertama diajarkan pada para calon analis kimia. Petualangan menegangkan yang saya bayangkan saat membaca buku profil SMAKBO dengan kosa katanya yang super asing, Gravimetri katanya, Volumetri katanya, Proksimat, Spektrofotometri, Chromatografi, asing, asing, benar-benar asing dan terdengar luar biasa, saya merasa seperti Bilbo Baggins yang selalu hidup tentram di guanya dan kemudian datang para Kurcaci bercerita petualangan-petualangan hebat mereka satu-satu, tapi itu belum semua, yang terasing saya simpan di akhir buat bikin kamu kaget, yaitu"
 --- 
 
 Akhirnya (lho kok langsung akhir?), saya memutuskan buat membahas soal `kimia analisis` untuk tantangan `ODOA` (satu hari satu artikel) kali ini, karena saya kesulitan menemukan blog berisi materi kimia analisis, pun ketemu satu-dua hanya membahas materi-materi sekolah. 
+
 Berbeda dengan blog teknologi informasi atau dunia komputer yang biasanya berisi tips/trik atau `hacking` (bukan dalam artian bodoh tentunya). 
+
 Entah kenapa, mungkin memang karena kimia analisis itu sendiri terlalu baku sehingga enggak banyak yang bisa `diulik`, misalnya saja ketika kita akan menggunakan pereaksi kimia dengan konsentrasi berbeda (lebih pekat/lebih encer) dengan prosedur maka **diwajibkan** dilakukan validasi. 
+
 Atau jangan-jangan karena analis kimia itu pekerjaan bergaji kecil sehingga mereka enggak punya waktu buat ngulik dan kemudian mendokumentasikan ulikannya. 
+
 Atau lagi saya kurang gaul. Semoga ada pembaca yang membuktikan `ke-kurang-gaul-an` saya ini dengan memberikan tautan blog berisi materi kimia analisis di bagian komentar. 
+
 😁
 
 Untuk memulai tema baru (lagi-lagi dan lagi) ini saya akan mulai dari hal fundamental atau mendasar yaitu `menimbang`. 
+
 Sama seperti di sekolah dulu. Menimbang merupakan keahlian yang pertama diajarkan pada para calon analis kimia. 
-Petualangan menegangkan yang saya bayangkan saat membaca buku profil `SMAKBO` dengan kosa katanya yang super asing, `Gravimetri` katanya, `Volumetri` katanya, `Proksimat`, `Spektrofotometri`, `Chromatografi`, asing, asing, benar-benar asing dan terdengar luar biasa, saya merasa seperti `Bilbo Baggins` (padahal manuskrip mbah Tolkien ini belum disulap jadi buku saat itu 😂) yang selalu hidup tentram di guanya dan kemudian datang para Kurcaci bercerita petualangan-petualangan hebat mereka satu-satu, tapi itu belum semua, yang terasing saya simpan di akhir buat bikin kamu kaget, yaitu **"meniup kaca"**. 
+Petualangan menegangkan yang saya bayangkan saat membaca buku profil `SMAKBO` dengan kosa katanya yang super asing, `Gravimetri` katanya, `Volumetri` katanya, `Proksimat`, `Spektrofotometri`, `Chromatografi`, asing, asing, benar-benar asing dan terdengar luar biasa, saya merasa seperti `Bilbo Baggins` (padahal manuskrip mbah Tolkien ini belum disulap jadi buku saat itu 😂) yang selalu hidup tentram di gua-nya dan kemudian datang para Kurcaci bercerita petualangan-petualangan hebat mereka satu-satu, tapi itu belum semua, yang terasing saya simpan di akhir buat bikin kamu kaget, yaitu **"meniup kaca"**. 
+
 Ya petualangan yang tedengar hebat (dan memang hebat) itu ternyata dimulai dari **menimbang** menggunakan neraca analitik mekanik nan antik dengan jarum bergoyangnya yang dapat menggoyang takdir para analis muda!
 
 ![](/img/ak-neraca-analitik.jpg) 
@@ -45,7 +52,6 @@ Hoo..Sartorius terlihat lebih teliti dalam menulis nilai `d` beliau membedakan n
 
 Untuk mengetahui bobot minimal yang dapat ditimbang pada suatu neraca membutuhkan sebuat perjalanan panjang yang enggak mungkin saya bahas (karena saya enggak tahu 😎) secara mendetil. Berikut adalah persamaan untuk memperoleh nilai bobot minimal :
 
-<!DOCTYPE html>
 <html>
   <head>
     <meta content="text/html; charset=utf-8" http-equiv="content-type">
@@ -62,7 +68,7 @@ Untuk mengetahui bobot minimal yang dapat ditimbang pada suatu neraca membutuhka
       memperoleh Standar Deviasi ( <code> sd</code> ) atau simpangan baku dari
       alat melalui proses kalibrasi. Kemudian dilanjutkan ke <code> petualangan</code>
       memperoleh toleransi, yaitu ketetapan berdasar tingkat kepercayaan dari
-      hasil penetapan ketidakpastian ( <code> U </code> ), saya biasanya
+      hasil penetapan ketidakpastian ( <code> U</code> ), saya biasanya
       menggunakan tingkat kepercayaan 95% sehinggga nilai U=5%, tapi saya kurang
       ingat ini merujuk ke mana. Maaf. </p>
     <p> 😔 </p>
@@ -75,7 +81,9 @@ Untuk mengetahui bobot minimal yang dapat ditimbang pada suatu neraca membutuhka
       Pertanyaanya : Bolehkah kita menggunakan neraca dengan spesifikasi gambar
       di atas? </p>
     <p> 😨 </p>
+    <br>
     <p> <strong> Sampai jumpa tahun depan!! </strong> </p>
+    <br>
     <hr>
     <p> Ok buat menjawab pertanyaan di atas kita butuh beberapa informasi
       tambahan, yaitu bobot residu yang akan ditimbang, simpangan baku dan
