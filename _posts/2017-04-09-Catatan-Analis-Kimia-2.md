@@ -4,8 +4,10 @@ title: Menimbang Warna Menggunakan Chromameter
 tags: [Kimia Analisis]
 comments: true
 author: ahmadi
-summary: ""
+summary: "Sehari-hari saya menggunakan alat ini untuk menguji warna di tempat saya bekerja. Suatu hari saya kedatangan sample yang tidak biasa. Saya diminta menguji warna dari pakaian menggunakan Chromameter ini. Menarik. Menarik karena saya enggak tau data apa yang dibutuhkan. Karena sepertinya ini berhubungan dengan spesifikasi warna pakaian untuk pengadaan di perusahaan X. Sang pelanggan hanya meminta"
 --- 
+
+> Warnaku warnamu sama. Ditabu bersatu karena sia-sia.
 
 Sedikit keluar dari tema kita - yaitu kimia karena ternyata saya juga menemui ke zona remis dalam topik ini atau mungkin kehabisan energi setelah menjalani 1/3 bulan `One Day One Article` - walau masih berhubungan (atau tidak) kali ini bahasan kita berbau matematika berbumbu fisika. 
 Sebenarnya saya (dan kebanyakan orang) **kurang suka** dua materi ini, satu terasa enggak bisa dimanfaatkan di kehidupan sehari-hari, dua  terasa enggak masuk akal (baca : enggak sampe ke akal saya). Walau keduanya terlihat menarik bukan main, saya mustahil jatuh cinta pada salah satunya. 
@@ -55,7 +57,7 @@ Yuk kita turunkan rumus ∆E*ab ini :
       persamaan <mathjax> $a^2 + b^2 + c^2 = d^2$ </mathjax> dimana <mathjax>
         $| a |, | b |, dan | c |$ </mathjax> merupakan sisi dari sebuah kubus
       dengan <mathjax> $d$ </mathjax> sebagai diagonal ruangnya. </p>
-    <p> <img alt="" src="/img/ak-pq.jpg"> </p>
+    <p> <img alt="" src="/img/ak-qp2.jpg"> </p>
     <p> Dari persamaan dia atas yuk coba perhatikan ilustrasi berikut ini! </p>
     <p> Semisal dalam beberapa sampel kita memperoleh hasil sebagai berikut : </p>
     <table style="width: 291px; height: 81px;" border="1">
@@ -124,10 +126,12 @@ type="text/javascript">
   </body>
 </html>
 
-Berapakah nilai `∆E*ab`-nya?
+Berapakah nilai `∆E*ab`dari masing-masing sampel?
+
 Jawabannya semua `27`.
 
 Apakah warna pakaiannya sama?
+
 `Tidak.`
 
 Selamat hari senin!
@@ -136,3 +140,11 @@ Selamat hari senin!
 
 <https://t.me/halamanbelakang>
 <https://plus.maths.org/content/triples-and-quadruples>
+
+---
+
+**Tambahan**
+
+Maaf ya pak Manajer kalo bapak baca ini karena saya juga ragu plus gak tau waktu itu. Saya juga sudah coba meminta materi pembelajaran ke Konica Minolta (ssg@konicaminolta.sg) tapi belum ada balasan. Kalau bapak ada pertanyaan boleh di form Disqus di bawah, jangan di kantor biar Blog saya ramai. 
+
+😊
