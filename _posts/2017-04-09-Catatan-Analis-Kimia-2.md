@@ -9,14 +9,15 @@ summary: "Sehari-hari saya menggunakan alat ini untuk menguji warna di tempat sa
 
 > Warnaku warnamu sama. Ditabu bersatu karena sia-sia.
 
-Sedikit keluar dari tema kita - yaitu kimia karena ternyata saya juga menemui ke zona remis dalam topik ini atau mungkin kehabisan energi setelah menjalani 1/3 bulan `One Day One Article` - walau masih berhubungan (atau tidak) kali ini bahasan kita berbau matematika berbumbu fisika. 
-Sebenarnya saya (dan kebanyakan orang) **kurang suka** dua materi ini, satu terasa enggak bisa dimanfaatkan di kehidupan sehari-hari, dua  terasa enggak masuk akal (baca : enggak sampe ke akal saya). Walau keduanya terlihat menarik bukan main, saya mustahil jatuh cinta pada salah satunya. 
-Sama seperti aktris cantik dari Jepang atau Korea misalnya, cantik tapi mustahil dicintai. 
+Sedikit keluar dari tema kita - yaitu kimia karena ternyata saya juga menemui zona **remis** dalam topik ini atau mungkin kehabisan energi setelah menjalani 1/3 bulan `One Day One Article` - walau masih berhubungan (atau tidak) kali ini bahasan kita berbau matematika berbumbu fisika. 
+Sebenarnya saya (dan kebanyakan orang) **kurang suka** dua materi ini, satu terasa enggak bisa dimanfaatkan di kehidupan sehari-hari, dua  terasa enggak masuk akal (**baca** : enggak sampe ke akal saya). 
+Walau keduanya terlihat menarik bukan main, saya mustahil jatuh cinta pada salah satunya. 
+Sama seperti aktris cantik dari `Jepang` atau `Korea` misalnya, cantik tapi mustahil dicintai. 
 
 😭
 
-Saya pernah iseng bertanya ke dua guru yang saya banggakan yaitu pak Wijaya dan almarhum pak Ono. Agak panjang tapi intinya : Pak buat apa belajar Matematika?. Yang satu bilang bilang "**buat ngerjain UAN**" yang  `dua` bilang "**buat ngerjain ujian**". Hampir identik! Walau saya tau mereka juga cuma iseng dalam menjawab pertanyaan iseng saya. 
-Tapi ya ada benarnya. Toh kurikulum sekolah kita masih SOP pabrik karyawan. Dan ujian adalah auditnya. 
+Saya pernah iseng bertanya ke dua guru yang saya banggakan yaitu pak Wijaya dan almarhum pak Ono. Agak panjang tapi intinya : Pak buat apa belajar Matematika?. Yang satu bilang bilang "**buat ngerjain ujian**" yang  `dua` bilang "**buat ngerjain UAN**". Hampir identik! Walau saya tau mereka juga cuma iseng dalam menjawab pertanyaan iseng saya. 
+Tapi ya ada benarnya. Toh kurikulum sekolah kita masih `SOP` "pabrik karyawan". Dan ujian adalah auditnya. 
 
 Saat di perguruan tinggi (padahal sekarang juga masih 😭) saya pernah ditugaskan mengikuti `ONMIPA` bidang Matematika entah karena `kecelakaan` atau karena `sindrom` yang pernah saya ceritakan [di sini](https://ahmadihamid.com/SweetHome3D/). `2`x`2`jam mimpi buruk saat terjaga selama `2` hari! Hampir sebagian besar waktu buat mengerjakan soal saya gunakan buat meratapi nasib dan menyesali dosa-dosa. Bengong. Hasilnya jelas, tahap seleksi daerah saja enggak lolos. 
 
@@ -28,7 +29,7 @@ Setelah kemarin kita bahas timbangan massa sekarang giliran `timbangan` warna.
 
 ![](/img/ak-cr.jpg) 
 
-Alat di atas bernama Chromameter. Sehari-hari saya menggunakan alat ini untuk menguji warna di tempat saya bekerja. Suatu hari saya kedatangan sample yang tidak biasa. Saya diminta menguji warna dari pakaian menggunakan Chromameter ini. Menarik. Menarik karena saya enggak tau data apa yang dibutuhkan. Karena sepertinya ini berhubungan dengan spesifikasi warna pakaian untuk pengadaan di perusahaan `X`. Sang pelanggan hanya meminta `∆E*ab` yaitu total perbedaan warna. Masuk akal tapi apa cukup? 
+Alat di atas bernama `Chromameter`. Sehari-hari saya menggunakan alat ini untuk menguji warna di tempat saya bekerja. Suatu hari saya kedatangan sample yang tidak biasa. Saya diminta menguji warna dari pakaian menggunakan Chromameter ini. Menarik. Menarik karena saya enggak tau data apa yang dibutuhkan. Karena sepertinya ini berhubungan dengan spesifikasi warna pakaian untuk pengadaan di perusahaan `X`. Sang pelanggan hanya meminta `∆E*ab` yaitu total perbedaan warna. Masuk akal tapi apa **cukup**? 
 
 Yuk kita turunkan rumus ∆E*ab ini :
 
@@ -48,7 +49,7 @@ Yuk kita turunkan rumus ∆E*ab ini :
         + </b> ; hijau: <b> - </b> ) <br>
       <mathjax> $b* :$ </mathjax> perbedaan kuning dan biru (kuning : <b> +
       </b> ; biru: <b> - </b> ) <br>
-      <mathjax> $∆E*ab$ </mathjax> :$ total perbedaan warna </p>
+      <mathjax> $∆E*ab$ </mathjax> : total perbedaan warna </p>
     <p> <mathjax> $$∆E*ab = \sqrt{(∆L*)^2+(∆a*)^2+(∆b*)^2}$$ </mathjax> <br>
       <mathjax> $$(∆E*ab)^2 = (∆L*)^2+(∆a*)^2+(∆b*)^2$$ </mathjax> <br>
       Sehingga <mathjax> $ ∆E*ab, ∆L*, ∆a* &amp; ∆b* $ </mathjax> merupakan <a
