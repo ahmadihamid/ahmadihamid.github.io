@@ -44,10 +44,10 @@ Yuk kita turunkan rumus ∆E*ab ini :
   </head>
   <body><mathjax><br>
       $L* :$ </mathjax> tingkat kecerahan suatu sampel <br>
-    <p> <mathjax> $a* :$ </mathjax> perbedaan merah dan hijau (merah: <code>
-        + </code> ; hijau: <code> - </code> ) <br>
-      <mathjax> $b* :$ </mathjax> perbedaan kuning dan biru (kuning : <code> +
-      </code> ; biru: <code> - </code> ) <br>
+    <p> <mathjax> $a* :$ </mathjax> perbedaan merah dan hijau (merah: <b>
+        + </b> ; hijau: <b> - </b> ) <br>
+      <mathjax> $b* :$ </mathjax> perbedaan kuning dan biru (kuning : <b> +
+      </b> ; biru: <b> - </b> ) <br>
       <mathjax> $∆E*ab$ </mathjax> :$ total perbedaan warna </p>
     <p> <mathjax> $$∆E*ab = \sqrt{(∆L*)^2+(∆a*)^2+(∆b*)^2}$$ </mathjax> <br>
       <mathjax> $$(∆E*ab)^2 = (∆L*)^2+(∆a*)^2+(∆b*)^2$$ </mathjax> <br>
