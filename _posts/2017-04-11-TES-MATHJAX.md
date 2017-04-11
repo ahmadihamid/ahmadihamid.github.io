@@ -21,4 +21,4 @@ $$∆E*ab = \sqrt{(∆L*)^2+(∆a*)^2+(∆b*)^2}$$
 
 $$(∆E*ab)^2 = (∆L*)^2+(∆a*)^2+(∆b*)^2$$
 
-Sehingga $ ∆E*ab, ∆L*, ∆a* & ∆b* $  merupakan [Pythagorean Quadruple](https://en.m.wikipedia.org/wiki/Pythagorean_quadruple) yaitu tupel dari bilangan bulat dengan persamaan $a^2 + b^2 + c^2 = d^2$ dimana $| a |, | b |, dan | c |$ merupakan sisi dari sebuah kubus dengan $d$ sebagai diagonal ruangnya.
+Sehingga $ ∆E*ab, ∆L*, ∆a* & ∆b* $  merupakan [Pythagorean Quadruple](https://en.m.wikipedia.org/wiki/Pythagorean_quadruple) yaitu tupel dari bilangan bulat dengan persamaan $a^2 + b^2 + c^2 = d^2$ dimana $$| a |, | b |, dan | c |$$ merupakan sisi dari sebuah kubus dengan $d$ sebagai diagonal ruangnya.
