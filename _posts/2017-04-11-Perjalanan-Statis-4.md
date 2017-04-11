@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dukungan MathJax dalam Blog Jekyll 
+title: Menambah Dukungan MathJax dalam Blog Jekyll 
 tags: [Web, Jekyll]
 comments: true
 author: ahmadi
@@ -10,7 +10,7 @@ summary: "Pada kesempatan kali ini saya dipaksa belajar menambahkan dukungan Mat
 
 > Menulis membantu diri sendiri. Tetap ada walau mati.
 
-Menulis dengan tema sepertinya merupakan ide bagus sekaligus buruk. Buruk karena ternyata malah enggak ada yang memberi komentar 😭. Blunder. Tapi berkat menulis topik baru lagi-lagi saya belajar hal baru. Ditambah lagi menulis blog dalam lingkungan web statis seperti ini memang `memaksa` banyak belajar. Kadang sepertinya malah buang-buang waktu dan `kotra-produktif`. 
+Menulis dengan tema `kimia analisis` sepertinya merupakan ide bagus sekaligus buruk. Buruk karena ternyata malah enggak ada yang memberi komentar 😭. *Blunder*. Tapi berkat menulis topik baru lagi-lagi saya belajar hal baru. Ditambah lagi menulis blog dalam lingkungan web statis seperti ini memang `memaksa` banyak belajar. Kadang sepertinya malah buang-buang waktu dan `kotra-produktif`. 
 Ah! Toh menulis memang bukan buat membuat orang belajar apalagi pamer kepintaran, menulis malah menjadi sarana belajar tersendiri buat saya yang malas belajar ini. Ya walau niat awal saya menggunakan Jekyll untuk `nge-blog` biar terlihat *geek*. Tau *geek* kan? Yang seperti digambar ini lho :
 
 ![](/img/ps4-bebegik.jpg) 
