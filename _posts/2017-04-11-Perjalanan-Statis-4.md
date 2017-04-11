@@ -147,8 +147,9 @@ Alhamdulillah ternyata kita belum butuh neraca super canggih dan pastinya super 
 ```
 
 Enggak enak dilihat kan? Apalagi dibaca. 
+Solusi `darurat` alias sementara. Yang penting produksi jalan. 
 
-Solusi darurat alias sementara. Yang penting produksi jalan. Dan buat solusi jangka panjangnya (terimakasih pada [Dean Attali](https://github.com/daattali/beautiful-jekyll/issues/195)) kita dapat menggunkan opsi `js` atau `ext-js` dalam parameter YAML postingan kita. Sehingga kita dapat kembali menulis sepenuhnya dalam Markdown. Berikut adalah contoh penggunaan MathJax :
+Sedangkan buat solusi jangka panjangnya (terimakasih pada [Dean Attali](https://github.com/daattali/beautiful-jekyll/issues/195)) kita dapat menggunkan opsi `js` atau `ext-js` dalam parameter YAML postingan kita. Sehingga kita dapat kembali menulis sepenuhnya dalam Markdown. Berikut adalah contoh penggunaan MathJax :
 
 ```shell
 ---
@@ -203,11 +204,11 @@ Sehingga $ ∆E*ab, ∆L*, ∆a* & ∆b* $  merupakan [Pythagorean Quadruple](ht
 
 ---
 
-Ternyata (atau hanya di peramban saya) terjadi kegagalan dalam merender `\[...\]` dan `\(...\)` dimana seharusnya menampilkan rumus matematika dalam baris yang sama. Pun terjadi kegagalan saat menggunakan `$$...$$` malah menampilkan rumus dalam baris dimana seharusnya dihasilkan rumus dengan level block.
+**Ternyata** (atau hanya di peramban saya) terjadi kegagalan dalam merender `\[...\]` dan `\(...\)` dimana seharusnya menampilkan rumus matematika dalam baris yang sama. Pun terjadi kegagalan saat menggunakan `$$...$$` malah menampilkan rumus dalam baris dimana seharusnya dihasilkan rumus dengan level block.
 
 😒
 
-Lagi-lagi, sementara yang penting jalan. Toh kita dapat menggunakan tombol `[ENTER]` untuk baris baru.
+Lagi-lagi, sementara `yang penting jalan`. Toh kita dapat menggunakan tombol `[ENTER]` untuk baris baru.
 
 Selamat terpaksa!
 
