@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Menimbang Warna Menggunakan Chromameter
+title: tes mathjax
 tags: [Kimia Analisis]
 comments: true
 author: ahmadi
