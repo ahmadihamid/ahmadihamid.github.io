@@ -161,7 +161,7 @@ summary: ""
 ext-js: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"
 --- 
 
-##TESTING
+###TESTING
 
 Yuk kita turunkan rumus $$∆E*ab$$ ini :
 
@@ -174,15 +174,17 @@ $$∆E*ab = \sqrt{(∆L*)^2+(∆a*)^2+(∆b*)^2}$$
 
 $$(∆E*ab)^2 = (∆L*)^2+(∆a*)^2+(∆b*)^2$$
 
-Sehingga $ ∆E*ab, ∆L*, ∆a* & ∆b* $  merupakan [Pythagorean Quadruple](https://en.m.wikipedia.org/wiki/Pythagorean_quadruple) yaitu tupel dari bilangan bulat dengan persamaan $a^2 + b^2 + c^2 = d^2$ dimana $$| a |, | b |, dan | c |$$ merupakan sisi dari sebuah kubus dengan $d$ sebagai diagonal ruangnya.
+Sehingga $ ∆E*ab, ∆L*, ∆a* & ∆b* $  merupakan [Pythagorean Quadruple](https://en.m.wikipedia.org/wiki/Pythagorean_quadruple) yaitu tupel dari bilangan bulat dengan persamaan $a^2 + b^2 + c^2 = d^2$ dimana $$ a ,  b , dan  c $$ merupakan sisi dari sebuah kubus dengan $d$ sebagai diagonal ruangnya.
 
-##EOT
+###EOT
+
 ```
 
 Dan dibawah ini adalah hasilnya :
 
 ---
-##TESTING
+
+###TESTING
 
 Yuk kita turunkan rumus $$∆E*ab$$ ini :
 
@@ -195,9 +197,10 @@ $$∆E*ab = \sqrt{(∆L*)^2+(∆a*)^2+(∆b*)^2}$$
 
 $$(∆E*ab)^2 = (∆L*)^2+(∆a*)^2+(∆b*)^2$$
 
-Sehingga $ ∆E*ab, ∆L*, ∆a* & ∆b* $  merupakan [Pythagorean Quadruple](https://en.m.wikipedia.org/wiki/Pythagorean_quadruple) yaitu tupel dari bilangan bulat dengan persamaan $a^2 + b^2 + c^2 = d^2$ dimana $$| a |, | b |, dan | c |$$ merupakan sisi dari sebuah kubus dengan $d$ sebagai diagonal ruangnya.
+Sehingga $ ∆E*ab, ∆L*, ∆a* & ∆b* $  merupakan [Pythagorean Quadruple](https://en.m.wikipedia.org/wiki/Pythagorean_quadruple) yaitu tupel dari bilangan bulat dengan persamaan $a^2 + b^2 + c^2 = d^2$ dimana $$ a ,  b , dan  c $$ merupakan sisi dari sebuah kubus dengan $d$ sebagai diagonal ruangnya.
 
-##EOT
+###EOT
+
 ---
 
 Ternyata (atau hanya di peramban saya) terjadi kegagalan dalam merender `\[...\]` dan `\(...\)` dimana seharusnya menampilkan rumus matematika dalam baris yang sama. Pun terjadi kegagalan saat menggunakan `$$...$$` malah menampilkan rumus dalam baris dimana seharusnya dihasilkan rumus dengan level block.
