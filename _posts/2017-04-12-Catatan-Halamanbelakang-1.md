@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Sesisir Cerita Tentang Pisang
-tags: [halamanbelakang]
+tags: [halamanbelakang, koleksi tanaman]
+category: halamanbelakang
 comments: true
 author: ahmadi
 --- 

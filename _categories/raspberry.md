@@ -5,4 +5,4 @@ category: raspberry
 permalink: /raspberry/
 ---
 
-Berikut ini adalah arsip pembahasan mengenai _raspberry_ :
+Berikut ini adalah arsip pembahasan mengenai `Raspberry pi` :

@@ -5,4 +5,4 @@ category: jaringan
 permalink: /jaringan/
 ---
 
-Berikut ini adalah arsip tentang jaringan internet ataupun intranet:
+Berikut ini adalah arsip tentang jaringan komputer :
