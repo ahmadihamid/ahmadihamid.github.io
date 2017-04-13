@@ -4,6 +4,7 @@ title: Mengintip Angkasa, Murah Meriah Melacak Pesawat
 tags: [SDR, ADS-B, LEDE]
 comments: true
 author: ahmadi
+category: linux
 summary: "Seperti tulisan yang sudah-sudah, saya bukan pakar di topik tulisan saya, ini adalah kisah pertualangan dengan si mungil rtl-sdr."
 --- 
 

@@ -4,6 +4,7 @@ title: Ngoprek di Kuali
 tags: [Masak]
 comments: true
 author: ahmadi
+category: masak
 --- 
 
 Buat kalian yang nunggu sekuel dari [https://ahmadihamid.com/KetinggalanZaman](https://ahmadihamid.com/KetinggalanZaman/), sayang sekali karena kalian harus sabar menunggu karena kali ini saya ingin memasuki dimensi masak-memasak. Sudah lama saya pengen nulis soal masakan, tapi entah kenapa belum kesampaian juga. Yuk kita mulai! Dari awal se-sederhana apa pun. 

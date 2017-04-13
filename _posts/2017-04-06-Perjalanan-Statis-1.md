@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Blog Statis Dalam GitHub
-tags: [Web]
+tags: [Web, Jekyll]
+category: pemrograman
 comments: true
 author: ahmadi
 summary: "Bahasan kita kali ini yaitu menulis atau bahasa okem nya nge-blog menggunakan static site generator. Sesuai tema serialisasi terbaru kita. Banyak sekali keistimewaan dari menulis blog berupa halaman web statis :

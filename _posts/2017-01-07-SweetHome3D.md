@@ -4,6 +4,7 @@ title: SweetHome3D, Desain Sendiri Rumah Kamu
 tags: [GNU/Linux]
 comments: true
 author: ahmadi
+category: linux
 --- 
 
 Saya bukanlah ahli di bidang desain, beberapa orang diberi karunia `jiwa seni`, yang lainnya `logika analitis`, dan sayangnya saya **bukan** keduanya.

@@ -5,6 +5,7 @@ tags: [Linux]
 comments: true
 author: ahmadi
 summary: "Di sini saya akan menggunakan wimlib, sebenarnya tersedia banyak pilihan perangkat lunak untuk membuat wim image namun karena saya telah ketergantungan dengan sistem operasi Linux - dan melupakan banyak hal mengenai administrasi di sistem operasi Windows - saya langsung mencari paket yang tersedia untuk ArchLinux."
+category: linux
 --- 
 
 Saya hampir mustahil dapat dikatakan makhluk kekinian. Jika kebanyakan manusia berusaha sekuat tenaga [demi mengikuti perkembangan zaman](http://www.independent.co.uk/life-style/gadgets-and-tech/news/iphone-6s-chinese-men-try-to-sell-kidney-to-buy-new-handset-10501755.html), dan sisanya yang sedikit menjadi luar biasa, kemudian melampaui zaman itu sendiri. Saya sebagai manusia biasa enggak mampu menjadi opsi kedua, pun enggak mau di opsi satu. Saya lebih memilih meninggalkan zaman ke belakang atau setidaknya diam di tempat, semisal saya bangga mampu bertahan menggunakan ponsel symbian sampai akhir 2015! 

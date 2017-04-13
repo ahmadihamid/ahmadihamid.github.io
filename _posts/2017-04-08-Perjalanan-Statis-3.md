@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Yuk Kenalan dengan Diri Sendiri lewat Web Statis MBTI Tes
-tags: [Web]
+tags: [Web, Psikologi, Jekyll]
+category: pemrograman
 comments: true
 author: ahmadi
 summary: "Tes MBTI dibuat oleh sepasang ibu-anak Katharine dan Isabel, pada tes MBTI terdapat 4 pasang sifat dasar manusia yaitu Introvert (I) & Ekstrovert (E) Sensing (S) & Intuisi (N) Thinking (T) & Feeling (F) kemudian Judging (J) & Perceiving (P), sehingga dapat diperoleh 16 kemungkinan tipe kepribadian manusia jika kita kombinasikan 4 pasangan tersebut. Walau masih diperdebatkan tes MBTI dapat menjadi sarana/acuan awal untuk mengetahui keperibadian seseorang yang mungkin bermanfaat di beberapa bidang seperti pendidikan, karir pekerjaan, atau mungkin perjodohan??"

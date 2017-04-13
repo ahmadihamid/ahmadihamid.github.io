@@ -3,6 +3,7 @@ layout: post
 title: Ganti Nama dan.. Hilang? 
 tags: [halamanbelakang]
 comments: true
+category: halamanbelakang
 ---
 
 Salam kakak!

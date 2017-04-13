@@ -5,6 +5,7 @@ tags: [Windows]
 comments: true
 author: ahmadi
 summary: "Melajut bahasan cloning Windows sebelumnya, setelah “berhasil gagal” menggunakan wimlib saya masih berkeras menggunakan Linux untuk memulihkan Sistem Windows. Kali ini saya menggunakan DCFL (DoD Computer Forensics Lab) dd replacement with hashing."
+category: linux
 --- 
 
 Tetiba teringat pepatah kurang bijak namun kaya akan kejujuran :

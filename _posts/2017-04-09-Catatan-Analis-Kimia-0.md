@@ -2,6 +2,7 @@
 layout: post
 title: Bobot Terkecil dalam Menimbang
 tags: [Kimia Analisis]
+category: halamanbelakang
 comments: true
 author: ahmadi
 summary: "Menimbang merupakan keahlian yang pertama diajarkan pada para calon analis kimia. Petualangan menegangkan yang saya bayangkan saat membaca buku profil SMAKBO dengan kosa katanya yang super asing, Gravimetri katanya, Volumetri katanya, Proksimat, Spektrofotometri, Chromatografi, asing, asing, benar-benar asing dan terdengar luar biasa, saya merasa seperti Bilbo Baggins yang selalu hidup tentram di guanya dan kemudian datang para Kurcaci bercerita petualangan-petualangan hebat mereka satu-satu, tapi itu belum semua, yang terasing saya simpan di akhir buat bikin kamu kaget, yaitu"

@@ -2,6 +2,7 @@
 layout: post
 title: Control Raspberry Using Keyboard
 date: '2015-03-08T18:48:00.000+07:00'
+category: raspberry
 author: xgaptek
 tags:
 - linux

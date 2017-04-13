@@ -5,6 +5,7 @@ tags: [SDR, ADS-B, Android]
 comments: true
 author: ahmadi
 summary: "Pada pertualangan kali ini, pasangan dari surga kita di bulan lalu tepat ketika kita telah berhasil [Mengintip Angkasa](https://ahmadihamid.com/MengintipAngkasa/) mengunakan sejoli `hame mpr-a2` dan `rtl-sdr` yang  ternyata bertemu cinta keduanya yaitu sebuah telepon seluler berbasis Android."
+category: linux
 --- 
 
 !!TULISAN INI DIBUAT DEMI KEPENTINGAN ILMU PENGETAHUAN SEMATA. SEGALA KERUSAKAN/PELANGGARAN TERKAIT TULISAN INI BUKAN TANGGUNGJAWAB PENULIS!!

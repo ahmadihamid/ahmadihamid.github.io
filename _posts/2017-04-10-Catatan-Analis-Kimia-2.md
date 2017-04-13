@@ -2,6 +2,7 @@
 layout: post
 title: Menimbang Warna Menggunakan Chromameter
 tags: [Kimia Analisis]
+category: halamanbelakang
 comments: true
 author: ahmadi
 summary: "Sehari-hari saya menggunakan alat ini untuk menguji warna di tempat saya bekerja. Suatu hari saya kedatangan sample yang tidak biasa. Saya diminta menguji warna dari pakaian menggunakan Chromameter ini. Menarik. Menarik karena saya enggak tau data apa yang dibutuhkan. Karena sepertinya ini berhubungan dengan spesifikasi warna pakaian untuk pengadaan di perusahaan X. Sang pelanggan hanya meminta"

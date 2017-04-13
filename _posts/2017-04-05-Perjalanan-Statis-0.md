@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Maju ke Masa Lalu, seulas cerita si website statis 
-tags: [Web]
+tags: [Web, Jekyll]
 comments: true
 author: ahmadi
 summary: "... namun sepertinya pasang mulai berubah saat static website generator menyerang secara sporadis. Ada sekitar 400an generator website statis di luar sana yang berusaha menyerang kejayaan website dinamis.
 
 Saya pribadi sangat tertarik dengan halaman statis yang dibangun diatas generator ini. Magis!"
+category: pemrograman
 --- 
 
 ![](/img/ps-summer.jpg) 

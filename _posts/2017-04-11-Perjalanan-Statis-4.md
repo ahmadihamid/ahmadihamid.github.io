@@ -2,6 +2,7 @@
 layout: post
 title: Menambah Dukungan MathJax dalam Blog Jekyll 
 tags: [Web, Jekyll]
+category: pemrograman
 comments: true
 author: ahmadi
 ext-js: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"

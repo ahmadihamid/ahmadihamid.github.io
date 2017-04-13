@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Web Statis Buat Guru Ngajar
-tags: [Web]
+tags: [Web, Jekyll]
+category: pemrograman
 comments: true
 author: ahmadi
 summary: "Melanjutkan serial Perjalanan Statis kita, kali ini kita akan membuat halaman web statis yang dapat dimanfaatkan oleh seorang guru. Yaitu suatu halaman web statis yang memiliki layanan berbagai dokumen seperti academia atau scribd, sebenarnya saya mau membandingkan dengan slideshare"
