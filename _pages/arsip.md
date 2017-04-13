@@ -1,6 +1,6 @@
 ---
 layout: archives
 title: Arsip Artikel
-subtitle: Daftar seluruh artikel Sinaudev
+subtitle: Daftar seluruh artikel AhmadiHamid.com
 permalink: /arsip
 ---
