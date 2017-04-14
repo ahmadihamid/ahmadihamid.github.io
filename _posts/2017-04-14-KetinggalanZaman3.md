@@ -18,7 +18,7 @@ Sayangnya saya lupa tempat menyimpan (atau tak sengaja terhapus) berkas *Screens
 
 Berikut adalah tangkapan layar dari buku manual :
 
-![](/img/kz3-clonix.jpg) 
+![](/img/kz3-clonix.png) 
  
 Seperti yang kamu lihat digambar, kita bisa hanya memilih satu partisi untuk di-*clone*. Ini  yang saya lakukan, saya hanya memilih partisi `C:`. Sayangnya perangkat luak ini belum mendukung format partisi GNU/Linux. Jadi saya tidak bisa sekaligus melakukan *cloning* sistem *ArchLinux* saya di sini.
 
