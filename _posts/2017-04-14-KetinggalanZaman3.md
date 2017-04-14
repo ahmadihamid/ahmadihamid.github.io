@@ -3,7 +3,6 @@ layout: post
 title: Migrasi Windows ke SSD Baru (bagian ke-3/Tamat)
 tags: [Windows, Recovery]
 category: linux
-Saturday, 15. April 2017 12:56AM 
 comments: true
 author: ahmadi
 --- 
