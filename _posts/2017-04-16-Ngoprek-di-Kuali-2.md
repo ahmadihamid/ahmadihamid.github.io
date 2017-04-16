@@ -66,7 +66,10 @@ Dari kanan ke kiri bahan masakan kita kali ini adalah :
 
 Air memang merupakan `pelarut` universal, jadi wajar bila kita khawatir beberapa `nutrisi` penting mungkin **hilang** bila kita **merebus** pare terlebih dahulu. Tapi kadang hal ini wajib dilakukan karena beberapa orang tidak toleran samasekali rasa `pahit` dari Pare, terutama anak-anak. 
 
-Walau sebenarnya jika kita **rasional** maka perebusan tidak perlu dIlakukan karena harusnya kita `mafhum` bahwa sebagian **besar** senyawaan organik sudah `kodratnya` berasa pahit kecuali `alkohol` dan `gula` (yang **juga** alkohol 😝). OK. Tips jitu dari saya yaitu : 
+Walau sebenarnya jika kita **rasional** maka perebusan tidak perlu dilakukan karena harusnya kita `mafhum` bahwa sebagian **besar** senyawaan organik sudah `kodratnya` berasa pahit kecuali `alkohol` dan `gula` (yang **juga** alkohol 😝). 
+
+OK. Tips jitu dari saya yaitu : 
+
 Jika tidak ingin kehilangan nutrisi Pare sama sekali **minum air rebusannya**. 
 
 Sampai ketemu besok.
