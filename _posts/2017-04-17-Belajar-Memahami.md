@@ -27,7 +27,9 @@ Sulit? Pasti! Tapi itulah yang beliau tagih pada setiap murid setiap dalam penga
 `...`
 
 Kali ini **kita** coba memahami `gst` yaitu Gram Setara atau `grek` alias Gram Ekivalen. Agak sulit menerjemahkan `gst` ini karena "setara" atau "ekivalen" tergantung dari konteks, setara dalam reaksi asam-basa berbeda dengan setara dalam reaksi oksidasi-reduksi. Jika mau gampang `gst` adalah perbandingan antara [bobot molekul](https://en.wikipedia.org/wiki/Molar_mass)  dengan [valensinya](https://en.wikipedia.org/wiki/Valence_(chemistry)).
+
 $$ gst =\frac{bobot molekul}{valensi} $$
+
 `Gst` ditemukan untuk mempermudah perhitungan [stoikiometrik](https://en.wikipedia.org/wiki/Stoichiometry) dalam Titrimetri, dimana volume larutan tidak terukur, **berbeda dengan [Molaritas](https://en.wikipedia.org/wiki/Molar_concentration)** dimana volume larutan tepat terukur. Pada titik kesetaraan jumlah mol analit dan titran mungkin sama mungkin juga enggak.
 Kadang saya masih menemukan orang atau buku teks yang menggunakan `mol` untuk menghitung kadar dalam suatu kesetaraan Kimia. Bahkan dalam buku teks Underwood terdapat catatan kaki yang berbunyi :
 
@@ -42,7 +44,7 @@ Kita lihat reaksi di bawah ini yuk :
 $$ HCl + NaOH 		→ NaCl + H_2O $$
 $$ H_2SO_4 + 2NaOH 	→ Na_2SO_4 + 2H_2O $$
 
-Dapat dilihat bahwa **1** mol HCl bereaksi dengan **1** mol NaOH, sedangkan **1** mol H~2~SO4 bereaksi dengan **2** mol NaOH. Ini lah kelemahan menggunakan sistem `molar`, kita harus melengkapi reaksi, ini tidak terjadi bila kita menggunakan sistem `ekivalen`.
+Dapat dilihat bahwa **1** mol HCl bereaksi dengan **1** mol NaOH, sedangkan **1** mol H<sub>2</sub>SO4 bereaksi dengan **2** mol NaOH. Ini lah kelemahan menggunakan sistem `molar`, kita harus melengkapi reaksi, ini tidak terjadi bila kita menggunakan sistem `ekivalen`.
 
 `...`
 
