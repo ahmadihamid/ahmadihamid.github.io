@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Belajar memahami; dan Belajar dan Memahami.
+title: Belajar memahami; dan Belajar dan Memahami
 tags: [Kimia, Dasar, Banget]
 category: kimia
 comments: true
