@@ -2,6 +2,7 @@
 layout: post
 title: Nautilus Image Tools, Pengaya Modifikasi Gambar dalam Nautilus
 tags: [GNU/Linux, Nautilus]
+category: linux
 comments: true
 author: ahmadi
 --- 
