@@ -56,7 +56,7 @@ Tapi (lagi) tulisan Mimin tersebut **layak** dijadikan pembelajaran.
 
 ---
 
-Ada yang merasa kehilangan `mukaddimah` khas dari saya? Kalau ada Yuk *High Five*, karena saya juga kehilangan, ini hari ke-18 (setidaknya buat saya), dan kelihatannya saya mulai "*retak*", sudah dua artikel diakhiri dengan kata "bersambung".
+Ada yang merasa kehilangan `mukaddimah` khas dari saya? Kalau ada Yuk *High Five*, karena saya juga kehilangan, ini hari ke-18 (setidaknya buat saya), dan kelihatannya saya mulai "*retak*". Sudah dua artikel diakhiri dengan kata "bersambung". Poin `ELO` saya pun terjun bebas. Member [@halamanbelakang](https://t.me/halamanbelakang) melarikan diri. Skripsi terkatung.
 
 😳
 
