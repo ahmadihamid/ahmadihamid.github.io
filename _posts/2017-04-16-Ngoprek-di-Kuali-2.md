@@ -29,6 +29,7 @@ Dari kanan ke kiri bahan masakan kita kali ini adalah :
 
 - Belimbing wuluh
 - Rimbang
+- Ciak-ciak alias *Lemon Grass*
 - Pare rebus
 - Tahu (potong dadu dan goreng)
 - Telur
