@@ -42,7 +42,11 @@ Terdapat dua jenis Blackberry yaitu berbatang merambat, ini yang saya tanam di [
 
 Blackberry merupakan tanaman semak, sebagaimana semak lain perawatannya enggak terlalu sulit, istimewanya jika biasanya tanaman tidak toleran terhadap pH asam tanah, si Blackberry malah suka kondisi `pH < 7`. Jadi ["hujan asam" ](https://id.wikipedia.org/wiki/Hujan_asam) bukan masalah. 
 
-Poin selanjutnya yang perlu kita perhatikan soal perawatan yaitu **pemangkasan**, sama seperti Mulberry, perlu dilakukan pemangkasan agar diperoleh panen yang maksimal, hal ini lupa saya bahas di artikel Mulberry, ranting biasanya hanya berbuah sekali, jadi bila selesai panen perlu dilakukan pemangkasan pada ranting yang berbuah. Menarik yah? Jika nutrisi cukup, dari pangkal ranting yang kita pangkas tadi akan muncul cabang-cabang baru yang lebih banyak yang kemudian akan muncul buah dari masing-masing cabang baru tersebut. Begitu sterusnya.
+Poin selanjutnya yang perlu kita perhatikan soal perawatan yaitu **pemangkasan**, sama seperti Mulberry, perlu dilakukan pemangkasan agar diperoleh panen yang maksimal, hal ini lupa saya bahas di artikel Mulberry, ranting biasanya hanya berbuah sekali, jadi bila selesai panen perlu dilakukan pemangkasan pada ranting yang berbuah. 
+Menarik yah? 
+
+Jika nutrisi cukup, dari pangkal ranting yang kita pangkas tadi akan muncul cabang-cabang baru yang lebih banyak yang kemudian akan muncul buah dari masing-masing cabang baru tersebut. 
+Begitu sterusnya.
 
 Mengenai pengairan Blackberry tidak suka lokasi terlalu basah.
 
