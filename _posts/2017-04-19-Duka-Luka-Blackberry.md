@@ -50,7 +50,7 @@ Begitu sterusnya.
 
 Mengenai pengairan Blackberry tidak suka lokasi terlalu basah.
 
-Perawatan lain paling hanya menyiangi rumput dan gulma agar Blackberry kita enggak `berebutan` makanan dengan rumput.
+Perawatan lain paling hanya menyiangi rumput dan gulma agar Blackberry kita enggak `berebutan` makanan dengan rumput. Kecuali kamu lebih doyan tumis rumput ketimbang jus Blackberry.
 
 😒
 
