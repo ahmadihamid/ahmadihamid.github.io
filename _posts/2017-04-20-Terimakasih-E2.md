@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tips bila *HP* atau Ponsel Tercebur
+title: Tips bila HP atau Ponsel Tercebur
 tags: [tips, hp, tercebur]
 category: halamanbelakang
 comments: true
@@ -8,7 +8,7 @@ author: ahmadi
 ext-js: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"
 --- 
 
-Hampir tak disadari, hubungan manusia dan telepon pintarnya ini bagai sepasang kekasih yang dimabuk cinta. Dimana-mana ada dia. Kemana-mana kamu ada. Sampai-sampai `boker` pun ***bedua***. 
+Hampir tak disadari, tetiba hubungan manusia dan telepon pintarnya ini bagai sepasang kekasih yang dimabuk cinta. Dimana-mana ada dia. Kemana-mana kamu ada. Sampai-sampai `boker` pun ***bedua***. 
 
 Sunnah Rasul aja hanya sampai mandi berdua.
 
@@ -33,8 +33,8 @@ Saya agak skeptis (tadinya) dengan saran ini, karena saya pernah mencobanya dan 
 Berikut adalah tips dari saya :
 
 - Lakukan pertolongan pertama seperti mematikan ponsel, mencabut baterai, kartu sim, dan kartu memori.
-- Jika ternyata seperti skenario diatas 😳, cuci kotoran hingga bersih dengan hati-hati, mengunakan air atau tisu basah kalau ada.
-- Bongkar ponsel dan keringkan main board, di sini biasanya komponen yang terkena korsleting, walau beberapa artikel melarang saya menggunakan semacam *blower* untuk membantu mengeringkan air. Toh hal ini dilarang jika kita tidak membongkar ponsel yang dikhawatirkan air malah makin masuk.
+- Jika ternyata seperti skenario diatas 😳, cuci kotoran hingga bersih dengan hati-hati, mengunakan `air` atau `tisu basah` kalau ada.
+- Bongkar ponsel dan keringkan `main board`, di sini biasanya komponen yang terkena korsleting, walau beberapa artikel melarang, saya menggunakan semacam *blower* untuk membantu mengeringkan air. Toh hal ini dilarang jika kita tidak membongkar ponsel, yang dikhawatirkan air malah makin masuk.
 
 ![](/img/ee-bongkar.jpg) 
 
@@ -50,7 +50,9 @@ Yuk kita coba hitung kemampuan serap si beras!
 
 Jika kita menggunakan 1kg beras, dengan asumsi air terserap merata dan sempurna maka air akan terserap sebanyak : 
 
-$$ 1000g * 1,5% = 15g$$ 
+$$ air_{(terserap)} = 1000g * 1,5\% $$
+
+$$ air_{(terserap)} = 15g $$
 
 **Lumayan!**
 
