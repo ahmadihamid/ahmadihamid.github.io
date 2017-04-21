@@ -41,19 +41,19 @@ Terdapat tiga skenario yang mungkin terjadi untuk migrasi yaitu :
 
 - Unduh berkas `CSV` dari URL map kita
 
-![](/img/ps5-unduh.png) 
+![](/img/ps-unduh.png) 
 
 - Sunting berkas CSV tersebut, ada hal aneh terjadi di sini, berkas CSV yang diberikan berupa berkas terkompresi dengan ekstensi `.gz` tapi saya tidak bisa mengekstraknya, iseng saya rename dengan menghapus`.gz` ternyata bisa dibuka menggunakan `LibreOffice!`
 
-![](/img/ps5-sunting.png) 
+![](/img/ps-sunting.png) 
 
 - Unggah URL map yang baru
 
-![](/img/ps5-unggah.png) 
+![](/img/ps-unggah.png) 
 
 - Selesai. Di akhir konfirmasi migrasi terdapat pesan bahwa diskusi mungkin memakan waktu hingga 24 jam untuk dapat kembali. Tapi saya coba cek **5-10 menit** sudah berhasil muncul kembali.
 
-![](/img/ps5-selesai.png) 
+![](/img/ps-selesai.png) 
 
 Semoga bermanfaat. Jangan lupa manfaatkan form komentar di bawah!
 
