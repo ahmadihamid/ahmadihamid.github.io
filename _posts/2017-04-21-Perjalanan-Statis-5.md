@@ -20,7 +20,7 @@ Berbicara hujan. Entah sejak kapan saya suka hujan. Walau sewaktu kecil fisik sa
 
 ---
 
-Kembali ke diskusi/komentar Disqus kita yang hilang.Ternyata hal ini terjadi *gegara* `tautan` dari artikel berubah akibat saya menambahkan kategori pada setiap artikel. Tautan yang semula **domain.anu/judul-artikel** berubah menjadi **domain.anu/kategori/judul-artikel**. Fitur yang sangat bermanfaat dari [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll/).
+Kembali ke diskusi/komentar Disqus kita yang hilang. Ternyata hal ini terjadi *gegara* `tautan` dari artikel berubah akibat saya menambahkan kategori pada setiap artikel. Tautan yang semula **domain.anu/judul-artikel** berubah menjadi **domain.anu/kategori/judul-artikel**. Fitur yang sangat bermanfaat dari [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll/).
 
 Semula saya pasrah saja komentar dalam blog ini hilang. Mulai dari `nol` lagi gumam saya. Tapi setelah curhat di grup [PegeLinux](https://www.google.com/search?q=PegeLinux) ternyata Disqus memiliki fitur migrasi untuk memindahkan diskusi ke tautan baru bahkan ke domain baru. 
 Terimakasih Disqus.
@@ -39,7 +39,7 @@ Terdapat tiga skenario yang mungkin terjadi untuk migrasi yaitu :
 
 - Pilih menu `Start URL mapper`
 
-- Unduh berkas CSV dari URL map kita
+- Unduh berkas `CSV` dari URL map kita
 
 ![](/img/ps5-unduh.png) 
 
@@ -55,7 +55,10 @@ Terdapat tiga skenario yang mungkin terjadi untuk migrasi yaitu :
 
 ![](/img/ps5-selesai.png) 
 
-Semoga bermanfaat.
+Semoga bermanfaat. Jangan lupa manfaatkan form komentar di bawah!
+
+😜
+
 
 **Referensi** :
 
