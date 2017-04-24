@@ -9,7 +9,7 @@ author: ahmadi
 
 <img border="0" src="/img/rp-logo.png" style="float:left; margin-right:10px"/>
 
-Pada kesempatan kali ini saya akan membahas `Berry` terakhir (sejauh ini) yang ada di [@halamanbelakang](https://t.me/halamanbelakang) yaitu `Raspberry`. Sebenarnya saya cukup lama mengenal Raspberry, tapi yang berwujud *SBC* alias *Single Board Computer* bukan dalam wujud tetumbuhan.
+Pada kesempatan kali ini saya akan membahas Berry terakhir (sejauh ini) yang ada di [@halamanbelakang](https://t.me/halamanbelakang) yaitu `Raspberry`. Sebenarnya saya cukup lama mengenal Raspberry, tapi yang berwujud *SBC* alias *Single Board Computer* bukan dalam wujud tetumbuhan.
 
 Bahkan saya sempat [berjualan](https://www.tokopedia.com/xgaptek)  *SBC* yang sekarang sudah sangat mendunia ini. Waktu itu "toko online" belum mewabah seperti sekarang, dengan menjual 5 unit saja kita sudah bisa mendapat keuntungan seharga `1 unit`+`ongkir` dari negeri Singa, masih ada `kembalian` pula.
 
@@ -26,14 +26,11 @@ Tak seperti dua saudara "nakalnya" yaitu [Mulberry](https://ahmadihamid.com/hala
 **Penanaman**
 
 - Paparan Cahaya Matahari : langsung, sepanjang hari. Walau dapat tumbuh di tempat teduh, hasil panen akan lebih baik di tempat yang terkena paparan cahaya matahari langsung.
-- pH : agak asam-netral.
 - Pemupukan : seminggu setelah ditanam, kemudian sekali setiap bulannya.
+- pH tanah : agak asam-netral.
 - Tipe tanah : apa saja. Saya biasa menggunakan campuran `Tanah`, `Pupuk Kandang` dan `Pasir`. Saya enggak ngasih spesifik perbandingannya, karena saya enggak punya dasarnya, biasanya antara Tanah dan Pupuk Kandang jumlahnya sama (`1:1`) dan Pasir secukupnya sampai campuran enggak terlihat menggumpal untuk dukungan sirkulasi udara dan air yang baik.
-
 ![](/img/rp-tanah1.jpg) 
-
 ![](/img/rp-tanah2.jpg) 
-
 Semoga gambar tanahnya jelas (sebelum & sesudah dicampur), dan yang pojok kanan atas adalah pohon Raspberry di [@halamanbelakang](https://t.me/halamanbelakang) saya, masih belia.
 
 **Perawatan** 
