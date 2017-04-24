@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Otomatisasi Menggunakan IFTT
+title: Otomatisasi Menggunakan IFTTT
 tags: [IFTT, Otomatis, Services]
 category: pemrograman
 comments: true
