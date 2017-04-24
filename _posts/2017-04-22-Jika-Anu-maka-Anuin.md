@@ -12,13 +12,13 @@ Singkat cerita jadi **bapak rumah tangga**.
 
 😚
 
-Bahasan kita kali ini ringan saja dan masih berhubungan dengan kamu yang sok sibuk. Yaitu memposting artikel baru ke media sosial secara otomatis menggunakan [IFTTT](https://ifttt.com/). `IFTTT` merupakan singkatan dari* if this then that* atau bahasa kerennya jika begini maka begitu. Masih kurang jelas? bahasa okemnya **jika anu maka anuin**.
+Bahasan kita kali ini ringan saja dan masih berhubungan dengan kamu yang sok sibuk. Yaitu memposting artikel baru ke media sosial secara otomatis menggunakan [IFTTT](https://ifttt.com/). `IFTTT` adalah singkatan dari *if this then that* atau bahasa kerennya jika begini maka begitu. Masih kurang jelas? bahasa okemnya **jika anu maka anuin**.
 
 IFTT merupakan sebuah alat otomatisasi beberapa layanan/aplikasi, semisal suatu layanan yang aktif akan memanggil/memicu layanan yang lain. Contoh : "terima email bila akan hujan"; "otomatis berbagi instagram ke facebook"; "ganti warna lampu Hue via Telegram"; dan banyak [applet](https://ifttt.com/discover) lainnya, bagi saya terlalu banyak malah sampai bingung mau menggunakan layanan yang mana. Enggak cukup sampai di situ kita bahkan bisa membuat *applet* sendiri atau sekedar memodifikasi *applet* yang sudah ada.
 
 😵
 
-Dari sejumlah *apllet* yang `TBUD` (terlalu ~~biadab~~ banyak untuk dihitung) saya akan membahas satu saja. Yaitu [RSS Feed to Facebook](https://ifttt.com/applets/128796p-rss-feed-to-facebook). Layanan ini bekerja untuk otomatisasi posting status *`epbi`* dari Feed [RSS](https://linhub.io/web/2017/03/27/mengenal-rss-feed). Saya menggunkan layanan ini untuk mengirim tautan artikel baru dari blog ini ke facebook secara otomatis. Karena kita enggak punya waktu buat buka *`epbi`*. 
+Dari sejumlah *apllet* yang `TBUD` (terlalu ~~biadab~~ banyak untuk dihitung) saya akan membahas satu saja. Yaitu [RSS Feed to Facebook](https://ifttt.com/applets/128796p-rss-feed-to-facebook). Layanan ini bekerja untuk otomatisasi posting status *`epbi`* dari Feed [RSS](https://linhub.io/web/2017/03/27/mengenal-rss-feed). Saya menggunakan layanan ini untuk mengirim tautan artikel baru dari blog ini ke facebook secara otomatis. Karena kita enggak punya waktu buat buka *`epbi`*. 
 Iya kan?
 
 Walau sebenarnya otomatisasi buat menggaet pengunjung kurang disarankan, karena postingan biasanya menjadi hambar. Tak ada cinta didalamnya.
