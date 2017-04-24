@@ -9,7 +9,7 @@ author: ahmadi
 
 <img border="0" src="/img/rp-logo.png" style="float:left; margin-right:10px"/>
 
-Pada kesempatan kali ini saya akan membahas `Berry` terakhir (sejauh ini) yang ada di [@halamanbelakang](https://t.me/halamanbelakang) yaitu `Raspberry`. Sebenarnya saya cukup lama mengenal Raspberry, tapi yang berwujud *SBC* alias *Single Board Computer* bukan dalam wujud tetumbuhan. 
+Pada kesempatan kali ini saya akan membahas `Berry` terakhir (sejauh ini) yang ada di [@halamanbelakang](https://t.me/halamanbelakang) yaitu `Raspberry`. Sebenarnya saya cukup lama mengenal Raspberry, tapi yang berwujud *SBC* alias *Single Board Computer* bukan dalam wujud tetumbuhan.
 
 Bahkan saya sempat [berjualan](https://www.tokopedia.com/xgaptek)  *SBC* yang sekarang sudah sangat mendunia ini. Waktu itu "toko online" belum mewabah seperti sekarang, dengan menjual 5 unit saja kita sudah bisa mendapat keuntungan seharga `1 unit`+`ongkir` dari negeri Singa, masih ada `kembalian` pula.
 
