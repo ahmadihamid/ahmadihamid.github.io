@@ -25,6 +25,9 @@ Tak seperti dua saudara "nakalnya" yaitu [Mulberry](https://ahmadihamid.com/hala
 
 **Penanaman**
 
+- Paparan Cahaya Matahari : langsung, sepanjang hari. Walau dapat tumbuh di tempat teduh, hasil panen akan lebih baik di tempat yang terkena paparan cahaya matahari langsung.
+- pH : agak asam-netral.
+- Pemupukan : seminggu setelah ditanam, kemudian sekali setiap bulannya.
 - Tipe tanah : apa saja. Saya biasa menggunakan campuran `Tanah`, `Pupuk Kandang` dan `Pasir`. Saya enggak ngasih spesifik perbandingannya, karena saya enggak punya dasarnya, biasanya antara Tanah dan Pupuk Kandang jumlahnya sama (`1:1`) dan Pasir secukupnya sampai campuran enggak terlihat menggumpal untuk dukungan sirkulasi udara dan air yang baik.
 
 ![](/img/rp-tanah1.jpg) 
@@ -32,10 +35,6 @@ Tak seperti dua saudara "nakalnya" yaitu [Mulberry](https://ahmadihamid.com/hala
 ![](/img/rp-tanah2.jpg) 
 
 Semoga gambar tanahnya jelas (sebelum & sesudah dicampur), dan yang pojok kanan atas adalah pohon Raspberry di [@halamanbelakang](https://t.me/halamanbelakang) saya, masih belia.
-
-- Paparan Cahaya Matahari : langsung, sepanjang hari. Walau dapat tumbuh di tempat teduh, hasil panen akan lebih baik di tempat yang terkena paparan cahaya matahari langsung.
-- pH : agak asam-netral.
-- Pemupukan : seminggu setelah ditanam, kemudian sekali setiap bulannya.
 
 **Perawatan** 
 
