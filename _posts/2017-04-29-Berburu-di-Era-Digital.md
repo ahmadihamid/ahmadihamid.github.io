@@ -23,6 +23,8 @@ Jika sebelumnya saya harus `berkelana`, tanya sana sini, buat mendapatkan bibit 
 
 ![](/img/bru-titik.jpg) 
 
+(Salah satu [titik berburu](https://goo.gl/maps/pS5xnWXFddw)  saya dan anak 😉)
+
 **Pengalaman 1**
 
 Awalnya saya agak was-was soal pengiriman barang jika melakukan pembelian secara daring, apalagi kebanyakan penjual yang saya temukan berada di pulau seberang, tapi keistimewaan dari Sang Pencipta khusus buat tetumbuhan yaitu daya hidupnya yang **tinggi** membuktikan kekhawatiran saya sia-sia. 
@@ -74,7 +76,7 @@ Menurut Atuk, durian Musang King dagingnya banyak tapi Duri Hitam lebih manis wa
 
 Seandainya bisa selalu semudah itu. `YKWIM.` 
 
-![](/img/bru-bawor.jpg)
+<img border="0" src="/img/bru-bawor.jpg" width="88%" style="float:left; margin-right:10px"/>
 Agar saya enggak harus menunggu terlalu lama buat menikmati Durian dari [@halamanbelakang](https://t.me/halamanbelakang) saya memilih bibit `okulasi` yang berkaki ganda (bawor). Saya memilih yang berkaki **3** karena kaki **4** harganya terlalu mahal (buat saya). 
 
 Agak penasaran sih bagaimana yang berkaki **5**? Atau **8**? Bukan harganya tapi bentuknya. 
