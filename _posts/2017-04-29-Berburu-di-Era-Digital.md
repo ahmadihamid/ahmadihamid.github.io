@@ -76,7 +76,7 @@ Menurut Atuk, durian Musang King dagingnya banyak tapi Duri Hitam lebih manis wa
 
 Seandainya bisa selalu semudah itu. `YKWIM.` 
 
-<img border="0" src="/img/bru-bawor.jpg" width="88%" style="float:left; margin-right:10px"/>
+<img border="0" src="/img/bru-bawor.jpg" width="44%" style="float:left; margin-right:10px"/>
 Agar saya enggak harus menunggu terlalu lama buat menikmati Durian dari [@halamanbelakang](https://t.me/halamanbelakang) saya memilih bibit `okulasi` yang berkaki ganda (bawor). Saya memilih yang berkaki **3** karena kaki **4** harganya terlalu mahal (buat saya). 
 
 Agak penasaran sih bagaimana yang berkaki **5**? Atau **8**? Bukan harganya tapi bentuknya. 
