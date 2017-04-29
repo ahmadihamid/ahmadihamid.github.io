@@ -43,7 +43,7 @@ Satu lagi saran demi keselamatan nyawa tumbuhan yaitu waktu penanaman, usahakan 
 
 **Pengalaman 2**
 
-Setelah cukup sukses dalam `perburuan` sebelumnya, saya memberanikan diri mencari tantangan yang lebih `greget`. Jika buruan sebelumnya berukuran kecil yaitu semisal beri-berian, kali ini saya mencari buruan yang lebih besar yaitu pohon **Durian**.
+Setelah cukup sukses dalam `perburuan` sebelumnya, saya memberanikan diri mencari tantangan yang lebih `greget.` Jika buruan sebelumnya berukuran kecil yaitu semisal beri-berian, kali ini saya mencari buruan yang lebih besar yaitu si raja buah alias **Durian**.
 
 😂
 
@@ -53,7 +53,7 @@ Tapi karena saya enggak pengen jadi pembeli yang `bawel` saya setuju saja. Burua
 
 Karena satu hal dan lainnya (contoh alasan kurang pandai) saya mencoba konfirmasi kapan `buruan` saya para gerombolan Durian sampai ke Palembang dari Batu. Ya alaminya saya memang bawel.
 
-Dan alangkah kagetnya saya mbak-mbak di telepon bilang mungkin sampai **Senin/Selasa**. `Aje gile.` bisa jadi tempoyak pohon Durian saya diperam satu minggu.
+Dan alangkah kagetnya saya mbak-mbak di telepon bilang mungkin sampai **Senin/Selasa**. `Aje gile.` bisa jadi `tempoyak` pohon Durian saya diperam satu minggu.
 
 Tapi ternyata Alhamdulillah paket sampai hari **Sabtu**. Berikut adalah *unboxing*-nya. Belum pernah liat *unboxing* pohon? Saya juga! Biasanya kan perangkat elektronik semacam ponsel, *sbc*, atau mikrokontroler. 
 
@@ -70,7 +70,7 @@ Tapi ternyata Alhamdulillah paket sampai hari **Sabtu**. Berikut adalah *unboxin
 (Beberapa pohon stres dan rontok daun tapi nanti perlahan waktu akan memulihkannya. InsyaAllah.. 
 😔)
 
-Menyoal varietas Durian, yang saya pilih adalah `Duri Hitam` dan `Musang King`, kalau enggak salah keduanya berasal dari Malaysia. Saya belum melakukan riset apa pun, dan yang menjadi dasar saya memilih varietas ini cuma perkataan Atuk Senin bin Kemis. Ya itu nama Atuk si Ipin dan si Upil (mulai sekarang jangan terlalu serius baca artikel di sini, terkadang saya mengambil referensi dari tempat yang tak terduga-duga). 
+Menyoal varietas Durian, yang saya pilih adalah `Duri Hitam` dan `Musang King`, kalau enggak salah keduanya berasal dari Malaysia. Saya belum melakukan riset apa pun, dan yang menjadi dasar saya memilih varietas ini cuma perkataan Atuk Senin bin Kemis. Ya itu nama Atuk si Ipin dan si Upin (mulai sekarang jangan terlalu serius baca artikel di sini, terkadang saya mengambil referensi dari tempat yang tak terduga-duga). 
 
 Menurut Atuk, durian Musang King dagingnya banyak tapi Duri Hitam lebih manis walau kecil. Saya suka keduanya. Saya suka yang *bahenol*. Pun yang imut dan manis. Jadi saya beli keduanya. 
 
