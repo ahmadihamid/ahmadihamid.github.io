@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ciplukan si Beri Kecil Banyak Manfaat
+title: Berburu di Era Digital
 category: halamanbelakang
 tags: [halamanbelakang]
 comments: true
