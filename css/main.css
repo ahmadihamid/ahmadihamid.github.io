@@ -1,4 +1,4 @@
-@import url("pygment_highlights.css");
+<link rel="stylesheet" href="pygment_highlights.css" />
 
 /* --- General --- */
 
@@ -584,13 +584,4 @@ table tr td :last-child {
 
 .icon-padding{
   padding-right: 8px;
-}
-
-/* buat float gambar */
-.haluankanan {
-    float: right;
-}
-
-.haluankiri {
-    float: left;
 }
