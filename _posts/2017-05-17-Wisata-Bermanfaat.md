@@ -9,13 +9,13 @@ author: ahmadi
 
 Sama seperti kebanyakan manusia normal saya pun mengalami [child amnesia/infantile amnesia](http://www.sciencealert.com/why-can-t-we-remember-anything-from-when-we-were-babies). Ini adalah fenomena misterius hilangnya ingatan kita saat masih bayi bahkan balita. Empat hingga tiga tahun jika ingin lebih spesifik, inilah jarak terjauh kita dapat menelusuri ingatan masa kecil. Itu pun sedikit. 
 
-Saya bisa memanggil ingatan bahwa dulu saya punya teman lebih tua saat kecil sebelum saya masuk sekolah, saya berusia 5,5 tahun saat masuk SD jadi sekitar 21-22 tahun lalu. Jangan harap nama atau raut wajah. **Memasak beton.** Udah cuma itu yang saya ingat. Dan banyak memori samar lain mentok sampai saya berumur lebih dari 4 tahun.
+Saya bisa memanggil ingatan bahwa dulu saya punya teman lebih tua saat kecil sebelum saya masuk sekolah, saya berusia `5,5` tahun saat masuk SD jadi sekitar `21-22` tahun lalu. Jangan harap nama atau raut wajah. **Memasak beton.** Udah cuma itu yang saya ingat. Dan banyak memori samar lain mentok sampai saya berumur lebih dari 4 tahun.
 
 Walau terlupakan, ingatan saat usia emas ini memiliki andil cukup besar membentuk karakter kita nantinya.
 
 `...`
 
-Dari cerita orang tua saya ternyata ingatan saya saat berusia 0-4 tahun ini berisi kehidupan sehari-hari `beternak` dan `bertani.` Ayah saya mantan petani.
+Dari cerita orang tua saya ternyata ingatan saya saat berusia `0-4` tahun ini berisi kehidupan sehari-hari `beternak` dan `bertani.` Ayah saya mantan petani.
 
 Dulu saya cuek saja setiap ayah bercerita bagaimana senangnya saya mengambil telor bebek di kandang di bawah rumah di tengah persawahan.
 
@@ -74,11 +74,11 @@ Wortel pun habis, tersisa rumput, selanjutnya ke kandang Sapi. Sapinya luar bias
 
  ![](/img/ktm-sapi.jpg)
 
-Dan banyak tempat menarik lain seperti kolam untuk menangkap ikan yang harus sewa 1 kolam sendiri, gak bisa nebeng. Pun area lokasi hewan lain seperti beberapa janis Bebek, Burung, dan Ayam. 
+Dan banyak tempat menarik lain seperti kolam untuk menangkap ikan yang harus sewa 1 kolam sendiri, gak bisa nebeng. Pun area lokasi hewan lain seperti beberapa jenis Bebek, Burung, dan Ayam. 
 
-Sayangnya kami enggak sempat ke perkebunannya karena kehabisan energi dan matahari mulai melotot. Disarankan buat berkelana sedari pagi.
+Sayangnya kami enggak sempat ke bagian `Perkebunan` karena kehabisan energi dan matahari mulai melotot. Disarankan buat berkelana sedari pagi.
 
-Secara keseluruhan empat jempol buat Kuntum. Sarprasnya juga mantap. Tempat cuci tangan banyak. Saung lesehan banyak. Ada pohon di kamar mandi 😀. Luar biasa. Mushola walau bukan tempat terindah, tapi terpisah sehingga bisa dimanfaatkan buat ibu yang membawa adik bayi.
+Secara keseluruhan `empat` jempol buat Kuntum. Sarprasnya juga mantap. Tempat cuci tangan banyak. Saung lesehan banyak. Ada pohon di kamar mandi 😀. Luar biasa. Mushola walau bukan tempat terindah, tapi terpisah sehingga bisa dimanfaatkan buat ibu yang membawa adik bayi.
 
  ![](/img/ktm-cuci.jpg)
  
@@ -86,7 +86,9 @@ Secara keseluruhan empat jempol buat Kuntum. Sarprasnya juga mantap. Tempat cuci
 
 Terimakasih karena udah bikin tempat wisata bermanfaat. Tambah terus koleksinya terutama koleksi hewan asli Indonesia.
 
-Yang saya heran kok yang datang mayoritas **TK Islam** atau **TK etnis tertentu** (enggak sebut merk takut rasis.) 
+`...`
+
+Yang saya heran kok yang datang mayoritas **TK Islam** atau **TK etnis tertentu** (enggak sebut `merk` khawatir rasis.) 
 
 Yang lain ke mana?
 
