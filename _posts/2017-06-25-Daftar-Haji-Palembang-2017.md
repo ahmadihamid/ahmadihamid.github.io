@@ -66,9 +66,9 @@ Jika persyaratan di atas sudah lengkap (lunas setoran awal 25jt) dan sistem info
 
 ![](/img/hajj-bpih.jpg) 
 
-Saya dan istri sebenarnya berharap atau lebih tepatnya `ngarep` semua selesai dalam satu hari dengan 1x kunjungan ke bank dan 1x ke depag. Tapi ternyata ada saja kekurangan di sana sini seperti kesalahan foto (saya kurang meperhatikan perihal 80% wajah dan malah mencetak dengan format "pas foto") sampai luring-nya sistem depag.
+Saya dan istri sebenarnya berharap atau lebih tepatnya `ngarep` semua selesai dalam satu hari dengan 1x kunjungan ke bank dan 1x ke depag di hari yang sama. Tapi ternyata ada saja kekurangan di sana sini seperti kesalahan foto (saya kurang memperhatikan perihal 80% wajah dan malah teledor mencetak dengan format "pas foto"), sampai luring-nya sistem depag.
 
-Setelah memperoleh tanda bukti setoran BPIH kami pun ke Departemen Agama yang beralamat di [sini](https://goo.gl/maps/4EQhppZmASM2) berbekal dokumen dalam map yang telah disiapkan oleh pihak bank. Beruntungnya kami, mungkin karena kasihan melihat sepasang suami istri muda kerepotan dengan 2 anaknya, bagian pendaftaran haji mebimbing bahkan mengisikan formulir saya. 
+Setelah memperoleh tanda bukti setoran BPIH kami pun ke Departemen Agama yang beralamat di [sini](https://goo.gl/maps/4EQhppZmASM2) berbekal dokumen dalam map yang telah disiapkan oleh pihak bank. Beruntungnya kami, mungkin karena kasihan melihat sepasang suami istri muda kerepotan dengan 2 anaknya, bagian pendaftaran haji membimbing bahkan mengisikan formulir saya. 
 
 😅
 
@@ -78,7 +78,7 @@ Selesai mengisi beberapa formulir, kemudian foto dan cap jari kita akan memperol
 
 ![](/img/hajj.spph.jpg) 
 
-Kita dapat menggunakan nomer ini untuk memeriksa perkiraan berangkat di Web resmi depag atau aplikasi resmi depag dari Playstore. Tapi saya bingung menggunakan keduanya, lebih mudah menggunakan aplikasi [ini](https://play.google.com/store/apps/details?id=com.toyo.porsi). 
+Kita dapat menggunakan nomer ini untuk memeriksa perkiraan berangkat di Web resmi depag atau aplikasi resmi depag dari Playstore. Tapi saya bingung menggunakan keduanya, saya merasa lebih mudah menggunakan aplikasi [ini](https://play.google.com/store/apps/details?id=com.toyo.porsi). 
 
 ![](/img/hajj-cek1.jpg) 
 
