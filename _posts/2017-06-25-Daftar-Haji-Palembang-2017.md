@@ -75,7 +75,7 @@ Makasih ibu depag.
 
 Selesai mengisi beberapa formulir, kemudian foto dan cap jari kita akan memperoleh SPPH (Surat Pendaftaran Pergi Haji) dengan nomer porsinya di pojok kanan atas yang berarti kita telah resmi mengantri untuk berangkat haji.
 
-![](/img/hajj-spph.jpg) 
+![](/img/hajj.spph.jpg) 
 
 Kita dapat menggunakan nomer ini untuk memeriksa perkiraan berangkat di Web resmi depag atau aplikasi resmi depag dari Playstore. Tapi saya bingung menggunakan keduanya, lebih mudah menggunakan aplikasi [ini](https://play.google.com/store/apps/details?id=com.toyo.porsi). 
 
