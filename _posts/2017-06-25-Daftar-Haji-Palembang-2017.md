@@ -25,7 +25,7 @@ Nabi Shallallahu ‘alaihi wa sallam bersabda :
 
 > Allâh Azza wa Jalla berfirman, “Sesungguhnya seorang hamba yang telah Aku anugerahi kesehatan badan, Aku telah luaskan penghidupannya, telah lewat padanya lima tahun, (namun) dia tidak mendatangiKu (yakni: melakikan ibadah haji), dia benar-benar dicegah (dari kebaikan).
 
-Banyak yang menjadikan besarnya biaya sebagai alasan buat menangguhkan kewajiban haji. Padahal jika dihitung biaya untuk memperoleh porsi haji "cuma" `4THR`+`2HP` alias menyisihkan `4x` jatah tunjangan hari raya dan menahan jatah ganti handphone sebanyak `2x` saja. Kita belum memasukkan biaya hura-hura semacam pelesiran dan makan di tempat makan yang sombong, dalam artian enak pun enggak tapi mahalnya minta ampun. **Sombong!**
+Banyak yang menjadikan besarnya biaya sebagai alasan buat menangguhkan kewajiban haji. Padahal jika dihitung biaya untuk memperoleh porsi haji "cuma" `4THR`+`2HP` alias menyisihkan `4x` jatah tunjangan hari raya dan menahan jatah ganti *handphone* sebanyak `2x` saja. Kita belum memasukkan biaya hura-hura semacam pelesiran dan makan di tempat makan yang sombong, dalam artian enak pun enggak tapi mahalnya minta ampun. **Sombong!**
 
 Kalau kita lihat rumus saya tadi seolah mudah ya? Tapi ternyata saya yang membuat rumus itu sendiri setelah 7 tahun hanya terkumpul nol juta rupiah. **Nihil.**
 
@@ -57,7 +57,7 @@ Singkat cerita enggak mau mikir panjang saya dan istri pun langsung mencari bank
 - Fotokopi kartu keluarga 2 lembar 
 - Map (*CS* Bank akan membagi 2 dokumen, map ini untuk dokumen yang nanti kita bawa ke Depag)
 - Fotokopi akte/ijazah/buku nikah (salah satu saja) 2 lembar 
-- Foto haji (80% wajah, contoh** dapat dilihat di dokumen **BPIH** di bawah) 3x4 10 lembar 
+- Foto haji (**80% wajah**, contoh dapat dilihat di dokumen **BPIH** di bawah) 3x4 10 lembar 
 - Materai 6000 4 lembar
 - Uang setoran sebesar 25jt rupiah untuk mendapatkan porsi haji, atau minimal 100 ribu rupiah untuk setoran awal membuka tabungan haji
 
@@ -77,7 +77,7 @@ Selesai mengisi beberapa formulir, kemudian foto dan cap jari kita akan memperol
 
 ![](/img/hajj-spph.jpg) 
 
-Kita dapat menggunakan nomer ini untuk memeriksa perkiraan berangkat di Web resmi depag atau aplikasi resmi depag dari playstore. Tapi saya bingung menggunakan keduanya, lebih mudah menggunakan aplikasi [ini](https://play.google.com/store/apps/details?id=com.toyo.porsi). 
+Kita dapat menggunakan nomer ini untuk memeriksa perkiraan berangkat di Web resmi depag atau aplikasi resmi depag dari Playstore. Tapi saya bingung menggunakan keduanya, lebih mudah menggunakan aplikasi [ini](https://play.google.com/store/apps/details?id=com.toyo.porsi). 
 
 ![](/img/hajj-cek1.jpg) 
 
@@ -92,6 +92,6 @@ Selamat Hari Raya [Idulfitri](https://www.rizaumami.com/2017/06/selamat-hari-ray
 
 **Referensi**
 
-https://rumaysho.com/2017-6-keutamaan-ibadah-haji.html
+<https://rumaysho.com/2017-6-keutamaan-ibadah-haji.html>
 
-https://almanhaj.or.id/4139-tidak-berhaji-padahal-mampu-termasuk-dosa-besar.html
+<https://almanhaj.or.id/4139-tidak-berhaji-padahal-mampu-termasuk-dosa-besar.html>
