@@ -53,13 +53,14 @@ Satu bulan kemudian alhamdulillah ada rezeki masuk ke rekening saya sebesar celo
 
 Singkat cerita enggak mau mikir panjang saya dan istri pun langsung mencari bank syariah untuk membuka tabungan haji. Saya dan istri memilih bank Muamalat (bukan promosi). Kami mendaftar di Kantor [Cabang Utama Palembang](https://goo.gl/maps/zrrfdbEogqq) berikut adalah dokumen yang perlu disiapkan :
 
-- Ktp asli + fotokopi 2 lembar 
-- Fotokopi kartu keluarga 2 lembar 
-- Map (*CS* Bank akan membagi 2 dokumen, map ini untuk dokumen yang nanti kita bawa ke Depag)
-- Fotokopi akte/ijazah/buku nikah (salah satu saja) 2 lembar 
-- Foto haji (**80% wajah**, contoh dapat dilihat di dokumen **BPIH** di bawah) 3x4 10 lembar 
-- Materai 6000 4 lembar
-- Uang setoran sebesar 25jt rupiah untuk mendapatkan porsi haji, atau minimal 100 ribu rupiah untuk setoran awal membuka tabungan haji
+- Ktp asli + fotokopi 2 lembar,
+- NPWP,
+- Fotokopi kartu keluarga 2 lembar,
+- Map (*CS* bank akan membagi 2 dokumen, map ini untuk dokumen yang nanti kita bawa ke Depag),
+- Fotokopi akte/ijazah/buku nikah (salah satu saja) 2 lembar,
+- Foto haji (**80%** wajah, latar belakang putih, contoh dapat dilihat di dokumen **BPIH** di bawah) 3x4 10 lembar,
+- Materai 6000 4 lembar,
+- Uang setoran sebesar 25jt rupiah untuk mendapatkan porsi haji, atau minimal 100 ribu rupiah untuk setoran awal membuka tabungan haji.
 
 Jika persyaratan di atas sudah lengkap (lunas setoran awal 25jt) dan sistem informasi depag normal alias daring, maka pihak bank akan menyetor tabungan haji sehingga kita dapat langsung memperoleh surat validasi/tanda bukti setoran biaya penyelenggaraan ibadah haji (BPIH). Yang akan kita bawa ke Departemen Agama untuk mendaftar pergi haji.
 
