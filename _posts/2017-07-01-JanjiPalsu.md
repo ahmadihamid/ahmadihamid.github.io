@@ -17,7 +17,7 @@ Sebagian kecil rumah dengan listrik 900 watt lain masih kebagian subsidi.
 Saya penasaran soal `cap mampu` ini pun soal bagaimana jika rumah si mampu disewa oleh si tidak mampu. Baik. Bukan hal membosankan itu bahasan kita. Pun itu bukan urusan kita.
 
 Kembali ke cerita awal kita produk bersubsidi yang masih setia yaitu si tabung bulat hijau berisi 3kg campuran `hidrokarbon` dengan rantai karbon 2-5. Elpiji. Karena barang bersubsidi lain yaitu premium pun mulai ~~dihilangkan~~ menghilang dari peredaran. Dispensernya mati suri. 
-Dengan dalih ketersediaan alias tetangga jualnya kebanyakan gas bersubsidi ini sehingga sampai sekarang kami masih menggunakannya. Walau telah didoakan keluarga mampu. Amiin.
+Dengan dalih ketersediaan alias tetangga jualnya kebanyakan gas bersubsidi ini sehingga sampai sekarang kami masih menggunakannya. Walau telah didoakan menjadi keluarga mampu. Amiin.
 
 `...`
 
@@ -31,7 +31,7 @@ Baik. Tips dari saya yaitu menyemprot pentil yang macet dengan `WD40.` Bukan pro
 
 ![](/img/elpi-semprot.jpg) 
 
-Sederhana kan? Semenjak membaca [artikel ini](http://www.goodshomedesign.com/13-amazing-uses-for-wd-40/) saya jadi *WD40-minded*. Seolah semua bisa diselesaikan dengan si wd40 ini. Tapi amalkan hal ini dengan resiko sendiri ya, saya enggak bertanggung jawab atas segala kejadian. 
+Sederhana kan? Semenjak membaca [artikel ini](http://www.goodshomedesign.com/13-amazing-uses-for-wd-40/) saya jadi *WD40-minded*. Seolah semua bisa diselesaikan dengan si wd40 ini. Tapi amalkan tips ini dengan resiko sendiri ya, saya enggak bertanggung jawab atas segala kejadian. 
 
 😋
 
