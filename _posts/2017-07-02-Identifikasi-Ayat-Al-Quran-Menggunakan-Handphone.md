@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Identifikasi Ayat Al-Quran Menggunakan Handphone
+title: Identifikasi Lantunan Ayat Al-Quran Menggunakan Handphone
 category: halamanbelakang
 tags: [android, apss]
 comments: true
@@ -26,9 +26,9 @@ Ini yang menyanyi Kaneki atau gimana?
 
 `...`
 
-Baik. Dua skenario kurang bermanfaat sepertinya. Skenario bermanfaatnya yaitu ketika kamu mendengar bacaan Al-Quran dimana *qori*-nya begitu menghayati, kadang sampai-sampai emosional, menangis haru karena Allah lembutkan hatinya, bukan karena sifat munafik atau urusan dunia, dan kamu pun penasaran apa yang beliau baca sampai sebegitunya.
+Baik. Dua skenario kurang bermanfaat sepertinya. Skenario bermanfaatnya yaitu ketika kamu mendengar bacaan Al-Quran dimana *qori*-nya begitu menghayati, kadang sampai-sampai emosional, menangis haru karena Allah lembutkan hatinya, tambahkan imannya, bukan karena sifat munafik atau urusan dunia, dan kamu pun penasaran apa yang beliau baca sampai sebegitunya.
 
-Aplikasi yang akan kita manfaatkan untuk kasus seperti ini yaitu [SoundHound](https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier.freemium). Sebenarnya banyak aplikasi serupa di PlayStore, kamu bisa mencobanya satu persatu jika penasaran. Penggunaannya sangat sederhana cukup mendekatkan mikrofon ponsel ke sumber suara kemudian tekan tombol "listen" maka aplikasi akan mencocokkan audio yang didengar dengan databasenya.
+Aplikasi yang akan kita manfaatkan untuk kasus seperti ini yaitu [SoundHound](https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier.freemium). Sebenarnya banyak aplikasi serupa di PlayStore, kamu bisa mencobanya satu persatu jika penasaran. Penggunaannya sangat sederhana cukup mendekatkan ponsel ke sumber suara kemudian tekan tombol "listen" maka aplikasi akan mencocokkan audio yang didengar dengan databasenya.
 
 ![](/img/sh-1.jpg) 
 
