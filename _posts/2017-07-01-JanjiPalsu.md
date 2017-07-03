@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Janjipalsu Dot Ex Ex Ex
-category: masak
-tags: [Masak]
+category: gaje
+tags: [janjipalsu]
 comments: true
 author: ahmadi
 --- 
