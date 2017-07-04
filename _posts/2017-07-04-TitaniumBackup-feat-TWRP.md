@@ -5,9 +5,7 @@ category: gaje
 tags: [Recovery, TWRP, Titanium Backup]
 comments: true
 author: ahmadi
-summary: "Sembari meminta bantuan dukungan Telegram saya mencoba mengambil data dari berkas cadangan TWRP menggunakan Titanium Backup. Namun sayangnya fitur ini hanya tersedia pada versi PRO atau berbayar. 
-...
-Berikut adalah langkah untuk memulihkan data dari berkas cadangan TWRP mengunakan bantuan Titanium Backup : "
+summary: "Sembari meminta bantuan dukungan Telegram saya mencoba mengambil data dari berkas cadangan TWRP menggunakan Titanium Backup. Namun sayangnya fitur ini hanya tersedia pada versi PRO atau berbayar. Berikut adalah langkah untuk memulihkan data dari berkas cadangan TWRP mengunakan bantuan Titanium Backup : "
 --- 
 <img border="0" src="/img/tbrp-yugo.jpg" style="float:left; margin-right:10px"/>
 
