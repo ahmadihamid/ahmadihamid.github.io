@@ -62,22 +62,24 @@ Berikut adalah langkah untuk memulihkan data dari berkas cadangan TWRP mengunaka
 
 ![](/img/tbrp-1.jpg)
 
-**Langkah 2** : Pilih berkas cadangan dan tunggu Titanium Backup menganalisa semua berkas aplikasi dan datanya.
+**Langkah 2** : Pilih berkas cadangan dan tunggu Titanium Backup menganalisa semua berkas aplikasi beserta datanya.
 
 ![](/img/tbrp-2.jpg)
 
 
 **Langkah 3** : Pilih aplikasi yang ingin dipulihkan dan tekan tombol ceklis (✔) di pojok kanan atas untuk memulai proses pemulihan. Selesai.
 
-Titanium Backup ini walau memiliki tampilan yang tidak terlalu cantik tapi beberapa kali sudah menyelamatkan saya. Apalagi dulu sewaktu masih rajin ngoprek ponsel Android. Jadi "terpaksa" meningkatkan ke versi PRO.
+Titanium Backup ini walau memiliki tampilan yang tidak terlalu cantik tapi beberapa kali sudah menyelamatkan saya. Apalagi dulu sewaktu masih rajin `ngoprek` ponsel Android. Hal ini membuat saya "terpaksa" meningkatkan ke versi PRO.
+
+😔
 
 Sebenarnya saya juga sudah mencoba aplikasi gratis dengan fungsi serupa yaitu [Nandroid Manager](https://play.google.com/store/apps/details?id=com.h3r3t1c.bkrestore)  tapi sayangnya gagal dalam memulihkan data. Seringkali yang berbayar memang lebih manjur. Ada harga ada rupa.
 
 😔
 
-Cara ini mungkin juga bisa kamu manfaatkan untuk memulihkan akun WhatsApp bila ganti ponsel dan ternyata nomer kamu hangus. Atau aplikasi lain.
+Cara ini mungkin juga bisa kamu manfaatkan untuk memulihkan akun WhatsApp bila ganti ponsel dan ternyata nomer kamu hangus. Pun dengan aplikasi lain.
 
-Satu lagi fakta seru yaitu Telegram memiliki layanan dukungan yang 👍 (top), saya penasaran adakah aplikasi perpesanan yang mau meladeni penggunanya lewat *chat* atau obrolan?
+Satu lagi fakta seru yaitu Telegram memiliki layanan dukungan yang 👍 (top), saya penasaran adakah aplikasi perpesanan yang mau meladeni pengguna seperti saya lewat *chat* atau obrolan?
 
 😎
 
