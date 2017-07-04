@@ -14,9 +14,11 @@ Contoh praktisnya yaitu kamu menggunakan ponsel dengan kartu SIM ganda. Satu unt
 
 Baik. Itu baru nomer telepon. Bagaimana dengan akun media sosial di dunia maya? Tertarik menggunakan banyak akun untuk satu layanan sosial media yang sama? 
 
+*Psyco.*
+
 `...`
 
-Di sini kita akan mencoba menjalankan banyak akun telegram dengan dua skenario yaltu pada ponsel Android dan Desktop Linux.
+Di sini kita akan mencoba menjalankan banyak akun Telegram dengan dua skenario yaitu pada ponsel Android dan *Desktop* Linux.
 
 **Ponsel Android**
 
@@ -24,19 +26,19 @@ Untuk menggunakan banyak akun pada ponsel android kita akan melakukan kloning pa
 
 **App Cloner**
 
-**Langkah 1** : Buka aplikasi App Cloner yang telah kamu pasang kemudian pilih aplikasi yang ingin kamu kloning, di sini saya akan menduplikasi ["Plus Messenger"](https://play.google.com/store/apps/details?id=org.telegram.plus) yaitu klien tidak resmi dari aplikasi perpesanan Telegram.
+**Langkah 1** : Buka aplikasi App Cloner yang telah kamu pasang kemudian pilih aplikasi yang ingin kamu kloning, di sini saya akan menduplikasi ["Plus Messenger"](https://play.google.com/store/apps/details?id=org.telegram.plus) yaitu klien tidak resmi dari layanan perpesanan Telegram.
 
 ![](/img/ac-pilih.jpg)
 
-**Langkah 2** : Lakukan kustomisasi. Salah satu fitur menarik dari AppCloner  yaitu kita dapat melakukan perubahan nama dan ikon dari aplikasi yang akan di kloning, ini bermanfaat untuk membedakan antara aplikasi asli dan salinannya.
+**Langkah 2** : Lakukan kustomisasi. Salah satu fitur menarik dari App Cloner  yaitu kita dapat melakukan perubahan nama dan ikon dari aplikasi yang akan di kloning, ini bermanfaat untuk membedakan antara aplikasi asli dan salinannya.
 
 ![](/img/ac-kustom.jpg)
 
-**Langkah 3** : Selesai melakukan kustomisasi tekan tombol ✔ (ceklis) untuk melakukan kloning. Karena saya terdeteksi menggunakan Cyanogenmod - padahal sistem operasi yang saya gunakan adalah anak yang imut yaitu LineageOS - saya mendapat peringatan kemungkinan *"Boot Loop"* (ngeri ya? 😨 tapi di sini aman, pun itu hanya jika kamu pengguna Cyanogen/Lineage) dan dipaksa menyesuaikan izin melalui menu pengaturan pada App Cloner baru kemudian melanjutkan proses kloning.
+**Langkah 3** : Selesai melakukan kustomisasi tekan tombol ✔ (ceklis) untuk melakukan kloning. Karena saya terdeteksi menggunakan Cyanogenmod - padahal sistem operasi yang saya gunakan adalah anaknya yang imut yaitu LineageOS - saya mendapat peringatan kemungkinan *"Boot Loop"* (ngeri ya? 😨 tapi di ponsel saya aman, pun itu hanya jika kamu pengguna Cyanogen/Lineage) dan dipaksa untuh lebih dahulu menyesuaikan izin melalui menu pengaturan pada App Cloner baru kemudian melanjutkan proses kloning.
 
 ![](/img/ac-warn.jpg)
 
-**Langkah 4** : Selesai proses kloning kamu dapat memilih opsi untuk memasang aplikasi. Kemudian lakukan pemasangan standar seperti saat kita melakukan pemasangan dari berkas apk. Di sini terasa perbedaannya dengan Paralel Space. Penasaran? Nanti kita bahas pada "bagian ke-2".
+**Langkah 4** : Selesai proses kloning kamu dapat memilih opsi untuk memasang aplikasi. Kemudian lakukan pemasangan standar seperti saat kita melakukan pemasangan dari berkas apk. Di sini terasa perbedaannya dengan Paralel Space. Penasaran? Nanti kita bahas pada "bagian 2".
 
 😜
 
