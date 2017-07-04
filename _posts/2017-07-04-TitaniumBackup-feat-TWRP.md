@@ -2,7 +2,7 @@
 layout: post
 title: Menyelamatkan Data Aplikasi Android ke Ponsel Baru
 category: gaje
-tags: [app cloner]
+tags: [Recovery, TWRP, Titanium Backup]
 comments: true
 author: ahmadi
 --- 
