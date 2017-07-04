@@ -12,7 +12,7 @@ sumber:<https://en.m.wikipedia.org/wiki/Yugo_(manga)>
 
 Pada postingan kali ini saya belum akan melanjutkan bahasan tentang [menjalankan banyak akun pada ponsel Android](https://ahmadihamid.com/gaje/PribadiGanda1/). Ada cerita menarik yang kebelet banget rasanya buat dibagi.
 
-Beberapa waktu lalu terjadi takdir yang saya tidak suka. Ganti hape. Ketika banyak orang *latah* dan amat semangat mengganti ponsel, saya justru kurang suka. Karena bayar. Tampaknya takdir ini terjadi karena buah kesombongan saya. Enggak lama dari sebelum ponsel saya *matot* alias mati total saya memperbarui `status` seperti berikut :
+Beberapa waktu lalu terjadi takdir yang saya tidak suka. Ganti hape. Ketika banyak orang *latah* dan amat semangat mengganti ponsel ke versi ter-*anyar*, saya justru kurang suka. Karena bayar. Tampaknya takdir ini terjadi karena buah kesombongan saya. Enggak lama dari sebelum ponsel saya *matot* alias mati total saya memperbarui `status` seperti berikut :
 
 ![](/img/tbrp-status.jpg)
 
@@ -28,9 +28,9 @@ Rasulullah Shallallahu’alaihi Wasallam bersabda:
 
 😔
 
-*Qodarullah* ponsel saya habis usia pakainya dan terpaksa mencari penggantinya. Sakit. Walau beberapa data aman karena ponsel saya masih menggunakan kartu `microSD` sebagai media penyimpanan, namun sesi salah satu akun Telegram saya terperangkap. Nomer untuk mendaftarnya sudah hangus. Lewat masa tenggang.
+*Qodarullah* ponsel saya habis usia pakainya dan terpaksa mencari penggantinya. Sakit. Walau beberapa data aman karena ponsel saya masih menggunakan kartu `microSD` sebagai media penyimpanan, namun sesi salah satu akun Telegram saya terperangkap di dalam lembah nista paling dalam. Nomer untuk mendaftarnya sudah hangus. Lewat masa tenggang.
 
-Istri saya coba menghubungi layanan konsumen Ind*sat yaitu provider kartu hangus saya namun menurutnya jika lewat masa tenggang maka nomer tidak bisa diaktifkan kembali. Aneh.
+Istri cantik saya coba menghubungi layanan konsumen Ind*sat yaitu provider kartu hangus saya namun menurutnya jika lewat masa tenggang maka nomer tidak bisa diaktifkan kembali. Aneh.
 
 😕
 
@@ -58,7 +58,7 @@ Masa jalan-jalan ke luar negeri bisa tapi masih `nyolong` aplikasi seharga 91 ri
 
 Berikut adalah langkah untuk memulihkan data dari berkas cadangan TWRP mengunakan bantuan Titanium Backup :
 
-**Langkah 1** : Pilih menu "extract from Nandroid backup" pada menu utama. Titanium Backup akan otomatis mendeteksi berkas cadangan TWRP/CWM. Sayangnya bila lokasi berkas di kartu memori eksternal, Titanium Backup tidak mampu mendeteksinya, saya terpaksa menyalin berkas ke memori internal.
+**Langkah 1** : Pilih menu "extract from Nandroid backup" pada menu utama. Titanium Backup akan otomatis mendeteksi berkas cadangan TWRP/CWM. Sayangnya bila lokasi berkas di kartu memori eksternal, Titanium Backup tidak mampu mendeteksinya, saya terpaksa menyalin berkas tersebut ke memori internal.
 
 ![](/img/tbrp-1.jpg)
 
@@ -77,9 +77,9 @@ Sebenarnya saya juga sudah mencoba aplikasi gratis dengan fungsi serupa yaitu [N
 
 😔
 
-Cara ini mungkin juga bisa kamu manfaatkan untuk memulihkan akun WhatsApp bila ganti ponsel dan ternyata nomer kamu hangus. Pun dengan aplikasi lain.
+Cara ini **mungkin** juga bisa kamu manfaatkan untuk memulihkan akun WhatsApp bila ganti ponsel dan ternyata nomer kamu hangus. Pun dengan aplikasi lain.
 
-Satu lagi fakta seru yaitu Telegram memiliki layanan dukungan yang 👍 (top), saya penasaran adakah aplikasi perpesanan yang mau meladeni pengguna seperti saya lewat *chat* atau obrolan?
+Satu lagi fakta seru yaitu Telegram memiliki layanan dukungan yang 👍 (top), saya penasaran adakah aplikasi perpesanan lain yang mau meladeni pengguna seperti saya lewat *chat* atau obrolan?
 
 😎
 
