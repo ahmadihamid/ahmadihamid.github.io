@@ -6,7 +6,7 @@ tags: [app cloner]
 comments: true
 author: ahmadi
 --- 
-<img border="0" src="/img/tbrp-yugo.png" style="float:left; margin-right:10px"/>
+<img border="0" src="/img/tbrp-yugo.jpg" style="float:left; margin-right:10px"/>
 
 sumber:<https://en.m.wikipedia.org/wiki/Yugo_(manga)>
 
