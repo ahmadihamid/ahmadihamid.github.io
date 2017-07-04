@@ -22,7 +22,9 @@ Rasulullah Shallallahu’alaihi Wasallam bersabda:
 
  >خَيْرُ الناسِ أَنْفَعُهُمْ لِلناسِ
 
-> “Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia” (HR. Ahmad, ath-Thabrani, ad-Daruqutni. Hadits ini dihasankan oleh al-Albani di dalam Shahihul Jami’ no:3289).
+> “Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia” 
+
+(HR. Ahmad, ath-Thabrani, ad-Daruqutni. Hadits ini dihasankan oleh al-Albani di dalam Shahihul Jami’ no:3289).
 
 😔
 
@@ -42,19 +44,19 @@ Baik. Berikut adalah negosiasi gagal saya. Sebagian karena saya sendiri yang men
 
 ![](/img/tbrp-nego.jpg)
 
-Sembari meminta bantuan dukungan Telegram saya mencoba mengambil data dari berkas cadangan `TWRP` yang ternyata berhasil. Namun sayangnya fitur ini hanya tersedia pada versi **PRO** atau berbayar. Buat kamu yang membutuhkan fitur ini atau fitur lain yang hanya tersedia pada versi berbayar **jangan** mencari bajakannya ya. Beli saja buat mendukung pengembang. "Cuma" 91 ribu rupiah kok. 
+Sembari meminta bantuan dukungan Telegram saya mencoba mengambil data dari berkas cadangan `TWRP` menggunakan Titanium Backup. Namun sayangnya fitur ini hanya tersedia pada versi **PRO** atau berbayar. Buat kamu yang membutuhkan fitur ini atau fitur lain yang hanya tersedia pada versi berbayar **jangan** mencari bajakannya ya. Beli saja buat mendukung pengembang. "Cuma" 91 ribu rupiah kok. 
 
 😭
 
 ![](/img/tbrp-91.jpg)
 
-Masa jalan-jalan ke luar negeri bisa tapi masih nyolong aplikasi seharga 91 ribu. 
+Masa jalan-jalan ke luar negeri bisa tapi masih `nyolong` aplikasi seharga 91 ribu. 
 
 😜
 
 `...`
 
-Berikut adalah langkah untuk memulihkan data dari berkas cadangan TWRP melalui Titanium Backup :
+Berikut adalah langkah untuk memulihkan data dari berkas cadangan TWRP mengunakan bantuan Titanium Backup :
 
 **Langkah 1** : Pilih menu "extract from Nandroid backup" pada menu utama. Titanium Backup akan otomatis mendeteksi berkas cadangan TWRP/CWM. Sayangnya bila lokasi berkas di kartu memori eksternal, Titanium Backup tidak mampu mendeteksinya, saya terpaksa menyalin berkas ke memori internal.
 
