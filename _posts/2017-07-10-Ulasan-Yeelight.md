@@ -2,10 +2,10 @@
 layout: post
 title: Ulasan Lampu Pintar Yeelight
 category: gaje
-tags: [nikah, muda]
+tags: [review, yeelight]
 comments: true
 author: ahmadi
-summary: "Beberapa kali baik oleh teman yang saya kenal ataupun teman yang saya tidak kenal saya ditanya soal nikah. Mungkin karena bagi mereka saya menikah muda. Padahal bagi saya 21 tahun (hampir) yaitu usia saya menikah adalah usia pas. Gak terlalu cepat pun lambat. Tapi itu 7 tahun lalu. Sekarang, 7 tahun kemudian kiranya sudah tidak relevan."
+summary: "Pada postingan kali ini saya mencoba mengulas si Lampu Pintar Yeelight. Hanya ada satu alasan saya memilih Yeelight ketimbang merk lain yang ada di pasaran. Agar lebih mudah dicerap saya coba jelaskan lewat cerita. Dulu sewaktu saya kecil saya pernah disuruh emak beli lampu ke toko agak jauh dari rumah. Beli merk Philips katanya. Saya heran bukan main"
 --- 
 
 ![](/img/yee-art.jpg)
