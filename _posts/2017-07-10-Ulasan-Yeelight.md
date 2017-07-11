@@ -76,6 +76,8 @@ Oke kita lanjutkan cerita hujan kita. Karena temperatur mulai turun tetiba istri
 
 😍
 
+![](/img/yee-snap.jpg)
+
 Oke. Sekedar ilustrasi dan yang di atas itu pula foto sarung saya bukan pakaian yang tadi saya bilang. Ragu rasanya menyoroti istri pakai kamera ponsel negeri bambu lewat aplikasinya pula. Pun tema romantis sudah cukup.
 
 Selamat ehem-ehem! 
