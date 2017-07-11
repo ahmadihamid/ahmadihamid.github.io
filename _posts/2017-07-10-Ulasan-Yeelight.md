@@ -72,7 +72,7 @@ Satu lagi yang cukup menarik yaitu fitur "snap" dimana kita dapat menangkap warn
 
 Bingung serunya di mana?
 
-Oke kita lanjutkan cerita hujan kita. Karena temperatur mulai turun tetiba istri mengajak untuk sedikit menghangatkan. Segelas coklat panas ternyata kurang. Singkat cerita satu sarana pengikat hati sepasang suami istri pun dieksekusi. Buat menambah temperatur suasana merubah warna ruangan sama dengan `"pakaian kebarat-baratan"` sepertinya menarik.
+Oke kita lanjutkan cerita hujan kita. Karena temperatur mulai turun tetiba istri mengajak untuk sedikit menghangatkan. Segelas coklat panas ternyata kurang. Singkat cerita satu sarana pengikat hati sepasang suami istri pun dieksekusi. Buat menambah temperatur suasana merubah warna ruangan sama dengan `"pakaian kebarat-baratan"` istri sepertinya menarik.
 
 😍
 
