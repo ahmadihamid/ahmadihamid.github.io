@@ -5,12 +5,11 @@ category: gaje
 tags: [review, yeelight]
 comments: true
 author: ahmadi
-summary: "Pada postingan kali ini saya mencoba mengulas si Lampu Pintar Yeelight. Hanya ada satu alasan saya memilih Yeelight ketimbang merk lain yang ada di pasaran. Agar lebih mudah dicerap saya coba jelaskan lewat cerita. Dulu sewaktu saya kecil saya pernah disuruh emak beli lampu ke toko agak jauh dari rumah. Beli merk Philips katanya. Saya heran bukan main"
+summary: "Pada postingan kali ini saya mencoba mengulas si Lampu Pintar Yeelight. Hanya ada satu alasan saya memilih Yeelight ketimbang merk lain yang ada di pasaran. Agar lebih mudah dicerap saya coba jelaskan lewat cerita. Dulu sewaktu saya kecil saya pernah disuruh emak beli lampu ke toko agak jauh dari rumah. Beli merk Philips katanya. Saya heran bukan main..."
 --- 
 
 ![](/img/yee-art.jpg)
-
-sumber: <https://www.pinterest.com/pin/427771664580342900/>
+[sumber gambar](https://www.pinterest.com/pin/427771664580342900)
 
 Jika kemarin kita sudah menyerempet sekelebat tentang "rumah tangga" kali ini saya mau bahas secuil isinya atau kita sebut saja peralatan rumah tangga. Yaitu lampu. "Lampu Pintar" lengkapnya karena di zaman edan ini semua latah  menambahkan kata "pintar" seperti "telepon pintar"; "jam tangan pintar"; "rumah pintar"; "kota pintar" dsb, banyak benda mati dikatai "pintar" sedangkan yang hidup dipuji sebaliknya, "pemimpin beg0"; "ulama beg0"; bahkan "rakyat beg0". Jangan `ge-er` apalagi tersinggung. Saya sedang menggambarkan kondisi diri sendiri kok. Aneh memang padahal Rasullullah Muhammad SAW sudah menjelaskan tugas mulut cuma 2 : "bicara yang baik" atau "diam".
 
@@ -26,7 +25,7 @@ Pada postingan kali ini saya mencoba mengulas **si Lampu Pintar Yeelight**. Hany
 
 Tapi karena saya anak yang berbakti pada orang tua (seandainya), saya pun menurut saja. Setelah usia saya bertambah dan mulai mengenal sedikit konsep ekonomi saya baru tahu kalau ternyata lampu merk Philips memiliki harga lebih tinggi dari teman-temannya sesama lampu. Yap, itulah alasan saya memilih Yeelight milik Xiaomi ketimbang Hue-nya Philips. Karena konsep ekonomi tadi. 
 
-☺️
+😜
 
 Penjelasan yang sangat membantu kan? 
 
@@ -56,7 +55,8 @@ Sebelum melakukan seting kita disarankan melakukan reset dengan menghidupkan dan
 
 **Layanan IFTTT buat Otomatisasi**
 
-Selain kenyamanan mengontrol lampu dari ponsel kita juga dapat memanfaatkan layanan IFTTT untuk melakukan otomatisasi semisal mengganti tema/suasana sesuai perubahan cuaca. Semisal kamu sama seperti saya penyuka hujan dimana tiap rintiknya cuma mengandung kenangan dan selaput tegangan permukaannya tipis lemah dan seketika akan membuncah memercik saat menghantam bumi menyerap dan kembali sembunyi membaur bersama genangan emosi lain sembari menunggu sang pencipta meninggikannya lagi. *Yaa muqollibal qulub tsabbit qolbi..*
+Selain kenyamanan mengontrol lampu dari ponsel kita juga dapat memanfaatkan layanan `IFTTT` untuk melakukan otomatisasi semisal mengganti tema/suasana sesuai perubahan cuaca. 
+Semisal kamu sama seperti saya penyuka hujan dimana tiap rintiknya cuma mengandung kenangan dan selaput tegangan permukaannya tipis lemah dan seketika akan membuncah memercik saat menghantam bumi menyerap dan kembali sembunyi membaur bersama genangan emosi lain sembari menunggu sang pencipta meninggikannya lagi. *Yaa muqollibal qulub tsabbit qolbi..*
 
 Berganti otomatis ke tema romantis adalah ide bagus.
 
