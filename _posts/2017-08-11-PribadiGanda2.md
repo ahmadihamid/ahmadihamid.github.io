@@ -14,7 +14,7 @@ Terdapat perbedaan yang sangat mendasar antara App Cloner dan [Parallel Space](h
 **Yuk ah langsung praktek.**
 
 Buka aplikasi Parallel Space yang telah kamu pasang kemudian pilih aplikasi yang ingin kamu kloning, di sini saya akan menduplikasi Telegram. Buat klon dengan menekan tombol "Add App".
-Kemudian pilih aplikasi yang diinginkan
+Kemudian pilih aplikasi yang diinginkan.
 
 ![](/img/ps-langkah.jpg)
 
