@@ -39,10 +39,6 @@ Sebagai catatan tambahan bunga Markisa hanya mekar dalam kurun waktu sehari. Kee
 
 ![](/img/kwn-bunga2.jpg) 
 
-Kalau masih kurang jelas kamu bisa liat video berikut :
-
-{% youtube P80obC1FwLU %}
-
 Perkawinan yang aneh ya?
 
 😅
@@ -58,5 +54,3 @@ Jangan marah ya Markisa, saya sedang bersyukur jadi manusia kok.
 **Referensi**
 
 <https://t.me/halamanbelakang/>
-
-
