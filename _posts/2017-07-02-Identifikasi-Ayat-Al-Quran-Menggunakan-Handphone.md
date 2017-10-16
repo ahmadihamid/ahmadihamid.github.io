@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Identifikasi Lantunan Ayat Al-Quran Menggunakan Handphone
-category: gaje
+category: islam
 tags: [android, apss]
 comments: true
 author: ahmadi

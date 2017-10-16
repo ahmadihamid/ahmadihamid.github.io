@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prosedur Daftar Haji Palembang 2017
-category: gaje
+category: islam
 tags: [daftar haji, Palembang]
 comments: true
 author: ahmadi
