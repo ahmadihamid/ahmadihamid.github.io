@@ -7,7 +7,7 @@ comments: true
 author: ahmadi
 --- 
 
-Salah seorang teman saya menyarankan agar tutorial atau artikel yang saya tulis di [@halamanbelakang](https://t.me/halamanbelakang/) disertai video supaya lebih mudah dipahami katanya. Padahal saya sudah mencoba menyertakan foto di tiap tulisan. Tapi persepsi orang terhadap gambar bisa beda deliknya.
+Salah seorang teman saya menyarankan agar tutorial atau artikel yang saya tulis di [@halamanbelakang](https://t.me/halamanbelakang/) disertai video, supaya lebih mudah dipahami katanya. Padahal saya sudah mencoba menyertakan foto di tiap tulisan. Tapi persepsi orang terhadap gambar bisa beda deliknya.
 
 Masuk akal sih. Saya pun coba mengamalkan saran teman saya yang baik hati itu. Yang jadi masalah saya bukan orang kekinian (apa tuh istilah teramat **buruknya**? "*zaman now*"?) yang biasa meliput diri apalagi dengan format gambar bergerak. Jadi selain tidak memiliki keterampilan saya juga enggak punya perangkatnya.
 
@@ -19,7 +19,7 @@ Baik. Kita kesampingkan dulu soal keterampilan di depan kameranya. Saya kandung 
 
 	1. Tali kepala buat menyangga ponsel.
 	2. Kesing sebagai wadah ponsel.
-	3. Konektor. Sebenarnya saya cuma butuh konektor GoPro-nya sih, karena enggak nemu yang jual konektornya saja, saya terpaksa beli paket ini yang lumayan lengkap dan juga enggak mahal..
+	3. Konektor. Sebenarnya saya cuma butuh konektor GoPro-nya sih, karena enggak nemu yang jual konektornya saja, saya terpaksa beli paket ini yang lumayan lengkap dan juga enggak mahal.
 
 **Modifikasi**
 
@@ -29,9 +29,9 @@ Yang kita lakukan selanjutnya cuma menempelkan konektor `GoPro` tadi ke *Hardcas
 
 Selesai deh.
 
-![](/img/aksi-fln.jpg)
+![](/img/aksi-fin.jpg)
 
-Beruntung saya membeli paketan penyangga kamera aksi buat sepeda karena ternyata saya membutuhkan tambahan lengan yang ada di paketan buat memposisikan ponsel lebih baik, sedemikian rupa sehingga pas PoV-nya.
+Beruntung saya membeli paketan penyangga kamera aksi buat sepeda karena ternyata saya membutuhkan tambahan lengan yang ada di paketan buat memposisikan ponsel lebih baik, sedemikian rupa sehingga pas *PoV*-nya.
 
 😳👍
 
