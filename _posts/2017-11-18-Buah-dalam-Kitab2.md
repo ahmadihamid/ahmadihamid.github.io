@@ -18,15 +18,17 @@ Sama seperti pohon Tin, pohon Sidr atau di Indonesia lebih dikenal dengan nama B
 Allah SWT berfirman:
 
 > فِيْ سِدْرٍ مَّخْضُوْدٍ 
+
 "(Mereka) berada di antara pohon bidara yang tidak berduri,"
 (QS. Al-Waqi'ah 56: Ayat 28)
 
 ` `
 > فَاَعْرَضُوْا فَاَرْسَلْنَا عَلَيْهِمْ سَيْلَ الْعَرِمِ وَبَدَّلْنٰهُمْ  بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَيْ اُكُلٍ خَمْطٍ وَّاَثْلٍ وَّشَيْءٍ مِّنْ سِدْرٍ  قَلِيْلٍ
+
 "Tetapi mereka berpaling, maka Kami kirim kepada mereka banjir yang besar dan Kami ganti kedua kebun mereka dengan dua kebun yang ditumbuhi (pohon-pohon) yang berbuah pahit, pohon Asl dan sedikit pohon Sidr."
 (QS. Saba' 34: Ayat 16)
 
-Dalam hadits dari Qois bin ‘Ashim radhiyallahu ‘anhu,
+Dalam Hadits dari Qois bin ‘Ashim radhiyallahu ‘anhu,
 
 > أَنَّهُ أَسْلَمَ فَأَمَرَهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ يَغْتَسِلَ بِمَاءٍ وَسِدْرٍ
 
