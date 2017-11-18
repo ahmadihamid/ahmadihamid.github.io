@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Buah dalam Kitab #2 : Sidr
+title: Buah dalam Kitab bagian ke-2 : Sidr
 category: islam
 tags: [kebun, sidr, putsa]
 comments: true
@@ -34,11 +34,11 @@ Dalam hadits dari Qois bin ‘Ashim radhiyallahu ‘anhu,
 
 **Manfaat** 
 
-Nah soal manfaat dari Bidara saya sebutkan sekilas saja ya karena saya belum coba. Setelah mendengar kisah imam Malik **rh** yang menabung sebulan penuh buat memerdekakan budak sebelum menjawab pertanyaan seorang muridnya tentang keutamaan memerdekakan budak, saya jadi kerepotan berpikir beberapa kali kalau mau bercerita tentang manfaat sesuatu.
+Nah soal manfaat dari Bidara saya sebutkan sekilas saja ya karena saya belum coba. Setelah mendengar kisah imam Malik **rh.** yang menabung sebulan penuh buat memerdekakan budak sebelum menjawab pertanyaan seorang muridnya tentang keutamaan memerdekakan budak, saya jadi kerepotan berpikir beberapa kali kalau mau bercerita tentang manfaat sesuatu.
 
 😔
 
-Berikut adalah manfaat Sidr menurut Ibnul Qoyyim **rh** diantaranya : buahnya bisa dimakan, mengobati diare, obat untuk penyakit perut, memperkuat fungsi hati dan empedu, meningkatkan nafsu makan, dll.
+Berikut adalah manfaat Sidr menurut Ibnul Qoyyim **rh.** diantaranya : buahnya bisa dimakan, mengobati diare, obat untuk penyakit perut, memperkuat fungsi hati dan empedu, meningkatkan nafsu makan, dll.
 
 Daunnya pun tak tertinggal dalam faedah, Rasulullah menuntun umat Islam melalui sunnahnya buat memanfaatkan daun bidara dalam hal membersihkan kotoran misal buat mandi wajib bagi mualaf, wanita haid, dan memandikan mayit. Dan banyak lagi, bukan cuma di alam fisika yang jelas jauh dari ranah saya (😅) yaitu menghindari dari gangguan bangsa sebelah yaitu saudara jauh Manusia yang bernama Jin.
 
@@ -46,10 +46,11 @@ Daunnya pun tak tertinggal dalam faedah, Rasulullah menuntun umat Islam melalui 
 
 **Putsa?**
 
-Dari penjabaran di atas kalau kamu pernah atau bahkan merupakan ahli *Ruqyah* (bener gak nih tulisannya?) pasti enggak asing sama pohon Sidr atau Bidara atau Widara atau Putsa? Eitss.. Tunggu dulu setahu saya Putsa **bukan** nama lain dari pohon Sidr. Sepertinya ini memang kerancuan yang lumayan menyebar di masyarakat kita. Walau satu genus/keluarga Putsa **bukanlah** Bidara. Keduanya merupakan dua tumbuhan berbeda. Sidr tumbuh di tanah kelahiran Nabi Muhammad sedang Putsa tumbuh di tanah air Shah Rukh Khan.
+Dari penjabaran di atas kalau kamu pernah atau bahkan merupakan ahli *Ruqyah* (bener gak nih tulisannya?) pasti enggak asing sama pohon `Sidr` atau `Bidara` atau `Widara` atau **Putsa**? Eitss.. Tunggu dulu setahu saya Putsa **bukan** nama lain dari pohon Sidr. Sepertinya ini memang kerancuan yang lumayan menyebar di masyarakat kita. Walau satu genus/keluarga Putsa **bukanlah** Bidara. Keduanya merupakan dua tumbuhan berbeda. Sidr tumbuh di tanah kelahiran Nabi Muhammad sedang Putsa tumbuh di tanah air Shah Rukh Khan.
 
 ![](/img/sidr-shah.jpg)
-[Sumber](https://www.buzzfeed.com/imaansheikh/c-c-c-cant-even?utm_term=.hhv6RBwPb#.pjWe8Gj7y)
+
+[Sumber gambar](https://www.buzzfeed.com/imaansheikh/c-c-c-cant-even?utm_term=.hhv6RBwPb#.pjWe8Gj7y)
  
 Sekali lagi walau satu marga Putsa bukan Bidara, keduanya memang mirip, beberapa perbedaan yang dapat diamati yaitu :
 
