@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Buah dalam Kitab bagian ke-2 : Sidr
+title: Buah dalam Kitab bagian ke-2
 category: islam
 tags: [kebun, sidr, putsa]
 comments: true
