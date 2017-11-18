@@ -68,7 +68,7 @@ Seru yah? Biasanya kalau *rootstock* kembali bertunas pembudidaya akan segera me
 
 😂
 
-Selamat bertanam pohon syurga!
+Selamat bertanam pohon surga!
 
 والله أعلمُ
 
