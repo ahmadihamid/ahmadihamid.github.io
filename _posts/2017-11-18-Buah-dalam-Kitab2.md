@@ -48,7 +48,7 @@ Daunnya pun tak tertinggal dalam faedah, Rasulullah menuntun umat Islam melalui 
 
 **Putsa?**
 
-Dari penjabaran di atas kalau kamu pernah atau bahkan merupakan ahli *Ruqyah* (bener gak nih tulisannya?) pasti enggak asing sama pohon `Sidr` atau `Bidara` atau `Widara` atau **Putsa**? Eitss.. Tunggu dulu setahu saya Putsa **bukan** nama lain dari pohon Sidr. Sepertinya ini memang kerancuan yang lumayan menyebar di masyarakat kita. Walau satu genus/keluarga Putsa **bukanlah** Bidara. Keduanya merupakan dua tumbuhan berbeda. Sidr tumbuh di tanah kelahiran Nabi Muhammad sedang Putsa tumbuh di tanah air Shah Rukh Khan.
+Dari penjabaran di atas kalau kamu pernah atau bahkan merupakan ahli *Ruqyah* (bener gak nih tulisannya?) pasti enggak asing sama pohon `Sidr` atau `Bidara` atau `Widara` atau **Putsa**? `Eitss..` Tunggu dulu setahu saya Putsa **bukan** nama lain dari pohon Sidr. Sepertinya ini memang kerancuan yang lumayan menyebar di masyarakat kita. Walau satu genus/keluarga Putsa **bukanlah** Bidara. Keduanya merupakan tumbuhan berbeda. Sidr tumbuh di tanah kelahiran Nabi Muhammad sedang Putsa tumbuh di tanah air Shah Rukh Khan!
 
 ![](/img/sidr-shah.jpg)
 
