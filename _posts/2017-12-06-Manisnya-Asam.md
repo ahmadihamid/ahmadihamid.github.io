@@ -35,10 +35,11 @@ Apalagi kalau yang digunakan adalah air aki bekas atau yang terdapat di dalam ba
 
 Tapi seingat saya gak ada sih cerita ada temannya yang tiba-tiba mengalami kerusakan otak, ginjal, atau organ vital lain.
 
-Ya itulah satu kisah ayah saya yang serba bisa. Jack all trades senior.
+Ya itulah satu kisah ayah saya yang serba bisa. *Jack all trades* senior.
 
-*Sampai sini kalau ada yang mengira ini adalah kisah yang ingin saya sampaikan. Kalian masih salah.
-*
+`...`
+
+*Sampai sini kalau ada yang mengira ini adalah kisah yang ingin saya sampaikan. Kalian masih salah.*
 
 Sesungguhnya yang ingin saya ceritakan adalah tanaman ajaib yang namanya saja ajaib. `Miracle Fruit.`
 
@@ -60,9 +61,9 @@ Lalu apanya yang *miracle*?
 
 🙄
 
-Ternyata keajaiban baru terjadi bila setelah kita memakan buah ini, kita memakan sesuatu yang asam. Semua yang sebenarnya asam akan terasa manis. Dari Jeruk Nitis sampai bumbu masakan yang ayah saya pakai tadi yaitu air aki alias asam Sulfat, semua akan terasa manis! Ajaib!
+Ternyata keajaiban baru terjadi bila setelah kita memakan buah ini, kita memakan sesuatu yang asam. Semua yang sebenarnya asam akan terasa manis. Dari Jeruk Nipis sampai bumbu masakan yang ayah saya pakai tadi yaitu air aki alias asam Sulfat, semua akan terasa manis! Ajaib!
 
-Keajaiban ini dilakukan oleh senyawa glikoprotein bernama `Miraculin` yang menipu reseptor dalam lidah. Mengalihkan rasa asam menjadi manis. Efek ini bertahan 30-60 menit tergantung banyaknya buah dikonsumsi. 
+Keajaiban ini dilakukan oleh senyawa glikoprotein bernama `Miraculin` yang menipu reseptor dalam lidah. Mengalihkan rasa asam menjadi manis. Efek ini bertahan 30-60 menit tergantung banyaknya buah yang dikonsumsi. 
 
 Saya dan istri pun penasaran dan meboyong bibit `Miracle Fruit` ini ke [@halamanbelakang](https://t.me/halamanbelakang) dari *nursery* dekat rumah.
 
@@ -70,7 +71,7 @@ Saya dan istri pun penasaran dan meboyong bibit `Miracle Fruit` ini ke [@halaman
 
 Konon si `Miracle Berry` (nama lainnya) suka kondisi lembab tapi gak suka tergenang air. Suka cahaya matahari tapi jangan kena terpaan terik langsung. Kedengarannya rewel ya? Tapi katanya (ini pengalaman pertama saya juga soalnya) gampang kok. Wajar sih soalnya tanaman ini berasal dari daerah subtropis. Iklim yang bukan-bukan. Ada panas dan hujan tapi bukan Tropis. Ada gurun tapi bukan Mediterania. Ada salju tapi bukan Kutub.
 
-Karena itu saya memutuskan buat memakai pot/*planter bag* biar bisa menghidar dari air berlebihan saat musim hujan, ngeles dari panas terik saat kemarau.
+Karena itu saya memutuskan buat memakai pot/*planter bag* biar bisa menghidar dari air berlebihan saat musim hujan, *ngeles* dari panas terik saat kemarau.
 
 Buat media tanam, pohon ajaib ini suka tanah asam dengan `pH` 4,8-5,5. Media yang disarankan yaitu campuran Tanah, Kompos, Cocopeat dan Perlite. Saya kurang suka yang terakhir ini karena berbahaya bila terhirup. 
 Perlite adalah material gelas yang mengembang, biasanya terdapat di daerah pegunungan aktif. Berwarna putih, ringan, berpori. Sedang *nge-tren* digunakan sebagai campuran media tanam untuk meningkatkan porositas tanah, menghindari tanah dari memadat sehingga akar tanaman sulit tumbuh dan bernafas.
