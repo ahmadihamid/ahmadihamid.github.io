@@ -7,13 +7,13 @@ comments: true
 author: ahmadi
 --- 
 
-**Kisah**
-
 Mungkin semua orang yang membaca judul tulisan ini sudah mafhum dengan makna bahasa peri (maksudnya peribahasa) yang saya kutip tersebut. Menyinggung peribahasa tersebut jika ditanya siapa orang terdekat dengan kita yang sudah **banyak makan asam garam** mungkin kita akan kompak menjawab "Ayah".
 
 *Sampai sini jangan harap ini adalah tulisan sentimentil penggugah jiwa pemerah air mata.*
 
 😂
+
+**Kisah**
 
 "Ayah" kata sarat kebanggaan dan kesenangan. Saya ingat ayah saya pernah bercerita saat bekerja dalam sebuah proyek di daerah agak terpencil.
 
