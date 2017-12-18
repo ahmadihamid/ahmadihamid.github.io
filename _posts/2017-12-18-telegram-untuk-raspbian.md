@@ -53,7 +53,7 @@ Jadi yuk kita langsung tambahkan repo tersebut ke `sourcelist` kita!
 deb http://ftp.de.debian.org/debian stretch-backports main 
 ```
 
-Kebetulan lokasi saya dekat dengan Jerman jadi saya langsung *kopas* saja contoh dari halaman web paket milik Debian. 
+Kebetulan lokasi saya dekat dengan Jerman jadi saya langsung *kopas* saja contoh konfigurasi sourcelist dari halaman web paket milik Debian di atas. 
 
 😳
 
@@ -72,6 +72,8 @@ Abaikan lagi verifikasi key di sini.
 Selesai deh, kita pun sudah bisa *ber-telegram-ria* di Raspberry Pi dengan lancar membahana.
 
 ![](/img/tur-ss.jpg)
+
+**Assalamualaykum!**
 
 ***Referensi :***
 
