@@ -7,7 +7,8 @@ comments: true
 author: ahmadi
 --- 
 
-Sebelum kita ke judul yang terlihat `angker` di atas yuk sejenak kita lempar imajinasi 100 tahun ke masa depan dimana ternyata dunia dikuasai seorang diktator yang melarang segala aktivitas berkebun. **Gila!** Bahkan seluruh bentuk tulisan dari buku sampai sekedar blog semacam [ahmadihamid.com](ahmadihamid.com) pun kena cyduk tim khusus penyensoran milik sang tiran. **Wow!** Hal ini terjadi karena sang autokrat memandang berkebun adalah teknik `hiperpurba` yang sudah seharusnya digantikan demi membawa peradaban manusia menuju era `hipermodern` dibawah kekuasaannya.
+Sebelum kita ke judul yang terlihat `angker` di atas yuk sejenak kita lempar imajinasi 100 tahun ke masa depan dimana ternyata dunia dikuasai seorang diktator yang melarang segala aktivitas berkebun. **Gila!** Bahkan seluruh bentuk tulisan dari buku sampai sekedar blog semacam [ahmadihamid.com](ahmadihamid.com) pun kena *cyduk* tim khusus penyensoran milik sang tiran. **Wow!** 
+Hal ini terjadi karena sang autokrat memandang berkebun adalah teknik `hiperpurba` yang sudah seharusnya digantikan demi membawa peradaban manusia menuju era `hipermodern` dibawah kekuasaannya.
 
 Hampir 97% makanan saat ini adalah hasil sintesis buatan pabrik milik pemerintah! **Ajig!**
 
@@ -25,7 +26,7 @@ Bakat menulis cerita buruk.
 
 `...`
 
-Yang ingin saya bahas kali ini yaitu membuat situs bawang atau onion.
+Yang ingin saya bahas kali ini yaitu membuat "situs bawang" alias `onion.`
 
 Saya terpaksa membuat ilustrasi imajiner amat miris di atas karena khawatir ada pembaca yang malah terinspirasi kalau saya tulis ilustrasi sebenarnya.
 
@@ -40,13 +41,13 @@ Oke kita bahas sedikit tentang `Tor` terlebih dahulu. Tor adalah sebuah jaringan
 ![](/img/tor-deepweb.jpg)
 [sumber gambar](https://dreammarketdrugs.com/the-deep-web-dark-web-and-the-darknet-marketplaces/) 
 
-Mungkin kamu sering mendengar cerita negatif soal Tor ini. Deepweb. Darknet. Pasar gelap lah, obat terlarang lah, pornografi anak lah. Area gelapnya internet pokoknya. Terlepas dari keburukan tersebut Tor banyak dimanfaatkan oleh para aktivis untuk melindungi dirinya. Wartawan misalnya memanfaatkan jaringan Tor agar narasumber yang mesti dijaga identitasnya mau berbagi cerita. Atau hanya sekedar manusia sederhana yang enggak pengen kegiatan ber-internet-nya diawasi pemerintah dan perusahaan `hiperkepo` di luar sana. Bayangkan enggak cuma Tuhan dan malaikatnya yang tau kamu nonton bokep! 
+Mungkin kamu sering mendengar cerita negatif soal Tor ini. Deepweb. Darknet. Pasar gelap lah, obat terlarang lah, pornografi anak lah. Area gelapnya internet pokoknya. Terlepas dari keburukan tersebut Tor banyak dimanfaatkan oleh para aktivis untuk melindungi keselamatannya. Wartawan misalnya memanfaatkan jaringan Tor agar narasumber yang mesti dijaga identitasnya mau berbagi cerita. Atau hanya sekedar manusia sederhana yang enggak pengen kegiatan ber-internet-nya diawasi pemerintah dan perusahaan `hiperkepo` di luar sana. Bayangkan enggak cuma Tuhan dan malaikatnya yang tau kamu nonton bokep! 
 
 Dan banyak lainnya yang bisa kamu baca di [halaman resmi](https://www.torproject.org/about/overview.html.en) milik Tor.
 
 Dah ah. Yuk kita bikin web onion pertama kita.
 
-Di sini saya melakukan set up di komputer server dengan sistem operasi Ubuntu tapi kalau kamu mau coba di komputer rumah ya sama saja.
+Di sini saya melakukan *setup* di komputer server dengan sistem operasi Ubuntu tapi kalau kamu mau coba di komputer rumah ya sama saja.
 
 **Instalasi Web Server (LAMP)**
 
@@ -64,11 +65,11 @@ Di atas adalah langkah singkat setup LAMP Stack pada Ubuntu 16.04 buat kamu yang
 sudo apt install tor
 ```
 
-Beruntung paket tor sudah tersedia di repo resmi Ubuntu jadi kita enggak perlu repot tambah repo lain biar semua diatur manajer paket Ubuntu.
+Beruntung paket tor sudah tersedia di repo resmi Ubuntu jadi kita enggak perlu repot tambah repo lain, biar semua diatur manajer paket Ubuntu.
 
 **Tor Hidden Services**
 
-Setelah tor terpasang tugas kita selanjutnya adalah mengkonfigurasi Hidden Services milik tor yang terdapat pada file `/etc/tor/torrc` *uncomment* atau tambahkan baris berikut :
+Setelah tor terpasang tugas kita selanjutnya adalah mengkonfigurasi `Hidden Services` milik tor yang terdapat pada file `/etc/tor/torrc` *uncomment* atau tambahkan baris berikut :
 
 ```
 HiddenServiceDir /var/lib/tor/hidden_service/
@@ -83,6 +84,8 @@ sudo service tor restart
 
 Inilah keistimewaan Ubuntu selesai instalasi sebuah paket sistem otomatis menjalankan layanannya di latar belakang. Terimakasih Ubuntu!
 
+🙄
+
 ```shell
 ls /var/lib/tor/hidden_service/
 hostname  private_key
@@ -90,7 +93,7 @@ hostname  private_key
 cat /var/lib/tor/hidden_service/hostname 
 hqpr5nq4qf7mrssy.onion
 ```
-Setelah tor berjalan, tor akan membuat sebuah folder `HiddenServiceDir` sesuai konfigurasi kita tadi kemudian membuat dua buah berkas yaitu private_key dan hostname untuk layanan onion kita. Simpan baik-baik yang pertama dan viralkan yang kedua.
+Setelah tor berjalan, tor akan membuat sebuah folder `HiddenServiceDir` sesuai konfigurasi kita tadi kemudian membuat dua buah berkas yaitu `private_key` dan `hostname` untuk layanan onion kita. Simpan baik-baik yang pertama dan viralkan yang kedua.
 
 😉
 
