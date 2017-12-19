@@ -57,7 +57,7 @@ sudo apt-get install tasksel
 sudo tasksel install lamp-server
 ```
 
-Di atas adalah langkah singkat setup LAMP Stack pada Ubuntu 16.04 buat kamu yang pengen mempelajari lebih jauh bisa baca [ini](https://help.ubuntu.com/lts/serverguide/index.html) atau [ini](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04).
+Di atas adalah langkah singkat setup LAMP Stack pada Ubuntu 16.04. Buat kamu yang pengen mempelajari lebih jauh, bisa baca [ini](https://help.ubuntu.com/lts/serverguide/index.html) atau [ini](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04).
 
 **Instalasi Tor**
 
@@ -82,7 +82,7 @@ Simpan perubahan yang dibuat dan restart layanan tor.
 sudo service tor restart
 ```
 
-Inilah keistimewaan Ubuntu selesai instalasi sebuah paket sistem otomatis menjalankan layanannya di latar belakang. Terimakasih Ubuntu!
+Inilah keistimewaan Ubuntu, selesai instalasi sebuah paket sistem otomatis menjalankan layanannya di latar belakang. Terimakasih Ubuntu!
 
 🙄
 
