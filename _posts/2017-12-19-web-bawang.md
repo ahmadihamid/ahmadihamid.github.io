@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Membuat Website dalam Jaringan DarkNet
+title: Membangun Website dalam Jaringan DarkNet
 tags: [Darknet, Web, Onion, Tor]
 category: linux
 comments: true
@@ -50,8 +50,64 @@ Di sini saya melakukan set up di komputer server dengan sistem operasi Ubuntu ta
 
 **Instalasi Web Server (LAMP)**
 
+```shell
+sudo apt-get update
+sudo apt-get install tasksel
+sudo tasksel install lamp-server
+```
+
+Di atas adalah langkah singkat setup LAMP Stack pada Ubuntu 16.04 buat kamu yang pengen mempelajari lebih jauh bisa baca [ini](https://help.ubuntu.com/lts/serverguide/index.html) atau [ini](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04).
+
+**Instalasi Tor**
+
+```shell
+sudo apt install tor
+```
+
+Beruntung paket tor sudah tersedia di repo resmi Ubuntu jadi kita enggak perlu repot tambah repo lain biar semua diatur manajer paket Ubuntu.
+
 **Tor Hidden Services**
+
+Setelah tor terpasang tugas kita selanjutnya adalah mengkonfigurasi Hidden Services milik tor yang terdapat pada file `/etc/tor/torrc` *uncomment* atau tambahkan baris berikut :
+
+```
+HiddenServiceDir /var/lib/tor/hidden_service/
+HiddenServicePort 80 127.0.0.1:8080
+```
+
+Simpan perubahan yang dibuat dan restart layanan tor. 
+
+```shell
+sudo service tor restart
+```
+
+Inilah keistimewaan Ubuntu selesai instalasi sebuah paket sistem otomatis menjalankan layanannya di latar belakang. Terimakasih Ubuntu!
+
+```shell
+ls /var/lib/tor/hidden_service/
+hostname  private_key
+
+cat /var/lib/tor/hidden_service/hostname 
+hqpr5nq4qf7mrssy.onion
+```
+Setelah tor berjalan, tor akan membuat sebuah folder `HiddenServiceDir` sesuai konfigurasi kita tadi kemudian membuat dua buah berkas yaitu private_key dan hostname untuk layanan onion kita. Simpan baik-baik yang pertama dan viralkan yang kedua.
+
+😉
+
+**Mengakses Website Onion**
+
+Di atas bisa kita lihat alamat web onion saya yaitu [hqpr5nq4qf7mrssy.onion](hqpr5nq4qf7mrssy.onion), alamat ini tidak dapat dibuka dari jaringan internet normal atau kita sebut saja "clear net" karena memang TLD `.onion` hanya terdapat pada jaringan tor. Oleh karena itu untuk mengakses web onion kita harus terhubung dahulu ke jaringan tor.
+
+Di sini kita akan mencoba terhubung ke jaringan tor melalui ponsel Android yaitu menggunakan [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android) yang bisa kamu pasang langsung dari PlayStore. Kemudian untuk browser kita gunakan [Orfox](https://play.google.com/store/apps/details?id=info.guardianproject.orfox) yang sebenarnya browser hasil modifikasi Firefox.
+
+![](/img/tor-orbot.jpg)
+
+Selesai deh! Selamat berselantjar dan berkarja di DarkNet.
+
+😎
 
 **Referensi**
 
 <https://t.me/halamanbelakang>
+
+<https://www.torproject.org/docs/documentation.html.en>
