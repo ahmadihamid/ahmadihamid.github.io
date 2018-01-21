@@ -37,6 +37,14 @@ Oke! Yuk kita intip percobaan pertama saya membuat gunungan agrikultur atau Hüg
 
 <script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="halamanbelakang/609" data-width="100%"></script>
 
+<script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="halamanbelakang/611" data-width="100%"></script>
+
+<script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="halamanbelakang/612" data-width="100%"></script>
+
+<script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="halamanbelakang/613" data-width="100%"></script>
+
+<script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="halamanbelakang/614" data-width="100%"></script>
+
 Tapi kok kecil ya..
 
 🤔
