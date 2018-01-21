@@ -24,13 +24,34 @@ Saya gak anti bahan kimia sih. Malah ini adalah cabang ilmu kecintaan saya. Tapi
 
 Oke! Yuk kita intip percobaan pertama saya membuat gunungan agrikultur atau Hügelkultur di [@halamanbelakang](https://t.me/halamanbelakang/).
 
+
 <script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="halamanbelakang/604" data-width="100%"></script>
 
+<script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="halamanbelakang/605" data-width="100%"></script>
 
+<script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="halamanbelakang/606" data-width="100%"></script>
+
+<script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="halamanbelakang/607" data-width="100%"></script>
+
+<script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="halamanbelakang/608" data-width="100%"></script>
+
+<script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="halamanbelakang/609" data-width="100%"></script>
+
+Tapi kok kecil ya..
+
+🤔
+
+Gak ada bukitnya..
+
+😳
+
+Selamat mencoba..
+
+😘
 
 **Assalamualaikum!**
 
 **Referensi**
 
-<http://blog.hannainst.com/soil>
+<https://t.me/halamanbelakang/>
 
