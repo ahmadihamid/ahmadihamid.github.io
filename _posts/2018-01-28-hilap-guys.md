@@ -23,7 +23,7 @@ Karena itu pohon Jaboticaba jarang ditemui yang berukuran raksasa walau di habit
 
 **Rasa**
 
-Saat tawar-menawar dengan penjual, beliau memetik satu-satunya buah yang ada dan memberikannya ke saya buat mencicipi rasa si anggur pohon. Tapi bukannya memakan malah saya masukkan ke kantong. 
+Saat tawar-menawar dengan penjual, beliau memetik satu-satunya buah yang ada dan memberikannya ke saya buat mencicipi rasa si anggur pohon. Tapi bukan memakannya malah saya masukkan ke kantong. 
 
 😂
 
@@ -37,11 +37,11 @@ Oke. Balik ke rasa, konon katanya rasa buahnya berubah-ubah seiring bertambah us
 
 **Penanaman**
 
-Karena imut tadi sebenernya Jaboticaba cocok dijadikan tabulampot. Tapi seperti yang pernah saya ceritakan di [sini](https://t.me/halamanbelakang/516). Saya suka tanam langsung ke tanah.
+Karena imut tadi sebenarnya Jaboticaba cocok dijadikan `tabulampot.` Tapi seperti yang pernah saya ceritakan di [sini](https://t.me/halamanbelakang/516). Saya suka tanam langsung ke tanah.
 
 Jaboticaba gak terlalu bawel soal tempat tumbuh, kering atau basah, panas atau dingin, asam atau basa. Bisa. Tapi kalau mau hasil melimpah titik tengah dari tiga faktor tadi sudah cukup. Eh. Soal tanah, doi suka agak asam sih. `5,5-6,5.`
 
-Saya sendiri sepertinya agak terlalu memanjakan si Jabuticaba. Semoga tanaman yang lain enggak cemburu. Berikut adalah bahan tambahan tanah yang saya gunakan.
+Saya sendiri sepertinya agak terlalu memanjakan si Jabuticaba. Semoga tanaman yang lain enggak cemburu. Berikut adalah penanaman ulang yang saya lakukan.
 
 <script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="kebun/72" data-width="100%"></script>
 
