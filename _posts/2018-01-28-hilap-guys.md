@@ -41,7 +41,9 @@ Karena imut tadi sebenarnya Jaboticaba cocok dijadikan `tabulampot.` Tapi sepert
 
 Jaboticaba gak terlalu bawel soal tempat tumbuh, kering atau basah, panas atau dingin, asam atau basa. Bisa. Tapi kalau mau hasil melimpah titik tengah dari tiga faktor tadi sudah cukup. Eh. Soal tanah, doi suka agak asam sih. `5,5-6,5.`
 
-Saya sendiri sepertinya agak terlalu memanjakan si Jabuticaba. Semoga tanaman yang lain enggak cemburu. Berikut adalah penanaman ulang yang saya lakukan.
+Saya sendiri sepertinya agak terlalu memanjakan si Jabuticaba. Semoga tanaman yang lain enggak cemburu. Berikut adalah penanaman ulang yang saya lakukan. 
+
+*(catatan : berikut adalah embeded post dari telegram, caption gambar dalam album sepertinya gagal timbul, kecuali kamu hebat membaca gambar silakan buka langsung di telegram)*
 
 <script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="kebun/72" data-width="100%"></script>
 
