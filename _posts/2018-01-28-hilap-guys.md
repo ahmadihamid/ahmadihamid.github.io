@@ -45,6 +45,7 @@ Saya sendiri sepertinya agak terlalu memanjakan si Jabuticaba. Semoga tanaman ya
 
 *(catatan : berikut adalah embeded post dari telegram, caption gambar dalam album sepertinya gagal timbul, kecuali kamu hebat membaca gambar silakan buka langsung di telegram)*
 
+
 <script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="kebun/68" data-width="100%"></script>
 
 <script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="kebun/69" data-width="100%"></script>
