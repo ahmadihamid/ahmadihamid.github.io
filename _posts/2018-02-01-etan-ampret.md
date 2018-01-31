@@ -23,7 +23,7 @@ Kecil, mungil, ramping, *simple*. Dilengkapi dengan empat sensor sekaligus. Temp
 
 Singkat cerita sekian lama menahan nafsu yang akhirnya membuncah di gajian bulan Januari kemarin. `Hilap.` 
 
-Dari hasil survei beberapa *market place* tersebutlah `jekmol` (nama samaran) yang berani ngasih harga paling murah. Ditambah lagi walau enggak gratis ongkir kayak `sopi` dan `bukalapuk` (juga nama samaran), si jekmol ini  lengkap aja dengan barang yang saya butuhkan.
+Dari hasil survei beberapa *market place* tersebutlah `jekmol` (nama samaran) yang berani ngasih harga paling murah. Ditambah lagi walau enggak gratis ongkir kayak `sopi` dan `bukalapuk` (juga nama samaran), si jekmol ini  lengkap aja dengan barang yang saya butuhkan. Jadi bisa sekalian.
 
 <script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="vQ_Qv/16" data-width="100%"></script>
 
