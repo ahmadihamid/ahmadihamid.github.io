@@ -13,9 +13,11 @@ Kalau kamu cari di mesin pencari atau malah langsung ke YouTube sebenernya buany
 
 😎
 
-*Wah parah sombong.*
+*Wah parah! Sombong!*
 
 😡
+
+`...`
 
 **Unboxing**
 
@@ -31,19 +33,19 @@ Seperti biasa demi memangkas ongkos produksi yang ujung-ujungnya merampingkan ha
 
 Xiaomi Plant Monitor mengirimkan data lewat Bluetooth Low Energy `4.1`. Data ini dapat dibaca menggunakan aplikasi Android [Flower Care](https://play.google.com/store/apps/details?id=com.huahuacaocao.flowercare).
 
-Seperti yang sudah saya ceritakan sebelumnya. Saya mendapatkan perangkat yang ternyata khusus regional Cina. Jadi saya enggak bisa langsung menghubungkan perangkat.
+Seperti yang sudah saya ceritakan sebelumnya. Saya mendapatkan perangkat yang ternyata khusus regional Cina. Jadi saya enggak bisa langsung menghubungkan perangkat begitu saja.
 
 <script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="nocan/11" data-width="100%"></script>
 
-Saya terpaksa teleport ke Cina menggunakan [fakegps](https://play.google.com/store/apps/details?id=com.blogspot.newapphorizons.fakegps).
+Saya terpaksa teleport dahulu ke Cina menggunakan [fakegps](https://play.google.com/store/apps/details?id=com.blogspot.newapphorizons.fakegps).
 
 🙄
 
-Gilanya lagi. Tadinya saya kira cukup dengan memalsukan lokasi, aplikasi sudah dapat digunakan. Ternyata alamat IP juga mesti regional Cina **Daratan**.
+Gilanya lagi. Tadinya saya kira cukup dengan memalsukan lokasi maka aplikasi sudah dapat digunakan. Ternyata alamat IP juga mesti regional Cina **Daratan**.
 
 😩
 
-Sengaja saya cetak tebal kata daratan karena sebelumnya saya lalai dengan kalimat "China Mainland" dan langsung pakai VPN Hong-Kong, yang lebih mudah diperoleh layanan gratisnya. Yang ternyata masih belum diizinkan aplikasi.
+Sengaja saya cetak tebal kata daratan karena sebelumnya saya lalai dengan kalimat "China Mainland" dan langsung pakai VPN Hong-Kong, yang lebih mudah diperoleh layanan gratisnya. Yang ternyata masih belum dapat restu aplikasi.
 
 Singkat cerita setelah susah payah (mungkin karena kebijakan pemerintah setempat, VPN Cina langka gilak) berkelana mencari VPN Cina Daratan ketemu [ovpnspider.](https://play.google.com/store/apps/details?id=com.ovpnspider) 
 
