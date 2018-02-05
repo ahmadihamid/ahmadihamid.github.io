@@ -91,11 +91,11 @@ Buat pengukuran suhu, saya coba mengukur suhu ruangan.
 
 **Ntapz!**
 
-Sayangnya saya bingung buat mengukur intensitas cahaya dan moisture.
+Sayangnya saya bingung buat mengukur intensitas cahaya dan *moisture*.
 
 😳
 
-Tapi berikut adalah pembacaan moisture ketika kering dan terbenam di dalam air.
+Tapi berikut adalah pembacaan *moisture* ketika kering dan terbenam di dalam air.
 
 <script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="nocan/27" data-width="100%"></script>
 
