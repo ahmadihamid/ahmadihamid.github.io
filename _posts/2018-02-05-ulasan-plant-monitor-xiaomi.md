@@ -67,11 +67,11 @@ Setelah perangkat berhasil dipasangkan saya mendapat notifikasi untuk melakukan 
 
 Kenyang dengan kabar buruk sekarang kita omongin kabar baik yuk!
 
-Di sini saya mencoba uji keakuratan pengukuran dari Xiaomi Plant Monitor. Walaupun cuma pada parameter kesuburan yang agak intensif.
+Di sini saya menguji keakuratan pengukuran Xiaomi Plant Monitor. Walaupun cuma pada parameter kesuburan yang agak intensif.
 
 **Kesuburan/Konduktivitas**
 
-Seperti yang saya ceritakan di [sini](https://ahmadihamid.com/halamanbelakang/meraba-2018/) Xiaomi Plant Monitor juga memanfaatkan pengukuran konduktivitas (`µS/cm`) buat menentukan tingkat kesuburan tanah. Yang ternyata lumayan akurat. Berikut adalah hasil uji perbandingan dengan Konduktometer yang telah distandarisasi oleh badan standardisasi ternama.
+Seperti [bahasan kita dulu](https://ahmadihamid.com/halamanbelakang/meraba-2018/) soal cek kesuburan tanah, Xiaomi Plant Monitor juga memanfaatkan pengukuran konduktivitas (`µS/cm`) buat menentukan tingkat kesuburan tanah. Yang ternyata lumayan akurat. Berikut adalah hasil uji perbandingan dengan Konduktometer yang telah distandarisasi oleh badan standardisasi ternama.
 
 🙈
 
