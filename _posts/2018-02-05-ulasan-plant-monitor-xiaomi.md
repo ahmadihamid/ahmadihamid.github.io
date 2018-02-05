@@ -57,7 +57,7 @@ Lokasi sudah, alamat IP juga. Sekarang kita dapat menggunakan aplikasi Flower Ca
 
 <script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="nocan/17" data-width="100%"></script>
 
-Setelah perangkat berhasil dipasangkan saya mendapat notifikasi untuk melakukan pembaruan `firmware.` Ada gosip tidak sedap soal ini. Ada yang bilang perangkat jadi tidak bisa dihubungkan kembali. Kekhawatiran saya bertambah karena saya menggunakan versi Cina bukan versi internasional. Yang punya gosip tersendiri lagi yaitu konon perangkat akan di-brick oleh Xiaomi.
+Setelah perangkat berhasil dipasangkan saya mendapat notifikasi untuk melakukan pembaruan `firmware.` Ada gosip tidak sedap soal ini. Ada yang bilang perangkat jadi tidak bisa dihubungkan menggunakan `openHAB.` Rencananya saya mau pantau kondisi tanaman [lewat Raspi](https://community.openhab.org/t/xiaomi-miflora-sensor-integration/17453). Kekhawatiran saya bertambah karena saya menggunakan versi Cina bukan versi internasional. Yang punya gosip tersendiri lagi yaitu konon perangkat akan di-brick oleh Xiaomi kalau kedapatan digunakan di luar Cina.
 
 😰
 
