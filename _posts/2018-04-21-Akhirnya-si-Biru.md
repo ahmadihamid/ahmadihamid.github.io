@@ -102,6 +102,8 @@ Buat menurunkan pH media/tanah kita bisa menggunakan beberapa bahan berikut :
 
 Saya sendiri karena butuh solusi instan dan murah memakai bahan poin ke-4 dan 5. Cocopeat dan Tawas.
 
+<script async src="https://telegram.org/js/telegram-widget.js?4" data-telegram-post="nocan/38" data-width="100%"></script>
+
 Penggunaan tawas yaitu dengan melarutkannya dalam air kemudian disiram ke media. Sebagai acuan awal penggunaan tawas, larutan tawas 10% akan memiliki pH ~3. Jadi kira-kira aja banyaknya menyiram berdasar pH awal media yang mau diturunkan. Setelah disiram larutan tawas cek lagi pH akhir.
 
 <script async src="https://telegram.org/js/telegram-widget.js?4" data-telegram-post="nocan/31" data-width="100%"></script>
