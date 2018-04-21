@@ -9,7 +9,7 @@ author: ahmadi
 
 Berawal dari [Mulberry](https://ahmadihamid.com/halamanbelakang/Buah-Cinta-Terlarang/) saya mulai terobsesi sama jenis buah berkulit lunak. Kemudian menyusul [Blackberry](https://ahmadihamid.com/halamanbelakang/Duka-Luka-Blackberry/) dan [Raspberry](https://ahmadihamid.com/halamanbelakang/Raspberry-Gak-Pake-Py/). Sekarang sekitar setahun kemudian akhirnya bisa menambah koleksi lagi. Yaitu si biru alias `Blueberry!`
 
-Satu tahun. Mungkin perburuan terpanjang saya. Karena harganya yang masih kelewat tinggi. Yaitu di kisaran 1 juta ke atas. Bandingkan dengan harganya di negeri om Sam yang ada di rentang 6-20 USD.
+Satu tahun. Mungkin perburuan terpanjang saya. Karena harganya yang masih kelewat tinggi waktu itu. Yaitu di kisaran 1 juta ke atas. Bandingkan dengan harganya di negeri om Sam yang ada di rentang 6-20 USD.
 
 😭
 
@@ -31,7 +31,7 @@ Ketemu lah 3 kandidat kuat (murah maksudnya) yang entah kenapa alamatnya berdeka
 
 `...`
 
-Berawal dari hujan lebat nan awet saya dan istri serta HilMa terpaksa berteduh di lobi perkebunan [Kuntum](https://ahmadihamid.com/halamanbelakang/Wisata-Bermanfaat/). Ya rencananya memang mau wisata dulu ke sana sebelum berburu Blueberry. Karena terlanjur banyak waktu habis buat menunggu hujan reda, kami pun memutuskan hanya berburu ke satu *nursery*. Yang terdekat. Menurut peta gugel. Berjarak 10 menit saja, masih menurut si peta.
+Berawal dari hujan lebat nan awet saya dan istri serta HilMa terpaksa berteduh di lobi perkebunan [Kuntum](https://ahmadihamid.com/halamanbelakang/Wisata-Bermanfaat/). Ya rencananya memang mau wisata dulu ke sana sebelum berburu Blueberry. Karena terlanjur banyak waktu habis buat menunggu hujan reda, kami pun memutuskan hanya berburu ke satu *nursery*. Yang terdekat. Menurut peta gugel. Berjarak 10 menit saja. Masih menurut si peta.
 
 <script async src="https://telegram.org/js/telegram-widget.js?4" data-telegram-post="nocan/37" data-width="100%"></script>
 
@@ -50,13 +50,13 @@ Satu hal yang saya sadari. Ternyata Bogor luas. Belasan tahun saya besar di sana
 Singkat cerita saya ketemu dengan sang pelapak. Yang sialnya bilang "Blueberry-nya ada di tempat kakak saya", yang menurut beliau gak jauh. 
 Saya terpaksa memacu lagi motor mertua saya. Menuju "tempat yang enggak jauh".
 
-Sepanjang jalan saya dan istri berbagai kecurigaan yang sama. Yang langsung terbukti benar saat sampai ke tempat "kakak" doi yang ternyata beda ras dengan doi. Di pagar sang kakak terpampang plang "*n*** nursery". Yang termasuk ke dalam 3 pelapak yang telah saya hubungi di awal. Yang harganya lebih murah tapi lokasinya jauh sehingga saya eliminasi. Etan.
+Sepanjang jalan saya dan istri berbagi kecurigaan yang sama. Yang langsung terbukti benar saat sampai ke tempat "kakak" doi yang ternyata beda ras dengan doi. Di pagar sang kakak terpampang plang "`*n*** nursery`". Yang termasuk ke dalam 3 pelapak yang telah saya hubungi di awal. Yang harganya lebih murah tapi lokasinya jauh sehingga saya eliminasi. Etan.
 
-Saya dan istri cuma bisa saling nyengir dan berpandangan aja sama kelakuan saudara sesama ciptaan Allah ini. Kepalang tanggung. Sudah basah mandi sekali. Saya pun susah payah menawar sampai ke harga mendekati harga asli *n*** nursery. Dengan dalih boleh harga "si adik" tapi gratis ongkir.
+Saya dan istri cuma bisa saling nyengir dan berpandangan aja sama kelakuan saudara sesama ciptaan Allah ini. Kepalang tanggung. Sudah basah mandi sekali. Saya pun susah payah menawar sampai ke harga mendekati harga asli `*n*** nursery`. Dengan dalih boleh harga "si adik" tapi gratis ongkir.
 
 Karena saya masih lama di Bogor, saya pun menunda transaksi sampai saya balik ke Palembang. Tapi udah *deal* harga dan milih tanaman.
 
-Walau agak sebal, untungnya saya bisa menahan emosi ke "si adik" karena di jalan pulang dari *n*** nursery hujan turun lagi. Komplit. 
+Walau agak sebal, untungnya saya bisa menahan emosi ke "si adik" karena di jalan pulang dari `*n*** nursery` hujan turun lagi. Komplit. 
 
 Enggak sempat sebal saya pun langsung pesen taksi daring buat anak dan istri. Akhirnya saya di tempat asing, sendirian, naek motor, cuma ditemani si peta yang racau-an-nya kurang jelas akibat hujan. 
 Sekali lagi si peta gak membantu sama sekali.
@@ -73,7 +73,7 @@ Singkat cerita lagi. Ujung-ujungnya *gambling* juga beli dari *nursery* lain tan
 
 Bersyukur *nursery* kali ini bagus, tanaman yang dikirimkan sangat baik.
 
-☺️
+😚
 
 Hayuk ah langsung ke cara menanam Blueberry!
 
@@ -100,7 +100,7 @@ Buat menurunkan pH media/tanah kita bisa menggunakan beberapa bahan berikut :
 
 Saya sendiri karena butuh solusi instan dan murah memakai bahan poin ke-4 dan 5. Cocopeat dan Tawas.
 
-Penggunaan tawas yaitu dengan melarutkan dalam air kemudian disiram ke media. Sebagai acuan awal penggunaan tawas, larutan tawas 10% akan memiliki pH ~3. Jadi kira-kira aja banyaknya menyiram berdasar pH awal media yang mau diturunkan. Setelah disiram larutan tawas cek lagi pH akhir.
+Penggunaan tawas yaitu dengan melarutkannya dalam air kemudian disiram ke media. Sebagai acuan awal penggunaan tawas, larutan tawas 10% akan memiliki pH ~3. Jadi kira-kira aja banyaknya menyiram berdasar pH awal media yang mau diturunkan. Setelah disiram larutan tawas cek lagi pH akhir.
 
 <script async src="https://telegram.org/js/telegram-widget.js?4" data-telegram-post="nocan/31" data-width="100%"></script>
 
