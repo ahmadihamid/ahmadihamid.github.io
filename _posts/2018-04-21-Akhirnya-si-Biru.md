@@ -19,17 +19,17 @@ Ditambah lagi Blueberry masih terbilang langka di tanah air. Satu tahun saya kel
 
 😰
 
-Tapi nafsu sudah di ubun-ubun. Akhirnya 17 April kemarin Blueberry masuk [@halamanbelakang](https://t.me/halamanbelakang) .
+Tapi nafsu sudah di ubun-ubun. Akhirnya 17 April kemarin Blueberry masuk [@halamanbelakang](https://t.me/halamanbelakang).
 
 😤
 
-Sebelum masuk ke "cara menanam Blueberry" saya mau berbagi cerita drama di mendekati akhir perburuan si Beri Biru ini.
+Sebelum kita ke "cara menanam Blueberry" saya mau berbagi cerita berbau drama di mendekati akhir perburuan si Beri Biru ini.
 
 **Perburuan**
 
-Jadi ceritanya, buat mengurangi resiko dan kegalauan di dada tadinya saya mau survei langsung tanaman pas mudik tahun ini. Tepatnya awal April. Saya (istri saya sih sebenarnya) pun mencari pelapak di Bukalapuk (nama samaran) yang menjual Blueberry di daerah Bogor.
+Jadi ceritanya, buat mengurangi resiko dan kegalauan di dada, tadinya saya mau survei langsung tanaman pas mudik tahun ini. Tepatnya awal April. Saya (istri saya sih sebenarnya) pun mencari pelapak di Bukalapuk (nama samaran) yang menjual Blueberry di daerah Bogor.
 
-Ketemu lah 3 kandidat kuat (murah maksudnya) yang entah kenapa alamatnya berdekatan. Saya sama sekali tidak menyangka kalau ini adalah pertanda takdir amat dramatis telah menanti saya.
+Ketemu lah 3 kandidat kuat (murah maksudnya) yang entah kenapa lokasinya di kelurahan yang sama. Saya sama sekali tidak menyangka kalau ini adalah pertanda takdir amat dramatis telah menanti saya.
 
 `...`
 
@@ -115,6 +115,8 @@ Penggunaan tawas yaitu dengan melarutkannya dalam air kemudian disiram ke media.
 Sekian. Terimkasih buat kamu yang udah baca dari atas sampai bawah sini.
 
 🙃
+
+Assalamualaykum!
 
 
 **Referensi** :
