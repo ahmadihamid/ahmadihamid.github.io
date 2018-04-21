@@ -9,6 +9,8 @@ author: ahmadi
 
 Berawal dari [Mulberry](https://ahmadihamid.com/halamanbelakang/Buah-Cinta-Terlarang/) saya mulai terobsesi sama jenis buah berkulit lunak. Kemudian menyusul [Blackberry](https://ahmadihamid.com/halamanbelakang/Duka-Luka-Blackberry/) dan [Raspberry](https://ahmadihamid.com/halamanbelakang/Raspberry-Gak-Pake-Py/). Sekarang sekitar setahun kemudian akhirnya bisa menambah koleksi lagi. Yaitu si biru alias `Blueberry!`
 
+<script async src="https://telegram.org/js/telegram-widget.js?4" data-telegram-post="nocan/29" data-width="100%"></script>
+
 Satu tahun. Mungkin perburuan terpanjang saya. Karena harganya yang masih kelewat tinggi waktu itu. Yaitu di kisaran 1 juta ke atas. Bandingkan dengan harganya di negeri om Sam yang ada di rentang 6-20 USD.
 
 😭
@@ -107,8 +109,6 @@ Penggunaan tawas yaitu dengan melarutkannya dalam air kemudian disiram ke media.
 <script async src="https://telegram.org/js/telegram-widget.js?4" data-telegram-post="nocan/33" data-width="100%"></script>
 
 <script async src="https://telegram.org/js/telegram-widget.js?4" data-telegram-post="nocan/36" data-width="100%"></script>
-
-<img border="0" src="/img/rp-logo.png" style="float:left; margin-right:10px"/>
 
 Sekian. Terimkasih buat kamu yang udah baca dari atas sampai bawah sini.
 
