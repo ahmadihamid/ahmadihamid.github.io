@@ -12,7 +12,7 @@ summary: "1 Ramadhan (17 Mei) tahun ini yaitu 1439 Hijriah jadi tanggal bersejar
 
 🙄
 
-Emang sih tahun ini ada penurunan yang nyata. Tapi semoga tetap jaya lah jadi tahun depan bonusnya naek lagi. 
+Emang sih tahun ini ada penurunan yang nyata. Tapi beli motor tinja mah masih ada kembalian. Pokoknya semoga PT. ANU (nama samaran) tetap jaya lah jadi tahun depan bonusnya naek lagi. Aamiin..
 
 
 `...`
