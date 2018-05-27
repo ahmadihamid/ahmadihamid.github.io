@@ -24,7 +24,7 @@ Saat kebanyakan orang merambah negeri mencari kuliner unik, saya blusukan di pas
 Saat pemuda-pemudi sebaya lain galau gonta-ganti pasangan, saya dan istri berganti giliran gendong anak. 
 Saat seluruh dunia cuma iOS atau Android, saya setia sama Symbian.
 
-Salah sendiri [umur 20 tahun dah nikah](https://ahmadihamid.com/gaje/Nikah-Pas/).
+Salah sendiri [umur 21 tahun dah nikah](https://ahmadihamid.com/gaje/Nikah-Pas/).
 
 🙄
 
@@ -41,7 +41,7 @@ Bisa buat paan bangunan ama tanah segitu?
 
 Jadi paling mungkin sih beli tanah buat kebun atau invest kecil-kecilan di sektor UKM karena saya enggak percaya pasar saham.
 
-Ahh.. Rieut.. Nikmati kelulusan dari status *gharim* dulu deh..
+Ahh.. Rieut.. Nikmati kelulusan dari status *gharim* dulu aja deh..
 
 Assalamualaikum. Sampai ketemu lagi..
 😘
