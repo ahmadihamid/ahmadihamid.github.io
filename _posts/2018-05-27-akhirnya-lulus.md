@@ -8,7 +8,7 @@ author: ahmadi
 summary: "1 Ramadhan (17 Mei) tahun ini yaitu 1439 Hijriah jadi tanggal bersejarah dalam perjalanan hidup saya. Karena setelah 7 tahun..."
 --- 
 
-1 Ramadhan (17 Mei) tahun ini yaitu 1439 Hijriah jadi tanggal bersejarah dalam perjalanan hidup saya. Karena setelah 7 tahun, di usia ke-27 hutang saya berupa rumah akhirnya lunas. Genap 190jt rupiah tercicil. Alhamdulillah. Padahal tadinya saya kira saya masih akan menyandang status *gharim* sampai tahun depan. Karena saya berjanji bonus dari tempat kerja tahun ini semuanya buat istri tercinta saya. Tapi pas dapet eh doi malah balikin duitnya. Dikit katanya. Tahun depan aja katanya. Siapa tau lebih banyak katanya.
+1 Ramadhan (17 Mei) tahun ini yaitu 1439 Hijriah jadi tanggal bersejarah dalam perjalanan hidup saya. Karena setelah 7 tahun, di usia ke-27 hutang saya berupa rumah akhirnya lunas. Genap `190jt` rupiah tercicil. Alhamdulillah. Padahal tadinya saya kira saya masih akan menyandang status *gharim* sampai tahun depan. Karena saya berjanji bonus dari tempat kerja tahun ini semuanya buat istri tercinta. Tapi pas dapet eh doi malah balikin duitnya. Dikit katanya. Tahun depan aja katanya. Siapa tau lebih banyak katanya.
 
 🙄
 
@@ -36,7 +36,7 @@ Oke. Yang jadi pertanyaan besar selanjutnya adalah mau apa setelah ini.
 
 Beli rumah lagi? 
 
-Hmm.. Enggak deh, kita tunggu gelembung properti meletus dengan indahnya aja dulu. Harga rumah lagi sinting-sintingnya sekarang. Dulu saya beli 49/180 cuma 183jt. Lah sekarang 36/72 udah tembus 300jt. 
+Hmm.. Enggak deh, kita tunggu gelembung properti meletus dengan indahnya aja dulu. Harga rumah lagi sinting-sintingnya sekarang. Dulu saya beli `49/180` cuma 183jt. Lah sekarang `36/72` udah tembus 300jt. 
 Bisa buat paan bangunan ama tanah segitu? 
 
 Jadi paling mungkin sih beli tanah buat kebun atau invest kecil-kecilan di sektor UKM karena saya enggak percaya pasar saham.
