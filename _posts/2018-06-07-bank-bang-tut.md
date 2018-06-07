@@ -22,7 +22,7 @@ Barang yang sudah masyhur buat menjaga daya beli uang adalah emas. Ingat! Menjag
 
 Tapi saya masih kurang srek ama barang ini. Masih banyak sisi dari emas yang terzalimi di negeri ini. Pajak misalnya. Disamping kurang likuid juga. Ya sebenarnya emas ini memang bagusnya bukan jadi barang melainkan jadi alat tukar langsung.
 
-Singkat cerita barang yang saya manfaatkan buat menjaga nilai uang kali ini adalah tanaman. Hampir `1/2` uang THR berubah menjadi Jaboticaba!
+Singkat cerita barang yang saya manfaatkan buat menjaga nilai uang kali ini adalah tanaman. Hampir `1/2` uang THR tahun ini saya ubah menjadi Jaboticaba!
 
 <script async src="https://telegram.org/js/telegram-widget.js?4" data-telegram-post="nocan/39" data-width="100%"></script> 
 
