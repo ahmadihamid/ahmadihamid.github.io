@@ -14,7 +14,7 @@ Belum lagi kebobrokan sistem bank yang lain. Yang rasanya saya belum kapabel men
 
 Sebenarnya sih sedari saya merantau sebatang kara `2009` lampau, belum pernah (dalam waktu panjang) ada lebih dari `500rb` besaran simpanan di rekening saya. **Sampai detik ini.** Jadi secara alami saya terlatih buat jauh dari dia. Bank maksudnya.
 
-Baru setelah hutang rumah saya lunas [bulan kemarin] (https://ahmadihamid.com/gaje/akhirnya-lulus/) mulai terlihat pundi-pundi kecil di deposito. Yang bikin mata gatal melihatnya. Buat dibelanjakan ke sesuatu yang jauh lebih baik tentunya.
+Baru setelah hutang rumah saya lunas [bulan kemarin](https://ahmadihamid.com/gaje/akhirnya-lulus/) mulai terlihat pundi-pundi kecil di deposito. Yang bikin mata gatal melihatnya. Buat dibelanjakan ke sesuatu yang jauh lebih baik tentunya.
 
 Barang yang sudah masyhur buat menjaga daya beli uang adalah emas. Ingat! Menjaga daya beli. Bukan judi berkedok investasi. Beli sewaktu murah. Jual saat mahal. 
 
