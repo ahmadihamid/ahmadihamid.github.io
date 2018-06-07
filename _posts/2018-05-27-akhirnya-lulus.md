@@ -28,7 +28,7 @@ Salah sendiri [umur 21 tahun dah nikah](https://ahmadihamid.com/gaje/Nikah-Pas/)
 
 🙄
 
-Bukan maksud berbangga diri. Lah wong miris gitu kok. Tapi mungkin hal ini saya lakukan karena - di alam bawah sadar - saya menyadari, saya secara alami bukan akademisi, bukan entrepreneur. Dan diperparah lagi - saya sadar secara penuh - saya pemalas. Jadi harus ada penyesuaian buat mengimbangi 3 hal tersebut. Jadi lumayan enjoy aja sih. Gak jadi beban. Bisa dibilang cukup bahagia. Lagi pula kalau bahagia buat kamu itu jalan-jalan, makan-makan, ponsel terbaru, baju terkeren, moge, mobil dkk. Mungkin yang kamu butuhkan bukan kebahagian tapi psikolog.
+Bukan maksud berbangga diri. Lah wong miris gitu kok. Tapi mungkin hal ini saya lakukan karena - di alam bawah sadar - saya menyadari, saya secara alami bukan kaum intelektual pun entrepreneur. Dan diperparah lagi - saya sadar secara penuh - saya pemalas. Jadi harus ada penyesuaian buat mengimbangi 3 hal tersebut. Jadi lumayan enjoy aja sih. Gak jadi beban. Bisa dibilang cukup bahagia. Lagi pula kalau bahagia buat kamu itu jalan-jalan, makan-makan, ponsel terbaru, baju terkeren, moge, mobil dkk. Mungkin yang kamu butuhkan bukan kebahagian tapi psikolog.
 
 `...`
 
