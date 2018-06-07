@@ -52,7 +52,7 @@ Bosen juga gilak makan pisang satu peti.
 
 Toh kalau terjadi hal tak terduga, konon tokai masih punya banyak nutrisi.
 
-OK. Sampai ketemu lagi. Jangan terlalu mesra dengan bank. Apalagi pegawainya. Kecuali dinikahi. Jangan lupa suruh *resign*. Jangan lupa target Ramadhannya. Dah mau abis ini. Semangat. Kejar terus. Pepet abis. Selalu jauhi hutang. Apalagi riba. Dan sukses selalu.
+OK. Sampai ketemu lagi. Jangan terlalu mesra dengan bank. Apalagi pegawainya. Kecuali dinikahi dulu. Jangan lupa suruh *resign*. Jangan lupa target Ramadhannya. Dah mau abis ini. Semangat. Kejar terus. Pepet abis. Selalu jauhi hutang. Apalagi riba. Dan sukses selalu.
 
 👊
 
