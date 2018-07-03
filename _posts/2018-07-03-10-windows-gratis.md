@@ -16,9 +16,9 @@ Dulu saat Microsoft menawarkan *upgrade* gratis ke Windows versi terbaru yaitu W
 Setelah sekilas berselancar di dunia maya, ternyata memang benar bahwa kita kembali bisa mendapatkan pembaruan ke Windows 10 tanpa uang sepeser pun. Yang entah sejak kapan dimulai. Dan entah kapan bakal usai. Bodo ah yang penting gratis, resmi, gak nyolong.
 
 Proses *upgrade* sendiri sangat mudah. Tipikal Windows. Pengguna cukup mengunduh dan menjalankan program [Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10). 
-Selanjutnya cukup mengikuti saja arahan dari program tersebut dan menyediakan koneksi internet.
+Selanjutnya cukup mengikuti saja arahan dari program tersebut sembari terhubung ke internet.
 
-Bagai gayung bersambut kebetulan saya juga harus segera menghabiskan kuota internet di periode ini. Saya memang enggak berlangganan Internet kabel tanpa batas kuota tapi terbatas waktu. Saya cuma menggunakan layanan dari provider kartu sim. Yang itu pun saya kepayahan menghabiskannya. `120rb buat 3-4 bulan.` 
+Bagai gayung bersambut kebetulan saya juga harus segera menghabiskan kuota internet di periode ini. Saya memang enggak berlangganan Internet kabel "tanpa batas kuota tapi amat terbatas waktu" yang amat mahal. Saya cuma menggunakan layanan dari provider kartu sim. Yang itu pun saya kepayahan menghabiskannya. `120rb buat 3-4 bulan.` 
 Kadang saya enggak habis pikir kebanyakan manusia di luar sana kok bisa setiap bulannya rela ngasih **lebih dari 1/2 gram emas** ke provider Internet kabel. Istri bukan, ~~simpanan bukan~~, tiap bulan dikasih emas.
 
 🙄
@@ -39,7 +39,7 @@ Bagian ini cuma buat pengguna Dual OS atau Multiboot. Dalam proses instalasi, Wi
 
 😌
 
-Kita dapat memasang ulang grub setelah kita masuk ke sistem operasi Linux dari grub rescue.
+Kita dapat memasang ulang grub setelah kita masuk ke sistem operasi Linux dari `grub rescue`.
 
 ```shell
 grub rescue > ls
@@ -51,13 +51,13 @@ grub rescue > normal
 
 Sesuaikan dengan partisi kamu.
 
-Jika tak ada kesalahan `booting` akan berjalan dan menu grub awal kita akan muncul kembali. Di sini saya enggak langsung masuk ke sistem operasi Linux dan reinstall grub. Tapi saya memilih `boot entry` windows buat melanjutkan proses instalasi. Khawatir grub akan terhapus lagi. Kalau mau coba kamu boleh langsung reinstall aja.
+Jika tak ada kesalahan, `booting` akan berjalan dan menu grub awal kita akan muncul kembali. Di sini saya enggak langsung masuk ke sistem operasi Linux dan *reinstall* grub. Tapi saya memilih `boot entry` windows buat melanjutkan proses instalasi. Khawatir grub akan terhapus lagi. Kalau mau coba kamu boleh langsung *reinstall* aja.
 
 😘👍
 
 <script async src="https://telegram.org/js/telegram-widget.js?4" data-telegram-post="nocan/58" data-width="100%"></script> 
 
-Baru setelah Windows 10 terpasang sempurna kita masuk ke Linux dari grub rescue menggunakan rangkaian perintah tadi buat reinstall grub.
+Baru setelah Windows 10 terpasang sempurna kita masuk ke Linux dari grub rescue menggunakan rangkaian perintah tadi. Pasang ulang grub :
 
 ```shell
 ~ ❯ sudo grub-install —target=i386-pc /dev/sda
