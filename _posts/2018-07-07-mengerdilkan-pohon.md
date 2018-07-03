@@ -13,13 +13,13 @@ Tanaman atau mungkin semua makhluk bersel biasanya malas ber-reproduksi kalau li
 
 *Sadis yah?*  
 
-:cold_sweat:  
+😰
 
 Bahkan ada yang memaku. 
 
 *Kuntilanak kali..*  
 
-:scream:  
+😱
   
 Hal ini menyebabkan aliran getah yang membawa pati, hormon dll terhambat. Sehingga pertumbuhan terganggu. Anehnya hal ini malah memicu pembentukan bunga dan buah. Mungkin karena tanaman merasa terjadi gangguan sehingga demi kelangsungan spesiesnya, demi meneruskan informasi yang dikumpulkan di DNA, demi keabadian, doi ber-reproduksi. Berbuah.
 
