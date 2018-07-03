@@ -49,7 +49,7 @@ grub rescue > insmod normal
 grub rescue > normal
 ```
 
-Sesuaikan dengan partisi kamu.
+*Sesuaikan dengan partisi kamu.*
 
 Jika tak ada kesalahan, `booting` akan berjalan dan menu grub awal kita akan muncul kembali. Di sini saya enggak langsung masuk ke sistem operasi Linux dan *reinstall* grub. Tapi saya memilih `boot entry` windows buat melanjutkan proses instalasi. Khawatir grub akan terhapus lagi. Kalau mau coba kamu boleh langsung *reinstall* aja.
 
@@ -77,11 +77,15 @@ done
 
 **Mematikan fitur fast startup**
 
-Satu lagi tugas buat kamu *dual-booter*. Yaitu mematikan fitur fast startup windows 10. Karena fitur ini menyebabkan hardisk tidak bisa ditulis saat masuk ke Linux. Read-only.
+Satu lagi tugas buat kamu *dual-booter*. Yaitu mematikan fitur fast startup windows 10. Karena fitur ini menyebabkan hardisk tidak bisa ditulis saat masuk ke Linux. *Read-only.*
 
 <script async src="https://telegram.org/js/telegram-widget.js?4" data-telegram-post="nocan/61" data-width="100%"></script> 
 
 <script async src="https://telegram.org/js/telegram-widget.js?4" data-telegram-post="nocan/62" data-width="100%"></script> 
+
+Dan total kuota yang terpakai buat *upgrade* adalah :
+
+<script async src="https://telegram.org/js/telegram-widget.js?4" data-telegram-post="nocan/56" data-width="100%"></script> 
 
 Assalamualaykum!
 
