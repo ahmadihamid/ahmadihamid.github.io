@@ -37,7 +37,7 @@ Oleh karena itu saya coba tehnik ini dengan harapan pertumbuhan pohon dapat diku
 
 <script async src="https://telegram.org/js/telegram-widget.js?4" data-telegram-post="nocan/68" data-width="100%"></script>
 
-Seru yah? Disiksa malah membuat keturunan. Mungkin para jomblo di luar sana juga begitu. Terlalu nyaman memainkan sendiri `si kecil` sampai lupa menikah. Mungkin harus di-*cincturing* gitu..
+Seru yah? Disiksa malah membuat keturunan. Mungkin para jomblo di luar sana juga begitu. Terlalu nyaman memainkan sendiri `si kecil` sampai lupa menikah. Mungkin harus di-*cincture* gitu..
 
 🙃
 
