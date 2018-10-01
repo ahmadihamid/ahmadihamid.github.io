@@ -1,2 +1,2 @@
 # ahmadihamid.github.io
-blog statis dalam github
+blog statis milik Ahmadi Hamid yang disimpan didalam github
