@@ -35,7 +35,7 @@ permalink: /hb
     
     var fromParams = 852;
     var toParams = 893;
-    var chatIndexesParams = ;
+
       var from = parseInt(fromParams);
       var to = parseInt(toParams);
       
