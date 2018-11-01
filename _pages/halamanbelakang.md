@@ -8,6 +8,11 @@ permalink: /hb
 
 ---
 <html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Teleget</title>
+  </head>
+  <body>
 <div id=“container”></div>
 <script>
  var container = document.getElementById('container')
@@ -26,6 +31,6 @@ permalink: /hb
      embedChat(index)
     }
 </script>
-
+  </body>
 </html>
 ---
