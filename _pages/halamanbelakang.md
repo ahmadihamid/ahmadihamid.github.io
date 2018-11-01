@@ -8,7 +8,6 @@ permalink: /hb
 
 ---
 <html>
- [In reply to AhmadiHam.id]
 <div id=“container”></div>
 <script>
  var container = document.getElementById('container')
