@@ -7,6 +7,8 @@ permalink: /hb
 ---
 
 ---
+<html>
+  <div></div>
   <script>
   (function() {
     var container = document.querySelector('div');
@@ -43,4 +45,5 @@ permalink: /hb
       insertJs();
   })();
   </script>
+</html>
 ---
