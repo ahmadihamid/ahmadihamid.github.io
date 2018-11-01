@@ -3,6 +3,7 @@ layout: page
 title: Halaman Belakang
 subtitle: Halaman Belakang AhmadiHam.id
 comments: true
+permalink: /hb
 ---
 
 ---
