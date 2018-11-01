@@ -9,41 +9,20 @@ permalink: /hb
 ---
 <html>
   <div></div>
-  <script>
-  (function() {
-    var container = document.querySelector('div');
-        
-    var pageUrl = new URL(window.location);
-    var groupParams = halamanbelakang;
+<script>
+var chatWrapper=document.getElementsByClassName('chat-wrapper')[0],
+groupInput=halamanbelakang,
+fromInput=851,
+toInput=853;
 
-    var embedChat = function(chatIndex) {
-      var quote = document.createElement('blockquote');
-      quote.classList.add('telegram-post');
-      quote.dataset.telegramPost = `${groupParams}`;
-      quote.dataset.width = '100%';
-        
-      container.appendChild(quote);
-    };
-    
-    var insertJs = function() {
-      var script = document.createElement('script');
-      script.src = 'https://telegram.org/js/telegram-widget.js';
-      script.setAttribute('async', '');
-      
-      document.body.appendChild(script);
-    };
-    
-    var fromParams = 852;
-    var toParams = 893;
+var chatFrom=parseInt(fromInput.value),chatTo=parseInt(toInput.value),chatGroup=groupInput.value;
+chatWrapper.innerHTML='';
+for(var chatIndex=chatFrom;chatIndex<=chatTo;chatIndex++){var embededChat=document.createElement('script');
+embededChat.src='https://telegram.org/js/telegram-widget.js';
+embededChat.setAttribute('async','');
+embededChat.dataset.telegramPost=`${chatGroup}/${chatIndex}`;
+embededChat.dataset.width='100%';chatWrapper.appendChild(embededChat);}});
+</script>
 
-      var from = parseInt(fromParams);
-      var to = parseInt(toParams);
-      
-      for (var chatIndex = from; chatIndex <= to; chatIndex++) {
-        embedChat(chatIndex);
-      }
-      insertJs();
-  })();
-  </script>
 </html>
 ---
