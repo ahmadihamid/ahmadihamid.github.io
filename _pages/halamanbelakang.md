@@ -7,7 +7,6 @@ permalink: /hb
 ---
 
 ---
-
   <script>
   (function() {
     var container = document.querySelector('div');
@@ -18,7 +17,7 @@ permalink: /hb
     var embedChat = function(chatIndex) {
       var quote = document.createElement('blockquote');
       quote.classList.add('telegram-post');
-      quote.dataset.telegramPost = `${groupParams}/${chatIndex}`;
+      quote.dataset.telegramPost = `${groupParams}`;
       quote.dataset.width = '100%';
         
       container.appendChild(quote);
