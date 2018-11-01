@@ -10,7 +10,7 @@ permalink: /hb
 <html>
   <div></div>
 <script>
-var chatWrapper=document.getElementsByClassName('chat-wrapper')[0],
+var chatWrapper=document.querySelector('div'),
 groupInput=halamanbelakang,
 fromInput=851,
 toInput=853;
