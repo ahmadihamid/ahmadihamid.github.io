@@ -8,20 +8,24 @@ permalink: /hb
 
 ---
 <html>
-  <div></div>
+ [In reply to AhmadiHam.id]
+<div id=“container”></div>
 <script>
-var chatWrapper=document.querySelector('div'),
-groupInput=halamanbelakang,
-fromInput=851,
-toInput=853;
+ var container = document.getElementById('container')
+    var username = 'AnimeIndo'
+    let start = 1
+    let end = 3
+    function embedChat(index) {
+     let script = document.createElement('script')
+        script.src = 'https://telegram.org/js/telegram-widget.js'
+        script.setAttribute('async', '')
+        script.setAttribute('data-telegram-post', `${username}/${index}`)
 
-var chatFrom=parseInt(fromInput.value),chatTo=parseInt(toInput.value),chatGroup=groupInput.value;
-chatWrapper.innerHTML='';
-for(var chatIndex=chatFrom;chatIndex<=chatTo;chatIndex++){var embededChat=document.createElement('script');
-embededChat.src='https://telegram.org/js/telegram-widget.js';
-embededChat.setAttribute('async','');
-embededChat.dataset.telegramPost=`${chatGroup}/${chatIndex}`;
-embededChat.dataset.width='100%';chatWrapper.appendChild(embededChat);}});
+        container.appendChild(script)
+    }
+    for (let index = start; index <= end; index++) {
+     embedChat(index)
+    }
 </script>
 
 </html>
