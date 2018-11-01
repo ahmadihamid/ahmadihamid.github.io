@@ -34,9 +34,6 @@ permalink: /hb
     var fromParams = 852;
     var toParams = 893;
     var chatIndexesParams = ;
-    
-    
-    if (groupParams && fromParams && toParams) {
       var from = parseInt(fromParams);
       var to = parseInt(toParams);
       
@@ -44,15 +41,6 @@ permalink: /hb
         embedChat(chatIndex);
       }
       insertJs();
-    } else if (groupParams && chatIndexesParams) {
-      var chatIndexes = chatIndexesParams.split(',');
-      for (var chatIndex of chatIndexes) {
-        embedChat(chatIndex.trim());
-      }
-      insertJs();
-    } else {
-      container.innerHTML = 'example: https://teleget.neocities.org/?group=pegelounge&from=1&to=10';
-    }
   })();
   </script>
 ---
